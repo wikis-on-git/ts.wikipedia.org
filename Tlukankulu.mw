@@ -84,7 +84,9 @@ Feel free to try your formatting and editing skills at the [[Wikipedia:Sandbox|S
 </div>
 </div>
 
-<div class="plainlinks">
-; Sister projects
-: [http://meta.wikipedia.org Meta-Wikipedia]&nbsp;· [http://wiktionary.org Wiktionary]&nbsp;· [http://wikibooks.org Wikibooks]&nbsp;· [http://wikiquote.org Wikiquote]&nbsp;· [http://sources.wikipedia.org WikiSource]
-</div>
+{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
+|-
+! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Verdana; color:black" |Tindzisana ta Wikipedia
+|-
+| bgcolor="#FFFFFF" style="font: 95% Verdana;" align="left" |{{Wikipediasister}}
+|}
