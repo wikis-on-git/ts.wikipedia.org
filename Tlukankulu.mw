@@ -88,9 +88,3 @@ Feel free to try your formatting and editing skills at the [[Wikipedia:Sandbox|S
 ; Sister projects
 : [http://meta.wikipedia.org Meta-Wikipedia]&nbsp;· [http://wiktionary.org Wiktionary]&nbsp;· [http://wikibooks.org Wikibooks]&nbsp;· [http://wikiquote.org Wikiquote]&nbsp;· [http://sources.wikipedia.org WikiSource]
 </div>
-
-<!-- interwikis to large Wikipedias (more that 10,000 articles) -->
-[[ar:]][[id:]][[ms:]][[bg:]][[ca:]][[cs:]][[da:]][[de:]][[et:]][[el:]][[en:]][[es:]][[eo:]][[fa:]][[fr:]][[gl:]][[ko:]][[he:]][[hr:]][[io:]][[is:]][[it:]][[lt:]][[hu:]][[nl:]][[ja:]][[no:]][[nn:]][[pl:]][[pt:]][[ro:]][[ru:]][[sk:]][[sl:]][[sr:]][[fi:]][[sv:]][[th:]][[tr:]][[uk:]][[zh:]]
-
-<!----------Interwiki strapline---------->
-{{MainPageInterwikis}}
