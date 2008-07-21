@@ -2,7 +2,7 @@ __NOTOC__ __NOEDITSECTION__
 <!-------------------------------->
 <!--        My User Page        -->
 <!-------------------------------->
-<p style="text-align:center;">Matsalwa ya [[Special:statistics|{{NUMBEROFARTICLES}}]] ku ya emahlweni!</p>
+<p style="text-align:center;">Matsalwa ya [[Special:statistics|'''{{NUMBEROFARTICLES}}''']] ku ya emahlweni!</p>
 
 {| width=100% cellpadding="0" cellspacing="0" valign="top" style="background:#F1FAFF;"
 |-
