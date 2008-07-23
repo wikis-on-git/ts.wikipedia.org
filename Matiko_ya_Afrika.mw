@@ -11,7 +11,7 @@ Add Text!
 
 Libya
 -->
-<div style="position: absolute; z-index: 1; left: 290px; top: 320px">
+<div style="position: absolute; z-index: 1; left: 290px; top: 290px">
 <p style="text-align:center;font-size:75%">[[Libya]]</p></div>
 
 | style="width: 30%; background-color: DarkSeaGreen; border: 1px solid #777777; <!--vertical-align: top; -->-moz-border-radius-topleft: 2px; -moz-border-radius-bottomleft: 2px; -moz-border-radius-topright: 2px; -moz-border-radius-bottomright: 2px;" colspan="1"; rowspan="1"|
