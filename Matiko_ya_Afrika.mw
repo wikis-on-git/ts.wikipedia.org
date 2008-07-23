@@ -1,13 +1,27 @@
-{| cellspacing="0" cellpadding="0" style="margin:0em 0em 1em 0em; width:100%"
-| style="width:100%; vertical-align:top; border:1px solid #777; background-color:Cornsilk;" |
-<div style="border-bottom:1px solid #777; background-color:Wheat; padding:0.2em 0.5em 0.2em 0.5em; font-size:110%; font-weight:bold;">Tshalatshala ro sungula</div>
-<div style="padding:2em 5em 0em 3em;"> <!-- Top, Right, Bottom, Left -->
-[[Image:Africa-Retouch.png]]<!--
+__NOTOC__ __NOEDITSECTION__
+{| cellpadding="10" cellspacing="5" style="width: 100%; background-color: inherit; margin-left: auto; margin-right: auto"
+| style="background-color: DarkSeaGreen; border: 1px solid Gray; -moz-border-radius-topleft: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-topright: 8px; -moz-border-radius-bottomright: 8px; height: 60px;" colspan="2" |
+
+Add Text!
+
+|}
+{| cellpadding="10" cellspacing="5" style="width: 100%; background-color: inherit; margin-left: auto; margin-right: auto"
+| style="background-color: DarkSeaGreen; border: 1px solid Gray; -moz-border-radius-topleft: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-topright: 8px; -moz-border-radius-bottomright: 8px; height: 60px;" colspan="1" |
+{{Image|name=Africa-Retouch.png|pad=2px|float=centre}}<!--
 
 Libya
 -->
 <div style="position: absolute; z-index: 1; left: 210px; top: 290px">
 <p style="text-align:center;font-size:60%">[[Libya]]</p></div>
 
+| style="width: 30%; background-color: DarkSeaGreen; border: 1px solid #777777; <!--vertical-align: top; -->-moz-border-radius-topleft: 2px; -moz-border-radius-bottomleft: 2px; -moz-border-radius-topright: 2px; -moz-border-radius-bottomright: 2px;" colspan="1"; rowspan="1"|
+
+Add Text!
+
+|}
+{| cellpadding="10" cellspacing="5" style="width: 100%; background-color: inherit; margin-left: auto; margin-right: auto"
+| style="background-color: DarkSeaGreen; border: 1px solid Gray; -moz-border-radius-topleft: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-topright: 8px; -moz-border-radius-bottomright: 8px; height: 60px;" colspan="2" |
+
+Add Text!
 
 |}
