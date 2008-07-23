@@ -7,12 +7,12 @@ Add Text!
 |}
 {| cellpadding="10" cellspacing="5" style="width: 100%; background-color: inherit; margin-left: auto; margin-right: auto"
 | style="background-color: DarkSeaGreen; border: 1px solid Gray; -moz-border-radius-topleft: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-topright: 8px; -moz-border-radius-bottomright: 8px; height: 60px;" colspan="1" |
-{{Image|name=Africa-Retouch.png|width=600px|pad=2px|float=centre}}<!--
+<p style="text-align:center;">{{Image|name=Africa-Retouch.png|width=600px|pad=2px|float=centre}}</p><!--
 
 Libya
 -->
-<div style="position: absolute; z-index: 1; left: 210px; top: 290px">
-<p style="text-align:center;font-size:60%">[[Libya]]</p></div>
+<div style="position: absolute; z-index: 1; left: 290px; top: 320px">
+<p style="text-align:center;font-size:75%">[[Libya]]</p></div>
 
 | style="width: 30%; background-color: DarkSeaGreen; border: 1px solid #777777; <!--vertical-align: top; -->-moz-border-radius-topleft: 2px; -moz-border-radius-bottomleft: 2px; -moz-border-radius-topright: 2px; -moz-border-radius-bottomright: 2px;" colspan="1"; rowspan="1"|
 
