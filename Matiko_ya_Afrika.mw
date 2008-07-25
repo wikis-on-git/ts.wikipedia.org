@@ -24,6 +24,12 @@ Add Text!
 <p style="text-align:center;font-size:80%">[[Nigeria]]</p></div></p>
 
 <!-------------------------------->
+<!--  CENTRAL AFRICAN COUNTRIES -->
+<!-------------------------------->
+<div style="position: absolute; z-index: 1; left: 290px; top: 600px">
+<p style="text-align:center;font-size:80%">[[Angola]]</p></div></p>
+
+<!-------------------------------->
 <!--   EAST AFRICAN COUNTRIES   -->
 <!-------------------------------->
 <div style="position: absolute; z-index: 1; left: 455px; top: 565px">
