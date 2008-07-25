@@ -26,13 +26,13 @@ Add Text!
 <!-------------------------------->
 <!--   EAST AFRICAN COUNTRIES   -->
 <!-------------------------------->
-<div style="position: absolute; z-index: 1; left: 400px; top: 400px">
+<div style="position: absolute; z-index: 1; left: 480px; top: 700px">
 <p style="text-align:center;font-size:80%">[[Kenya]]</p></div></p>
 
 <!-------------------------------->
 <!-- SOUTHERN AFRICAN COUNTRIES -->
 <!-------------------------------->
-<div style="position: absolute; z-index: 1; left: 315px; top: 500px">
+<div style="position: absolute; z-index: 1; left: 320px; top: 800px">
 <p style="text-align:center;font-size:80%">[[Afrika Dzonga]]</p></div></p>
 
 
