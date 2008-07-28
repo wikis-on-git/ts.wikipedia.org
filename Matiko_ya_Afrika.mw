@@ -11,11 +11,35 @@ Add Text!
 <!-------------------------------->
 <!--   NORTH AFRICAN COUNTRIES  -->
 <!-------------------------------->
+<div style="position: absolute; z-index: 1; left: 415px; top: 290px">
+<p style="text-align:center;font-size:80%">[[Egypt]]</p></div>
+
 <div style="position: absolute; z-index: 1; left: 315px; top: 280px">
 <p style="text-align:center;font-size:80%">[[Libya]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 415px; top: 290px">
-<p style="text-align:center;font-size:80%">[[Egypt]]</p></div>
+<div style="position: absolute; z-index: 1; left: 395px; top: 387px">
+<p style="text-align:center;font-size:80%">[[1N]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 509px; top: 352px">
+<p style="text-align:center;font-size:80%">[[2N]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 340px; top: 192px">
+<p style="text-align:center;font-size:80%">[[3N]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 325px; top: 380px">
+<p style="text-align:center;font-size:80%">[[4N]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 210px; top: 275px">
+<p style="text-align:center;font-size:80%">[[5N]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 192px; top: 192px">
+<p style="text-align:center;font-size:80%">[[6N]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 95px; top: 204px">
+<p style="text-align:center;font-size:80%">[[7N]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 110px; top: 350px">
+<p style="text-align:center;font-size:80%">[[8N]]</p></div></p>
 
 <!-------------------------------->
 <!--   WEST AFRICAN COUNTRIES   -->
