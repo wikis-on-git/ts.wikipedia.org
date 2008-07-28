@@ -45,9 +45,9 @@ Add Text!
 <!--   WEST AFRICAN COUNTRIES   -->
 <!-------------------------------->
 <div style="position: absolute; z-index: 1; left: 175px; top: 350px">
-<p style="text-align:center;font-size:80%">[[Nigeria]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Mali]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 249px; top: 381px">
+<div style="position: absolute; z-index: 1; left: 260px; top: 371px">
 <p style="text-align:center;font-size:80%">[[Niger]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 246px; top: 425px">
