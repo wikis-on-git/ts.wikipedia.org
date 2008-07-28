@@ -68,6 +68,23 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 575px; top: 580px">
 <p style="text-align:center;font-size:80%">[[Malawi]]</p></div></p>
 
+<div style="position: absolute; z-index: 1; left: 526px; top: 536px">
+<p style="text-align:center;font-size:80%">[[E1]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 560px; top: 518px">
+<p style="text-align:center;font-size:80%">[[E2]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 465px; top: 500px">
+<p style="text-align:center;font-size:80%">[[E3]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 465px; top: 434px">
+<p style="text-align:center;font-size:80%">[[E4]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 596px; top: 394px">
+<p style="text-align:center;font-size:80%">[[E5]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 550px; top: 350px">
+<p style="text-align:center;font-size:80%">[[E6]]</p></div></p>
 
 <!-------------------------------->
 <!-- SOUTHERN AFRICAN COUNTRIES -->
