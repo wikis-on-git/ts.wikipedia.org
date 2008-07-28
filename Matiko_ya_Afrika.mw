@@ -174,8 +174,10 @@ Add Text!
 <!--      ISLAND COUNTRIES      -->
 <!-------------------------------->
 <div style="position: absolute; z-index: 1; left: 25px; top: 723px">
-<p style="text-align:center;font-size:70%">[[Swihlala]] swa Afrika (Islands)</p></div></p>
+<p style="text-align:center;font-size:100%">[[Swihlala]] swa Afrika (Islands)</p></div></p>
 
+<div style="position: absolute; z-index: 1; left: 30px; top: 740px">
+<p style="text-align:left;font-size:70%">*[[Cape Verde]]<br>*[[Cape Verde]]<br>*[[Cape Verde]]<br></p></div></p>
 
 | style="width: 30%; background-color: DarkSeaGreen; border: 1px solid #777777; <!--vertical-align: top; -->-moz-border-radius-topleft: 2px; -moz-border-radius-bottomleft: 2px; -moz-border-radius-topright: 2px; -moz-border-radius-bottomright: 2px;" colspan="1"; rowspan="1"|
 
