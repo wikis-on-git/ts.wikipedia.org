@@ -53,13 +53,13 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 246px; top: 425px">
 <p style="text-align:center;font-size:80%">[[Nigeria]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 100px; top: 577px">
+<div style="position: absolute; z-index: 1; left: 160px; top: 577px">
 <p style="text-align:center;font-size:80%">[[Benin]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 100px; top: 547px">
 <p style="text-align:center;font-size:80%">[[Togo]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 100px; top: 519px">
+<div style="position: absolute; z-index: 1; left: 125px; top: 519px">
 <p style="text-align:center;font-size:80%">[[Ghana]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 175px; top: 406px">
