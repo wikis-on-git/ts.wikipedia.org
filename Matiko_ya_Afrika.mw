@@ -29,11 +29,21 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 320px; top: 615px">
 <p style="text-align:center;font-size:80%">[[Angola]]</p></div></p>
 
+<div style="position: absolute; z-index: 1; left: 368px; top: 518px">
+<p style="text-align:center;font-size:80%">[[Democratic Republic of Congo]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 388px; top: 630px">
+<p style="text-align:center;font-size:80%">[[Zambia]]</p></div></p>
+
 <!-------------------------------->
 <!--   EAST AFRICAN COUNTRIES   -->
 <!-------------------------------->
 <div style="position: absolute; z-index: 1; left: 455px; top: 565px">
 <p style="text-align:center;font-size:80%">[[Kenya]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 580px; top: 580px">
+<p style="text-align:center;font-size:80%">[[Malawi]]</p></div></p>
+
 
 <!-------------------------------->
 <!-- SOUTHERN AFRICAN COUNTRIES -->
@@ -58,9 +68,6 @@ Add Text!
 
 <div style="position: absolute; z-index: 1; left: 487px; top: 776px">
 <p style="text-align:center;font-size:70%">[[Swaziland]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 388px; top: 630px">
-<p style="text-align:center;font-size:80%">[[Zambia]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 404px; top: 667px">
 <p style="text-align:center;font-size:80%">[[Zimbabwe]]</p></div></p>
