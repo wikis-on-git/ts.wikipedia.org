@@ -20,10 +20,10 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 395px; top: 387px">
 <p style="text-align:center;font-size:80%">[[1N]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 519px; top: 325px">
+<div style="position: absolute; z-index: 1; left: 525px; top: 325px">
 <p style="text-align:center;font-size:80%">[[2N]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 340px; top: 192px">
+<div style="position: absolute; z-index: 1; left: 340px; top: 185px">
 <p style="text-align:center;font-size:80%">[[3N]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 325px; top: 380px">
@@ -32,7 +32,7 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 210px; top: 275px">
 <p style="text-align:center;font-size:80%">[[5N]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 192px; top: 192px">
+<div style="position: absolute; z-index: 1; left: 192px; top: 185px">
 <p style="text-align:center;font-size:80%">[[6N]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 95px; top: 204px">
