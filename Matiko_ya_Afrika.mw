@@ -71,10 +71,10 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 25px; top: 471px">
 <p style="text-align:center;font-size:80%">[[Sierra Leone]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 25px; top: 460px">
+<div style="position: absolute; z-index: 1; left: 25px; top: 445px">
 <p style="text-align:center;font-size:80%">[[Guinea]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 25px; top: 440px">
+<div style="position: absolute; z-index: 1; left: 25px; top: 420px">
 <p style="text-align:center;font-size:80%">[[Guinea Bissau]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 25px; top: 390px">
@@ -83,7 +83,7 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 25px; top: 360px">
 <p style="text-align:center;font-size:80%">[[Senegal]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 25px; top: 360px">
+<div style="position: absolute; z-index: 1; left: 150px; top: 443px">
 <p style="text-align:center;font-size:60%">[[Cote D'Ivoire]]</p></div></p>
 
 <!-------------------------------->
