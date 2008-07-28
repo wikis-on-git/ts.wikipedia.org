@@ -38,14 +38,32 @@ Add Text!
 <!-------------------------------->
 <!-- SOUTHERN AFRICAN COUNTRIES -->
 <!-------------------------------->
-<div style="position: absolute; z-index: 1; left: 378px; top: 630px">
-<p style="text-align:center;font-size:80%">[[Zambia]]</p></div></p>
-
 <div style="position: absolute; z-index: 1; left: 350px; top: 770px">
 <p style="text-align:center;font-size:70%">[[Afrika Dzonga]]</p></div></p>
 
+<div style="position: absolute; z-index: 1; left: 369px; top: 687px">
+<p style="text-align:center;font-size:70%">[[Botswana]]</p></div></p>
 
+<div style="position: absolute; z-index: 1; left: 474px; top: 770px">
+<p style="text-align:center;font-size:70%">[[Lesotho]]</p></div></p>
 
+<div style="position: absolute; z-index: 1; left: 596px; top: 670px">
+<p style="text-align:center;font-size:70%">[[Madagascar]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 474px; top: 741px">
+<p style="text-align:center;font-size:70%">[[Mozambique]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 316px; top: 687px">
+<p style="text-align:center;font-size:70%">[[Namibia]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 474px; top: 741px">
+<p style="text-align:center;font-size:70%">[[Swaziland]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 378px; top: 630px">
+<p style="text-align:center;font-size:80%">[[Zambia]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 404px; top: 667px">
+<p style="text-align:center;font-size:80%">[[Zimbabwe]]</p></div></p>
 
 | style="width: 30%; background-color: DarkSeaGreen; border: 1px solid #777777; <!--vertical-align: top; -->-moz-border-radius-topleft: 2px; -moz-border-radius-bottomleft: 2px; -moz-border-radius-topright: 2px; -moz-border-radius-bottomright: 2px;" colspan="1"; rowspan="1"|
 
