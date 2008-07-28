@@ -18,28 +18,28 @@ Add Text!
 <p style="text-align:center;font-size:80%">[[Libya]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 405px; top: 387px">
-<p style="text-align:center;font-size:80%">[[1N]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Sudan]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 525px; top: 325px">
-<p style="text-align:center;font-size:80%">[[2N]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Eitrea]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 340px; top: 187px">
-<p style="text-align:center;font-size:80%">[[3N]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Tunisia]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 325px; top: 380px">
-<p style="text-align:center;font-size:80%">[[4N]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Chad]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 210px; top: 275px">
-<p style="text-align:center;font-size:80%">[[5N]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Algeria]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 185px; top: 187px">
-<p style="text-align:center;font-size:80%">[[6N]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Morocco]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 35px; top: 310px">
-<p style="text-align:center;font-size:80%">[[7N]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[western Sahara]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 110px; top: 350px">
-<p style="text-align:center;font-size:80%">[[8N]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Mauritania]]</p></div></p>
 
 <!-------------------------------->
 <!--   WEST AFRICAN COUNTRIES   -->
@@ -48,41 +48,43 @@ Add Text!
 <p style="text-align:center;font-size:80%">[[Nigeria]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 249px; top: 381px">
-<p style="text-align:center;font-size:80%">[[W1]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Niger]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 246px; top: 425px">
-<p style="text-align:center;font-size:80%">[[W2]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Nigeria]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 100px; top: 577px">
-<p style="text-align:center;font-size:80%">[[W3]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Benin]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 100px; top: 547px">
-<p style="text-align:center;font-size:80%">[[W4]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Togo]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 100px; top: 519px">
-<p style="text-align:center;font-size:80%">[[W5]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Ghana]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 175px; top: 406px">
-<p style="text-align:center;font-size:80%">[[W6]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Burkinafaso]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 50px; top: 496px">
-<p style="text-align:center;font-size:80%">[[W7]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Liberia]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 25px; top: 471px">
-<p style="text-align:center;font-size:80%">[[W8]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Sierra Leone]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 25px; top: 440px">
-<p style="text-align:center;font-size:80%">[[W9]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Guinea]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 25px; top: 410px">
-<p style="text-align:center;font-size:80%">[[W10]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Guinea Bissau|'''GB''']]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 25px; top: 390px">
-<p style="text-align:center;font-size:80%">[[W11]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Gambia]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 25px; top: 360px">
-<p style="text-align:center;font-size:80%">[[W12]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Senegal]]</p></div></p>
 
+<div style="position: absolute; z-index: 1; left: 25px; top: 360px">
+<p style="text-align:center;font-size:60%">[[Cote D'Ivoire]]</p></div></p>
 
 <!-------------------------------->
 <!--  CENTRAL AFRICAN COUNTRIES -->
@@ -97,46 +99,46 @@ Add Text!
 <p style="text-align:center;font-size:80%">[[Zambia]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 333px; top: 452px">
-<p style="text-align:center;font-size:80%">[[C1]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Central African Republic|Central Africa]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 281px; top: 473px">
-<p style="text-align:center;font-size:80%">[[C2]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Cameroon]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 100px; top: 632px">
-<p style="text-align:center;font-size:80%">[[C3]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Equetorial Guinea]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 100px; top: 678px">
-<p style="text-align:center;font-size:80%">[[C4]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Gongo Republic]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 600px; top: 480px">
-<p style="text-align:center;font-size:80%">[[C5]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Uganda]]</p></div></p>
 
 <!-------------------------------->
 <!--   EAST AFRICAN COUNTRIES   -->
 <!-------------------------------->
 <div style="position: absolute; z-index: 1; left: 455px; top: 565px">
-<p style="text-align:center;font-size:80%">[[Kenya]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Tanzania]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 575px; top: 580px">
 <p style="text-align:center;font-size:80%">[[Malawi]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 546px; top: 544px">
-<p style="text-align:center;font-size:80%">[[E1]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Burundi]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 600px; top: 518px">
-<p style="text-align:center;font-size:80%">[[E2]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Rwanda]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 475px; top: 500px">
-<p style="text-align:center;font-size:80%">[[E3]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Kenya]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 485px; top: 444px">
-<p style="text-align:center;font-size:80%">[[E4]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Ethiopia]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 621px; top: 394px">
-<p style="text-align:center;font-size:80%">[[E5]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Somalia]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 575px; top: 350px">
-<p style="text-align:center;font-size:80%">[[E6]]</p></div></p>
+<p style="text-align:center;font-size:80%">[[Djibouti]]</p></div></p>
 
 <!-------------------------------->
 <!-- SOUTHERN AFRICAN COUNTRIES -->
