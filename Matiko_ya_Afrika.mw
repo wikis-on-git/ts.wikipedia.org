@@ -59,6 +59,21 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 388px; top: 630px">
 <p style="text-align:center;font-size:80%">[[Zambia]]</p></div></p>
 
+<div style="position: absolute; z-index: 1; left: 333px; top: 452px">
+<p style="text-align:center;font-size:80%">[[C1]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 281px; top: 473px">
+<p style="text-align:center;font-size:80%">[[C2]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 100px; top: 622px">
+<p style="text-align:center;font-size:80%">[[C3]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 100px; top: 667px">
+<p style="text-align:center;font-size:80%">[[C4]]</p></div></p>
+
+<div style="position: absolute; z-index: 1; left: 560px; top: 480px">
+<p style="text-align:center;font-size:80%">[[C5]]</p></div></p>
+
 <!-------------------------------->
 <!--   EAST AFRICAN COUNTRIES   -->
 <!-------------------------------->
