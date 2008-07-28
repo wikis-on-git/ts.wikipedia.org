@@ -53,34 +53,34 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 246px; top: 425px">
 <p style="text-align:center;font-size:80%">[[W2]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 90px; top: 577px">
+<div style="position: absolute; z-index: 1; left: 100px; top: 577px">
 <p style="text-align:center;font-size:80%">[[W3]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 90px; top: 537px">
+<div style="position: absolute; z-index: 1; left: 100px; top: 537px">
 <p style="text-align:center;font-size:80%">[[W4]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 60px; top: 509px">
+<div style="position: absolute; z-index: 1; left: 100px; top: 509px">
 <p style="text-align:center;font-size:80%">[[W5]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 175px; top: 406px">
 <p style="text-align:center;font-size:80%">[[W6]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 20px; top: 486px">
+<div style="position: absolute; z-index: 1; left: 50px; top: 486px">
 <p style="text-align:center;font-size:80%">[[W7]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 20px; top: 461px">
+<div style="position: absolute; z-index: 1; left: 32px; top: 461px">
 <p style="text-align:center;font-size:80%">[[W8]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 20px; top: 440px">
+<div style="position: absolute; z-index: 1; left: 32px; top: 440px">
 <p style="text-align:center;font-size:80%">[[W9]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 20px; top: 420px">
+<div style="position: absolute; z-index: 1; left: 32px; top: 420px">
 <p style="text-align:center;font-size:80%">[[W10]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 20px; top: 390px">
+<div style="position: absolute; z-index: 1; left: 32px; top: 390px">
 <p style="text-align:center;font-size:80%">[[W11]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 20px; top: 380px">
+<div style="position: absolute; z-index: 1; left: 32px; top: 380px">
 <p style="text-align:center;font-size:80%">[[W12]]</p></div></p>
 
 
