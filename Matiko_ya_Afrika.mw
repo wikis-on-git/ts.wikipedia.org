@@ -23,7 +23,7 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 525px; top: 325px">
 <p style="text-align:center;font-size:80%">[[2N]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 340px; top: 185px">
+<div style="position: absolute; z-index: 1; left: 340px; top: 187px">
 <p style="text-align:center;font-size:80%">[[3N]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 325px; top: 380px">
@@ -32,7 +32,7 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 210px; top: 275px">
 <p style="text-align:center;font-size:80%">[[5N]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 192px; top: 185px">
+<div style="position: absolute; z-index: 1; left: 185px; top: 187px">
 <p style="text-align:center;font-size:80%">[[6N]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 95px; top: 204px">
@@ -65,7 +65,7 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 455px; top: 565px">
 <p style="text-align:center;font-size:80%">[[Kenya]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 580px; top: 580px">
+<div style="position: absolute; z-index: 1; left: 575px; top: 580px">
 <p style="text-align:center;font-size:80%">[[Malawi]]</p></div></p>
 
 
