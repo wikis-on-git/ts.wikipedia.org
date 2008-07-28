@@ -68,22 +68,22 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 575px; top: 580px">
 <p style="text-align:center;font-size:80%">[[Malawi]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 541px; top: 536px">
+<div style="position: absolute; z-index: 1; left: 551px; top: 536px">
 <p style="text-align:center;font-size:80%">[[E1]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 575px; top: 518px">
+<div style="position: absolute; z-index: 1; left: 590px; top: 518px">
 <p style="text-align:center;font-size:80%">[[E2]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 480px; top: 500px">
+<div style="position: absolute; z-index: 1; left: 490px; top: 500px">
 <p style="text-align:center;font-size:80%">[[E3]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 480px; top: 434px">
+<div style="position: absolute; z-index: 1; left: 490px; top: 434px">
 <p style="text-align:center;font-size:80%">[[E4]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 611px; top: 394px">
+<div style="position: absolute; z-index: 1; left: 621px; top: 394px">
 <p style="text-align:center;font-size:80%">[[E5]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 565px; top: 350px">
+<div style="position: absolute; z-index: 1; left: 575px; top: 350px">
 <p style="text-align:center;font-size:80%">[[E6]]</p></div></p>
 
 <!-------------------------------->
