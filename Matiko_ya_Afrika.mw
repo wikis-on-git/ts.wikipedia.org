@@ -71,11 +71,11 @@ Add Text!
 <div style="position: absolute; z-index: 1; left: 25px; top: 471px">
 <p style="text-align:center;font-size:80%">[[Sierra Leone]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 25px; top: 440px">
+<div style="position: absolute; z-index: 1; left: 25px; top: 460px">
 <p style="text-align:center;font-size:80%">[[Guinea]]</p></div></p>
 
-<div style="position: absolute; z-index: 1; left: 25px; top: 410px">
-<p style="text-align:center;font-size:80%">[[Guinea Bissau|'''GB''']]</p></div></p>
+<div style="position: absolute; z-index: 1; left: 25px; top: 440px">
+<p style="text-align:center;font-size:80%">[[Guinea Bissau]]</p></div></p>
 
 <div style="position: absolute; z-index: 1; left: 25px; top: 390px">
 <p style="text-align:center;font-size:80%">[[Gambia]]</p></div></p>
