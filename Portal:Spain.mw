@@ -96,9 +96,13 @@ minkongomiso yikomba matsalwa lawa mahalavaka ku engeteriwa. Loko uni vuxoko-xok
 
 <div style="float:left; width:49%;"> <!-- This width add to the the margin below to equal 99%-->
 
-{{Random portal component|max=16|seed=27|header=Selected article|subpage=Selected article}}
+{{/box-header|In the news|Portal:Spain/In the news|}}
+{{Portal:Spain/In the news}}
+{{/box-footer|}}
 
-{{Random portal component|max=20|seed=27|header=Selected picture|subpage=Selected picture}}
+{{/box-header|In the news|Portal:Spain/In the news|}}
+{{Portal:Spain/In the news}}
+{{/box-footer|}}
 
 {{/box-header|In the news|Portal:Spain/In the news|}}
 {{Portal:Spain/In the news}}
