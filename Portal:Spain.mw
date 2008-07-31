@@ -29,10 +29,6 @@
 {{/box-header|Autonomous Communities of Spain|Portal:Spain/Autonomous Communities of Spain|}}
 {{Portal:Spain/Autonomous Communities of Spain}}
 {{/box-footer|}}
-
-{{/box-header|WikiProjects|Portal:Spain/Related WikiProjects|}}
-{{Portal:Spain/Related WikiProjects}}
-{{/box-footer|}}
 </div>
 
 <div style="float:right; width:50%"> <!-- This margin should be right of the above -->
@@ -45,10 +41,6 @@
 {{Portal:Spain/Select place}}
 {{/box-footer|}}
 
-{{/box-header|In the news|Portal:Spain/In the news|}}
-{{Portal:Spain/In the news}}
-{{/box-footer|}}
-
 {{/box-header|Selected quotes|Portal:Spain/Selected quotes|}}
 {{Portal:Spain/Selected quotes}}
 {{/box-footer|}}
@@ -58,8 +50,6 @@
 {{/box-header|Categories|Portal:Spain/Categories|}}
 {{Portal:Spain/Categories}}
 {{/box-footer|}}
-
-
 
 {{/box-header|Spain topics|Portal:Spain/Topics|}}
 {{/Topics}}
