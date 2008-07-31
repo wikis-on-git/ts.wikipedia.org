@@ -1,30 +1,53 @@
-<noinclude>__NOTOC____NOEDITSECTION__
-{|
-{{columnota}}
-{{caja titular|Portal de Conflictos en el Cuerno de África|3='''[[Conflictos en el Cuerno de África|Más sobre los Conflictos en el Cuerno de África...]]'''}}
+__NOTOC__ 
+<!-------------------------------->
+<!--      Full Column           -->
+<!-------------------------------->
+{|width=100% border="0" cellspacing="0" cellpadding="0" style="padding:0px; margin:2px;" |
 |-
-{{columna|55}}
-{{caja portal|Conflicto destacado|/Conflicto}}
-{{caja portal|¿Sabías que...|/Sabías que}}
+|colspan=3 valign=top|
+{{Robelbox|theme=1|title=THE SPAIN PORTAL|icon=Crystal_Clear_action_history.png|iconwidth=60px|height=30%}}
+<div style="{{Robelbox/pad}}">
+<center>{{image|name=cheetah.png|pad=3px}}</center>
 
-{{columna|45}}
-{{caja portal|Por dónde empezar|Wikiportal:Por donde empezar|base=Plantilla:}}
-{{caja portal|Tareas pendientes}}
-{{caja portal|Artículos solicitados|/Solicitados}}
-{{caja portal|Categorías|fondo=#f9f9ff|encabezado=darkgreen|color=white}}
-{{caja portal|Wikimedia}}
+</big><br>
+</div>
+{{Robelbox/close}}
+<!-------------------------------->
+<!--     Left Column            -->
+<!-------------------------------->
 |-
-{{columnota}}
-{{caja cierre|Mapa de conflictos|/Mapa}}
-{{caja cierre|Otros portales|Portales}}
+|width=65% valign=top height=50px|
+{{Robelbox|theme=1|title=Selected article|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
+<div style="{{Robelbox/pad}}">
+{{Afrika-xifaniso}}
+</div>
+{{Robelbox/close}}
+<!-------------------------------->
+<!--     Right Column           -->
+<!-------------------------------->
+|width=35% valign=top height=50px|
+{{Robelbox|theme=1|title=Selected biography|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
+<div style="{{Robelbox/pad}}">
+{{:Portal:Spain/About}}
+</div>
+{{Robelbox/close}}
+{{Robelbox|theme=1|title=Matsalwa malavaka ku Engeteriwa|height=30%}}
+<div style="{{Robelbox/pad}}">
+minkongomiso yikomba matsalwa lawa mahalavaka ku engeteriwa. Loko uni vuxoko-xoko byo karhi, unga kongoma eka tsalwa leri yelanaka ivi u sungula ku tsala. Kumbe langutisa tsalwa leri yelanaka eka [[:en:wikipedia:Portal:Africa|Nyangwa-nkulu wa Afrika eka wikipediya ya xinghezi]]. 
+</div>
+{{Robelbox/close}}
 |}
-
-</noinclude><includeonly><div style="clear:right; float:right; border:solid #aaaaaa 1px; margin:0 0 1ex 1em;">
-{| cellspacing="0" style="width:238px; background:#f9f9f9"><tr>
-|style="width:45px;height:45px;text-align:center;"|[[Imagen:portal.gif|Portal]]
-|style="font-size:8pt;padding:4pt;line-height:1.25em;"|
-<div style="font-size:9pt;font-weight:bold;font-style:italic;">[[Portal:Conflictos en el Cuerno de África]]</div>Artículos relacionados con [[Conflictos en el Cuerno de África]]
-|}</div></includeonly><noinclude>
-[[Categoría:Guerras en África|*]]
-[[Categoría:Wikipedia:Portales|Conflictos en el Cuerno de África]]
-</noinclude>
+{{Robelbox|theme=1|title=Ti wiki tinwana to yelana na nyangwa-nkulu wa ta Vuqambhi|height=30%}}
+<div style="{{Robelbox/pad}}">
+{| align="center" style="text-align:left"
+| [[Image:Wikiquote-logo.svg|35px|<nowiki></nowiki>]]
+| [[q:Africa|'''Afrika e ka Wikiquote''']]</br> Quotes
+| [[Image:Commons-logo.svg|35px|<nowiki></nowiki>]]
+| [[commons:Africa|'''Afrika e ka Commons''']]</br> Images
+| [[Image:Wikisource-logo.svg|35px|<nowiki></nowiki>]]
+| [[s:Category:Africa|'''Afrika e ka Wikisource''']]</br> Texts
+| [[Image:Wikibooks-logo.svg|35px|<nowiki></nowiki>]]
+| [[:wikibooks:Africa|'''Afrika e ka Wikibooks''']]</br> Manuals & Texts
+|}
+</div>
+{{Robelbox/close}}
