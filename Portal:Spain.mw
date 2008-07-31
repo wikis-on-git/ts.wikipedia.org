@@ -123,7 +123,9 @@ minkongomiso yikomba matsalwa lawa mahalavaka ku engeteriwa. Loko uni vuxoko-xok
 {{Portal:Spain/In the news}}
 {{/box-footer|}}
 
-{{Random portal component|max=4|seed=27|header=Selected quote|subpage=Selected quote}}
+{{/box-header|In the news|Portal:Spain/In the news|}}
+{{Portal:Spain/In the news}}
+{{/box-footer|}}
 
 {{/box-header|Featured content|Portal:Spain/Exemplary content|}}
 {{Portal:Spain/Exemplary content}}
