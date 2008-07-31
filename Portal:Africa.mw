@@ -34,6 +34,7 @@ minkongomiso ya rihlaza yikomba matsalwa lawa mahalavaka ku hlakarhirisiwa. Loko
 |width=35% valign=top height=50px|
 {{Robelbox|theme=1|title=Endzeni ka Nyangwa-nkulu lowu|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
 <div style="{{Robelbox/pad}}">
+{|style="width: 30%; background-color:"inherit"; border: 1px solid #777777; <!--vertical-align: top; -->-moz-border-radius-topleft: 2px; -moz-border-radius-bottomleft: 2px; -moz-border-radius-topright: 2px; -moz-border-radius-bottomright: 2px;" colspan="1"; rowspan="1"|
 <div style="width:35.0%; float:left;vertical-align:top">
 * [[Culture of Africa|Ndhzavuko]]
 </div>
@@ -94,7 +95,7 @@ minkongomiso ya rihlaza yikomba matsalwa lawa mahalavaka ku hlakarhirisiwa. Loko
 {{Robelbox|theme=1|title=Matsalwa malavaka ku engeteriwa|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
 <div style="{{Robelbox/pad}}">
 minkongomiso yo tshuka yikomba matsalwa lawa mahalavaka ku engeteriwa. Loko uni vuxoko-xoko byo karhi, unga tumbuluxa tsalwa leri yelanaka ivi u sungula ku tsala. Kumbe unga langutisa tsalwa leri yelanaka eka [[:en:wikipedia:Portal:Africa|Nyangwa-nkulu wa Afrika eka wikipediya ya xinghezi]]. 
-
+|}
 </div>
 {{Robelbox/close}}
 |}
