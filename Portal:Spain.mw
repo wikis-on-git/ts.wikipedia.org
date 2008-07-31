@@ -20,12 +20,6 @@ __NOTOC__
 {{Robelbox|theme=1|title=Selected article|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
 <div style="{{Robelbox/pad}}">
 {{Spain}}
-</div>
-{{Robelbox/close}}
-|-
-|width=65% valign=top height=50px|
-{{Robelbox|theme=1|title=Selected article|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
-<div style="{{Robelbox/pad}}">
 {{Spain}}
 </div>
 {{Robelbox/close}}
@@ -36,117 +30,6 @@ __NOTOC__
 {{Robelbox|theme=1|title=Selected biography|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
 <div style="{{Robelbox/pad}}">
 {{:Portal:Spain/Biography}}
-</div>
-{{Robelbox/close}}
-{{Robelbox|theme=1|title=Matsalwa malavaka ku Engeteriwa|height=30%}}
-<div style="{{Robelbox/pad}}">
-minkongomiso yikomba matsalwa lawa mahalavaka ku engeteriwa. Loko uni vuxoko-xoko byo karhi, unga kongoma eka tsalwa leri yelanaka ivi u sungula ku tsala. Kumbe langutisa tsalwa leri yelanaka eka [[:en:wikipedia:Portal:Africa|Nyangwa-nkulu wa Afrika eka wikipediya ya xinghezi]]. 
-</div>
-{{Robelbox/close}}
-|}
-{{Robelbox|theme=1|title=Ti wiki tinwana to yelana na nyangwa-nkulu wa ta Vuqambhi|height=30%}}
-<div style="{{Robelbox/pad}}">
-{| align="center" style="text-align:left"
-| [[Image:Wikiquote-logo.svg|35px|<nowiki></nowiki>]]
-| [[q:Africa|'''Afrika e ka Wikiquote''']]</br> Quotes
-| [[Image:Commons-logo.svg|35px|<nowiki></nowiki>]]
-| [[commons:Africa|'''Afrika e ka Commons''']]</br> Images
-| [[Image:Wikisource-logo.svg|35px|<nowiki></nowiki>]]
-| [[s:Category:Africa|'''Afrika e ka Wikisource''']]</br> Texts
-| [[Image:Wikibooks-logo.svg|35px|<nowiki></nowiki>]]
-| [[:wikibooks:Africa|'''Afrika e ka Wikibooks''']]</br> Manuals & Texts
-|}
-</div>
-{{Robelbox/close}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-------------------------------->
-<!--      Full Column           -->
-<!-------------------------------->
-{|width=100% border="0" cellspacing="0" cellpadding="0" style="padding:0px; margin:2px;" |
-|-
-|colspan=3 valign=top|
-{{Robelbox|theme=1|title=THE SPAIN PORTAL|icon=Crystal_Clear_action_history.png|iconwidth=60px|height=30%}}
-<div style="{{Robelbox/pad}}">
-<center>{{Portal:Spain/Intro}}</center>
-
-</big><br>
-</div>
-{{Robelbox/close}}
-<!-------------------------------->
-<!--     Left Column            -->
-<!-------------------------------->
-|-
-|width=50% valign=top height=50px|
-{{Robelbox|theme=1|title=Selected biography|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
-<div style="{{Robelbox/pad}}">
-{{:Portal:Spain/About}}
-</div>
-{{Robelbox/close}}
-{{Robelbox|theme=1|title=Matsalwa malavaka ku Engeteriwa|height=30%}}
-<div style="{{Robelbox/pad}}">
-minkongomiso yikomba matsalwa lawa mahalavaka ku engeteriwa. Loko uni vuxoko-xoko byo karhi, unga kongoma eka tsalwa leri yelanaka ivi u sungula ku tsala. Kumbe langutisa tsalwa leri yelanaka eka [[:en:wikipedia:Portal:Africa|Nyangwa-nkulu wa Afrika eka wikipediya ya xinghezi]]. 
-</div>
-{{Robelbox/close}}
-|}
-{{Robelbox|theme=1|title=Ti wiki tinwana to yelana na nyangwa-nkulu wa ta Vuqambhi|height=30%}}
-<div style="{{Robelbox/pad}}">
-{| align="center" style="text-align:left"
-| [[Image:Wikiquote-logo.svg|35px|<nowiki></nowiki>]]
-| [[q:Africa|'''Afrika e ka Wikiquote''']]</br> Quotes
-| [[Image:Commons-logo.svg|35px|<nowiki></nowiki>]]
-| [[commons:Africa|'''Afrika e ka Commons''']]</br> Images
-| [[Image:Wikisource-logo.svg|35px|<nowiki></nowiki>]]
-| [[s:Category:Africa|'''Afrika e ka Wikisource''']]</br> Texts
-| [[Image:Wikibooks-logo.svg|35px|<nowiki></nowiki>]]
-| [[:wikibooks:Africa|'''Afrika e ka Wikibooks''']]</br> Manuals & Texts
-|}
-</div>
-{{Robelbox/close}}
-<!-------------------------------->
-<!--     Right Column           -->
-<!-------------------------------->
-|width=50% valign=top height=50px|
-{{Robelbox|theme=1|title=Selected biography|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
-<div style="{{Robelbox/pad}}">
-{{:Portal:Spain/About}}
 </div>
 {{Robelbox/close}}
 {{Robelbox|theme=1|title=Matsalwa malavaka ku Engeteriwa|height=30%}}
