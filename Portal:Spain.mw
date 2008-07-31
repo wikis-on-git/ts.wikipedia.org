@@ -55,3 +55,110 @@ minkongomiso yikomba matsalwa lawa mahalavaka ku engeteriwa. Loko uni vuxoko-xok
 |}
 </div>
 {{Robelbox/close}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{| width="100%" cellpadding="5" cellspacing="10" style="background:#F0F8FF; border-style:solid; border-width:1px; border-color:darkkhaki;"
+| width="55%" valign="top" style="padding: 0; margin:0;" | 
+{{browsebar}}
+<!-- This portal was created using subst:box portal skeleton| topic=Topic|  -->
+
+<div style="float:left; width:100%;">
+
+{{/box-header|'''<big>T</big>HE <big>S</big>PAIN <big>P</big>ORTAL'''|Portal:Spain/Intro|}}
+{{Portal:Spain/Intro}}
+{{/box-footer|}}
+
+</div>
+<center><span class="plainlinks">[http://en.wikipedia.org/w/index.php?title=Portal:Spain&action=purge '''<font color="002bb8">Show new selected content'''</font>]</span></center>
+
+<div style="float:left; width:49%;"> <!-- This width add to the the margin below to equal 99%-->
+
+{{Random portal component|max=16|seed=27|header=Selected article|subpage=Selected article}}
+
+{{Random portal component|max=20|seed=27|header=Selected picture|subpage=Selected picture}}
+
+{{/box-header|In the news|Portal:Spain/In the news|}}
+{{Portal:Spain/In the news}}
+{{/box-footer|}}
+
+{{/box-header|WikiProjects|Portal:Spain/Related WikiProjects|}}
+{{Portal:Spain/Related WikiProjects}}
+{{/box-footer|}}
+</div>
+
+<div style="float:right; width:50%"> <!-- This margin should be right of the above -->
+
+{{Random portal component|max=21|seed=27|header=Selected biography|subpage=Selected biography}}
+
+{{/box-header|Did you know?|Portal:Spain/Did you know/{{CURRENTMONTH}}|}}
+{{Portal:Spain/Did you know/{{CURRENTMONTH}}}}
+{{/box-footer|}}
+
+{{Random portal component|max=4|seed=27|header=Selected quote|subpage=Selected quote}}
+
+{{/box-header|Featured content|Portal:Spain/Exemplary content|}}
+{{Portal:Spain/Exemplary content}}
+{{/box-footer|}}
+</div>
+
+<div style="float:right; width:100%">
+{{/box-header|Categories|Portal:Spain/Categories|}}
+{{Portal:Spain/Categories}}
+{{/box-footer|}}
+
+{{/box-header|Things you can do|Portal:Spain/Things you can do|}}
+{{Portal:Spain/Things you can do}}
+{{/box-footer|}}
+
+{{/box-header|Spain topics|Portal:Spain/Topics|}}
+{{/Topics}}
+{{/box-footer|}}
+
+{{/box-header|Related portals|Portal:Spain/Related portals|}}
+{{Portal:Spain/Related portals}}
+{{/box-footer|}}
+
+{{/box-header|''Associated Wikimedia''|Portal:Spain/Associated Wikimedia|Associated Wikimedia}}
+{{/Associated Wikimedia}}
+{{/box-footer|}}
+</div>
+{{portals}}
+<center>{{purgepage}}</center>
