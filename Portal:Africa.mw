@@ -34,68 +34,7 @@ minkongomiso ya rihlaza yikomba matsalwa lawa mahalavaka ku hlakarhirisiwa. Loko
 |width=35% valign=top height=50px|
 {{Robelbox|theme=1|title=Endzeni ka Nyangwa-nkulu lowu|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
 <div style="{{Robelbox/pad}}">
-{|style="width: 30%; background-color:"inherit"; border: 1px solid #777777; <!--vertical-align: top; -->-moz-border-radius-topleft: 2px; -moz-border-radius-bottomleft: 2px; -moz-border-radius-topright: 2px; -moz-border-radius-bottomright: 2px;" colspan="1"; rowspan="1"|
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[Culture of Africa|Ndhzavuko]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Architecture of Africa|Vuaki]] ([[List of World Heritage Sites in Africa|Tindhzawu ta ndhavuko]]){{·}} [[African art|Vuqamhi]]{{·}} [[African cinema|Cinema]] ([[List of film festivals in Africa|Mintlangiso ya tifilimi]]{{·}} [[List of African films|Nxaxamelo wa ti filimi]]){{·}} [[Cuisine of Africa|Swakudya]]{{·}}<br/>[[Etiquette in Africa|Matikhomelo]]{{·}} [[Languages of Africa|Tindzimi]]{{·}} [[African literature|Vutsari]] ([[List of African writers by country|Vatsari hi vutiko]]){{·}} [[Music of Africa|Vunanga]] ([[List of African musicians|Vayimbeleri]]){{·}} [[Religion in Africa|Vukhongeri]]</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[Demographics of Africa|Mintsengo ya vanhu]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[African people|Vanhu]]{{·}} [[List of African countries by population|Matiko hi kutala ka vanhu]]{{·}} [[List of African countries by population density|Matiko hi ku tlimbana ka vanhu]]{{·}} [[HIV/AIDS in Africa|HIV/AIDS]]{{·}}<br/>[[Urbanization in Africa|Kurhurhela e ma dorobeni]] ([[List of most populous cities in Africa|Nxaxamelo wa madoroba la ma tlimbaneke]])</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[Economy of Africa|Rifuwo]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[List of African countries by GDP|Matiko kuya hi GDP]]{{·}} [[List of African countries by Human Development Index|Matiko kuya hi HDI]]{{·}} [[Central banks and currencies of Africa|Tibangi-mfumo na Mali]]{{·}} [[Poverty in Africa|Vutsweti]]{{·}} [[Renewable energy in Africa|Matimba ya ntumbuluko]]{{·}} [[List of African stock exchanges|Mavhengele]]</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[Geography of Africa|Ntivo-mbangu]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Matiko ya Africa]]{{·}} [[Ecology of Africa|Ntivo-ntumbuluko]]{{·}} [[List of islands of Africa|Swi hlala swa Afrika]]{{·}} [[List of rivers of Africa|Mi nambu ya Afrika]]{{·}} [[Regions of Africa|Swi fundza]]</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[History of Africa|Matimu]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Colonisation of Africa|ukhumbi bya afrika]] ([[European exploration of Africa|Kunghenela ka Yuropa]]{{·}} [[Vuhlonga e Afrika]]{{·}} [[Kulwetana hi Afrika]]){{·}}<br/>[[Decolonisation of Africa|Kuntshuxa Afrika]]{{·}} [[Economic history of Africa|Matimu ya Rifuwo]]{{·}} [[Military history of Africa|Matimu ya vusocha]] ([[List of conflicts in Africa|Nxaxamelo ya minkwetlembetano]])</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[Politics of Africa|Ti politiki]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Nhlangano wa matiko ya afrika]]{{·}} [[Minhlawulo e Afrika]]{{·}} [[Timfanelo ta vanhu e Afrika]]{{·}} [[Vu-afrika]]</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[:Category:African society|Ntshungu]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Filosofi ya Afrika]]{{·}} [[Education in Africa|Dyondzo]]{{·}} [[Media in Africa|Ta vuhaxi]] ([[List of radio stations in Africa|Nxaxamelo wa swiya nimoya laha Afrika]]{{·}} [[List of television stations in Africa|Nxaxamelo&nbsp;wa&nbsp;switich swa&nbsp;Thelevhixini]])</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[:Category:Sport in Africa|Mintlangu]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Nhlangao wa krikete wa Afrika]]{{·}} [[Mintlangu ya Afrika]]{{·}} [[FIBA Afrika]]{{·}}<br/>[[Nhlangao wa Bholo ya milenge wa Afrika]] ([[Mintlangu ya Bholo ya xi dlodlo xa Afrika]]){{·}} [[List of African stadiums by capacity|Mavala ya mintlangu hi vukulu]]{{·}}<br/>[[Nhlangao wa Rugy wa Afrika]] ([[Xidlodlo xa Afrika]])</small>
-</div>
-</div>
-{{Robelbox/close}}
-{{Robelbox|theme=1|title=Matsalwa malavaka ku engeteriwa|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
-<div style="{{Robelbox/pad}}">
-minkongomiso yo tshuka yikomba matsalwa lawa mahalavaka ku engeteriwa. Loko uni vuxoko-xoko byo karhi, unga tumbuluxa tsalwa leri yelanaka ivi u sungula ku tsala. Kumbe unga langutisa tsalwa leri yelanaka eka [[:en:wikipedia:Portal:Africa|Nyangwa-nkulu wa Afrika eka wikipediya ya xinghezi]]. 
-|}
+{{Portal:Africa/About}}
 </div>
 {{Robelbox/close}}
 |}
