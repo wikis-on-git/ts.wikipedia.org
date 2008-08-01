@@ -1,245 +1,59 @@
-__NOTOC__ __NOEDITSECTION__
-{| cellpadding="10" cellspacing="5" style="width: 100%; background-color: inherit; margin-left: auto; margin-right: auto"
-| style="background-color:#FAFAD2; border: 1px solid Gray; -moz-border-radius-topleft: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-topright: 8px; -moz-border-radius-bottomright: 8px; height: 60px;" colspan="2" |
-
-Add Text!
-
-|}
-{| cellpadding="10" cellspacing="5" style="width: 100%; background-color: inherit; margin-left: auto; margin-right: auto"
-| style="background-color:#FAFAD2; border: 1px solid Gray; -moz-border-radius-topleft: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-topright: 8px; -moz-border-radius-bottomright: 8px; height: 60px;" colspan="1" |
-<p style="text-align:center;">{{Image|name=Africa-ts.png|width=650px|pad=2px|float=centre}}</p>
-<!-------------------------------->
-<!--   NORTH AFRICAN COUNTRIES  -->
-<!-------------------------------->
-<div style="position: absolute; z-index: 1; left: 415px; top: 290px">
-<p style="text-align:center;font-size:80%">[[Egypt]]</p></div>
-
-<div style="position: absolute; z-index: 1; left: 315px; top: 280px">
-<p style="text-align:center;font-size:80%">[[Libya]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 405px; top: 387px">
-<p style="text-align:center;font-size:80%">[[Sudan]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 525px; top: 325px">
-<p style="text-align:center;font-size:80%">[[Eitrea]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 340px; top: 187px">
-<p style="text-align:center;font-size:80%">[[Tunisia]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 325px; top: 380px">
-<p style="text-align:center;font-size:80%">[[Chad]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 210px; top: 275px">
-<p style="text-align:center;font-size:80%">[[Algeria]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 185px; top: 187px">
-<p style="text-align:center;font-size:80%">[[Morocco]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 35px; top: 310px">
-<p style="text-align:center;font-size:80%">[[western Sahara]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 90px; top: 350px">
-<p style="text-align:center;font-size:80%">[[Mauritania]]</p></div></p>
-
-<!-------------------------------->
-<!--   WEST AFRICAN COUNTRIES   -->
-<!-------------------------------->
-<div style="position: absolute; z-index: 1; left: 175px; top: 350px">
-<p style="text-align:center;font-size:80%">[[Mali]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 260px; top: 371px">
-<p style="text-align:center;font-size:80%">[[Niger]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 246px; top: 425px">
-<p style="text-align:center;font-size:80%">[[Nigeria]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 160px; top: 577px">
-<p style="text-align:center;font-size:80%">[[Benin]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 100px; top: 547px">
-<p style="text-align:center;font-size:80%">[[Togo]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 125px; top: 519px">
-<p style="text-align:center;font-size:80%">[[Ghana]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 175px; top: 406px">
-<p style="text-align:center;font-size:80%">[[Burkinafaso]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 50px; top: 496px">
-<p style="text-align:center;font-size:80%">[[Liberia]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 25px; top: 471px">
-<p style="text-align:center;font-size:80%">[[Sierra Leone]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 25px; top: 445px">
-<p style="text-align:center;font-size:80%">[[Guinea]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 25px; top: 420px">
-<p style="text-align:center;font-size:80%">[[Guinea Bissau]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 25px; top: 390px">
-<p style="text-align:center;font-size:80%">[[Gambia]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 25px; top: 360px">
-<p style="text-align:center;font-size:80%">[[Senegal]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 150px; top: 443px">
-<p style="text-align:center;font-size:60%">[[Cote D'Ivoire]]</p></div></p>
-
-<!-------------------------------->
-<!--  CENTRAL AFRICAN COUNTRIES -->
-<!-------------------------------->
-<div style="position: absolute; z-index: 1; left: 320px; top: 615px">
-<p style="text-align:center;font-size:80%">[[Angola]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 368px; top: 518px">
-<p style="text-align:center;font-size:100%">[[Democratic Republic of Congo|'''DRC''']]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 388px; top: 630px">
-<p style="text-align:center;font-size:80%">[[Zambia]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 333px; top: 452px">
-<p style="text-align:center;font-size:80%">[[Central African Republic|Central Africa]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 281px; top: 473px">
-<p style="text-align:center;font-size:80%">[[Cameroon]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 100px; top: 632px">
-<p style="text-align:center;font-size:80%">[[Equetorial Guinea]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 100px; top: 678px">
-<p style="text-align:center;font-size:80%">[[Gongo Republic]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 600px; top: 480px">
-<p style="text-align:center;font-size:80%">[[Uganda]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 280px; top: 518px">
-<p style="text-align:center;font-size:80%">[[Gabon]]</p></div></p>
-
-<!-------------------------------->
-<!--   EAST AFRICAN COUNTRIES   -->
-<!-------------------------------->
-<div style="position: absolute; z-index: 1; left: 455px; top: 565px">
-<p style="text-align:center;font-size:80%">[[Tanzania]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 575px; top: 580px">
-<p style="text-align:center;font-size:80%">[[Malawi]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 546px; top: 544px">
-<p style="text-align:center;font-size:80%">[[Burundi]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 600px; top: 518px">
-<p style="text-align:center;font-size:80%">[[Rwanda]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 475px; top: 500px">
-<p style="text-align:center;font-size:80%">[[Kenya]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 485px; top: 444px">
-<p style="text-align:center;font-size:80%">[[Ethiopia]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 621px; top: 394px">
-<p style="text-align:center;font-size:80%">[[Somalia]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 575px; top: 350px">
-<p style="text-align:center;font-size:80%">[[Djibouti]]</p></div></p>
-
-<!-------------------------------->
-<!-- SOUTHERN AFRICAN COUNTRIES -->
-<!-------------------------------->
-<div style="position: absolute; z-index: 1; left: 350px; top: 770px">
-<p style="text-align:center;font-size:70%">[[Afrika Dzonga]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 369px; top: 697px">
-<p style="text-align:center;font-size:70%">[[Botswana]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 487px; top: 800px">
-<p style="text-align:center;font-size:70%">[[Lesotho]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 620px; top: 672px">
-<p style="text-align:center;font-size:70%">[[Madagascar]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 487px; top: 746px">
-<p style="text-align:center;font-size:70%">[[Mozambique]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 316px; top: 687px">
-<p style="text-align:center;font-size:70%">[[Namibia]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 487px; top: 776px">
-<p style="text-align:center;font-size:70%">[[Swaziland]]</p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 404px; top: 667px">
-<p style="text-align:center;font-size:80%">[[Zimbabwe]]</p></div></p>
-
-<!-------------------------------->
-<!--      ISLAND COUNTRIES      -->
-<!-------------------------------->
-<div style="position: absolute; z-index: 1; left: 25px; top: 700px">
-<p style="text-align:center;font-size:80%"><u>[[Swihlala|'''Swihlala''']] swa Afrika (Islands)</u></p></div></p>
-
-<div style="position: absolute; z-index: 1; left: 30px; top: 720px">
-<p style="text-align:left;font-size:70%">--[[Cape Verde]]<br>--[[Sao Tome & Principe]]<br>--[[Saint Helena]]<br>--[[Bouvet Island]]<br>--[[Comoros]]<br>--[[Seychelles]]<br>--[[Mayotte Island]]<br>--[[Juan de Nova Island]]<br>--[[Bassis de India]]<br>--[[Europa Island]]<br>--[[Mauritius]]<br>--[[Reunion]]<br></p></div></p>
-
-<br>
-| style="width: 30%; background-color:#FAFAD2; border: 1px solid #777777; <!--vertical-align: top; -->-moz-border-radius-topleft: 2px; -moz-border-radius-bottomleft: 2px; -moz-border-radius-topright: 2px; -moz-border-radius-bottomright: 2px;" colspan="1"; rowspan="1"|
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[Culture of Africa|Ndhzavuko]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Architecture of Africa|Vuaki]] ([[List of World Heritage Sites in Africa|Tindhzawu ta ndhavuko]]){{·}} [[African art|Vuqamhi]]{{·}} [[African cinema|Cinema]] ([[List of film festivals in Africa|Mintlangiso ya tifilimi]]{{·}} [[List of African films|Nxaxamelo wa ti filimi]]){{·}} [[Cuisine of Africa|Swakudya]]{{·}}<br/>[[Etiquette in Africa|Matikhomelo]]{{·}} [[Languages of Africa|Tindzimi]]{{·}} [[African literature|Vutsari]] ([[List of African writers by country|Vatsari hi vutiko]]){{·}} [[Music of Africa|Vunanga]] ([[List of African musicians|Vayimbeleri]]){{·}} [[Religion in Africa|Vukhongeri]]</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[Demographics of Africa|Mintsengo ya vanhu]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[African people|Vanhu]]{{·}} [[List of African countries by population|Matiko hi kutala ka vanhu]]{{·}} [[List of African countries by population density|Matiko hi ku tlimbana ka vanhu]]{{·}} [[HIV/AIDS in Africa|HIV/AIDS]]{{·}}<br/>[[Urbanization in Africa|Kurhurhela e ma dorobeni]] ([[List of most populous cities in Africa|Nxaxamelo wa madoroba la ma tlimbaneke]])</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[Economy of Africa|Rifuwo]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[List of African countries by GDP|Matiko kuya hi GDP]]{{·}} [[List of African countries by Human Development Index|Matiko kuya hi HDI]]{{·}} [[Central banks and currencies of Africa|Tibangi-mfumo na Mali]]{{·}} [[Poverty in Africa|Vutsweti]]{{·}} [[Renewable energy in Africa|Matimba ya ntumbuluko]]{{·}} [[List of African stock exchanges|Mavhengele]]</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[Geography of Africa|Ntivo-mbangu]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Matiko ya Africa]]{{·}} [[Ecology of Africa|Ntivo-ntumbuluko]]{{·}} [[List of islands of Africa|Swi hlala swa Afrika]]{{·}} [[List of rivers of Africa|Mi nambu ya Afrika]]{{·}} [[Regions of Africa|Swi fundza]]</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[History of Africa|Matimu]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Colonisation of Africa|ukhumbi bya afrika]] ([[European exploration of Africa|Kunghenela ka Yuropa]]{{·}} [[Vuhlonga e Afrika]]{{·}} [[Kulwetana hi Afrika]]){{·}}<br/>[[Decolonisation of Africa|Kuntshuxa Afrika]]{{·}} [[Economic history of Africa|Matimu ya Rifuwo]]{{·}} [[Military history of Africa|Matimu ya vusocha]] ([[List of conflicts in Africa|Nxaxamelo ya minkwetlembetano]])</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[Politics of Africa|Ti politiki]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Nhlangano wa matiko ya afrika]]{{·}} [[Minhlawulo e Afrika]]{{·}} [[Timfanelo ta vanhu e Afrika]]{{·}} [[Vu-afrika]]</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[:Category:African society|Ntshungu]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Filosofi ya Afrika]]{{·}} [[Education in Africa|Dyondzo]]{{·}} [[Media in Africa|Ta vuhaxi]] ([[List of radio stations in Africa|Nxaxamelo wa swiya nimoya laha Afrika]]{{·}} [[List of television stations in Africa|Nxaxamelo&nbsp;wa&nbsp;switich swa&nbsp;Thelevhixini]])</small>
-</div>
-
-<div style="width:35.0%; float:left;vertical-align:top">
-* [[:Category:Sport in Africa|Mintlangu]]
-</div>
-<div style="width:65.0%; float:left;vertical-align:top">
-<small>[[Nhlangao wa krikete wa Afrika]]{{·}} [[Mintlangu ya Afrika]]{{·}} [[FIBA Afrika]]{{·}}<br/>[[Nhlangao wa Bholo ya milenge wa Afrika]] ([[Mintlangu ya Bholo ya xi dlodlo xa Afrika]]){{·}} [[List of African stadiums by capacity|Mavala ya mintlangu hi vukulu]]{{·}}<br/>[[Nhlangao wa Rugy wa Afrika]] ([[Xidlodlo xa Afrika]])</small>
-</div>
-|}
-{| cellpadding="10" cellspacing="5" style="width: 100%; background-color: inherit; margin-left: auto; margin-right: auto"
-| style="background-color:#FAFAD2; border: 1px solid Gray; -moz-border-radius-topleft: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-topright: 8px; -moz-border-radius-bottomright: 8px; height: 60px;" colspan="2" |
-
-Add Text!
-
+ [[Matiko ya Afrika]] 
+    
+ * [[Algeria]]   
+ * [[Angola]]   
+ * [[Benin]]   
+ * [[Botswana]]   
+ * [[Burkina Faso]]   
+ * [[Burundi]]   
+ * [[Cameroon]]   
+ * [[Cape Verde]]   
+ * [[Central African Republic]]   
+ * [[Chad]]   
+ * [[Democratic Republic of the Congo]]   
+ * [[Djibouti]]   
+ * [[Egypt]]   
+ * [[Equatorial Guinea]]   
+ * [[Eritrea]]   
+ * [[Ethiopia]]   
+ * [[Gabon]]   
+ * [[Gambia]]   
+ * [[Ghana]]   
+ * [[Guinea Bissau]]   
+ * [[Guinea]]   
+ * [[Ivory Coast]]   
+ * [[Kenya]]   
+ * [[Lesotho]]   
+ * [[Liberia]]   
+ * [[Libya]]   
+ * [[Madagascar]]   
+ * [[Malawi]]   
+ * [[Mali]]   
+ * [[Mauritania]]   
+ * [[Mauritius]]   
+ * [[Morocco]]   
+ * [[Namibia]]   
+ * [[Niger]]   
+ * [[Nigeria]]   
+ * [[Republic of the Congo]]   
+ * [[Rwanda]]   
+ * [[Senegal]]   
+ * [[Seychelles]]   
+ * [[Sierra Leone]]   
+ * [[Somalia]]   
+ * [[Sudan]]   
+ * [[Swaziland]]   
+ * [[Tanzania]]   
+ * [[Togo]]   
+ * [[Tunisia]]   
+ * [[Uganda]]   
+ * [[Zambia]]   
+    
+<center>   
+{| width="60%" style="border:1px solid black"   
+|   
+<inputbox>   
+type=create   
+width=45   
+</inputbox>   
 |}
