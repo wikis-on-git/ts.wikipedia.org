@@ -5,15 +5,13 @@ __NOTOC__
 {|width=100% border="0" cellspacing="0" cellpadding="0" style="padding:0px; margin:2px;" |
 |-
 |colspan=3 valign=top|
-{{Robelbox|theme=1|title=Nyangwankulu wa Afrika|height=10%}}
+{{Robelbox|theme=2|title=Nyangwankulu wa Afrika|height=10%}}
 <div style="{{Robelbox/pad}}">
 <center>[[image:cheetah2.png]]</center>
-
-
-<!----------Strapline immediately below banner
----------->{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
+{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
 |style="font-size:100%; padding:10px 0; margin:0px; text-align:center; white-space:nowrap; color:#000;"|[[Portal:Arts|'''Vuqambhi''']]&nbsp;'''·''' [[Portal:Biography|'''Biography''']]&nbsp;'''·''' [[Portal:Geography|'''Ntivo mbangu''']]&nbsp;'''·''' [[Portal:History|'''Matimu''']]&nbsp;'''·''' [[Portal:Science|'''Ntivo-vuthlarhi''']]&nbsp;'''·''' [[Portal:Contents|'''Minyangwa-nkulu hinkwayo''']]
-|-
+|}
+{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
 |style="font-size:75%; padding:4px 0; margin:0px; text-align:center; white-space:nowrap; color:#000;"|[[Portal:Africa|'''Afrika''']]&nbsp;'''·''' [[Portal:Europe|'''Yuropa''']]&nbsp;'''·''' [[Portal:Spain|'''Xipaniya''']]
 |}</big><br></div>
 {{Robelbox/close}}
@@ -22,13 +20,13 @@ __NOTOC__
 <!-------------------------------->
 |-
 |width=65% valign=top height=50px|
-{{Robelbox|theme=1|title=Matiko ya Afrika|height=30%}}
+{{Robelbox|theme=2|title=Matiko ya Afrika|height=30%}}
 <div style="{{Robelbox/pad}}">
 {{Afrika-xifaniso}}
 <BR>
 </div>
 {{Robelbox/close}}
-{{Robelbox|theme=1|title=Matsalwa malavaka ku Engeteriwa|height=30%}}
+{{Robelbox|theme=2|title=Matsalwa malavaka ku Engeteriwa|height=30%}}
 <div style="{{Robelbox/pad}}">
 Ha ku amukela laha Nyangweni-nkulu wa Afrika. Laha u to kuma nxaxamelo wa Matsalwa lawa mafambelanaka na Afrika hixitalo. Loko kurinaleswi swi kayivelaka laha. Unga gunguli ntsena swi helela kwa laho. Hi pfuneti ku ndlandlamuxa nyangwa nkulu lowu. Vona tluka [[Help:Leswinga ndzeni|leri]] loko u lava mpfuno hi ta vutsari laha wikipediyeni leyi
 </div>
@@ -37,18 +35,18 @@ Ha ku amukela laha Nyangweni-nkulu wa Afrika. Laha u to kuma nxaxamelo wa Matsal
 <!--     Right Column           -->
 <!-------------------------------->
 |width=35% valign=top height=50px|
-{{Robelbox|theme=1|title=Endzeni ka Nyangwa-nkulu lowu|height=30%}}
+{{Robelbox|theme=2|title=Endzeni ka Nyangwa-nkulu lowu|height=30%}}
 <div style="{{Robelbox/pad}}">
 {{:Portal:Africa/About}}
 </div>
 {{Robelbox/close}}
-{{Robelbox|theme=1|title=Matsalwa malavaka ku Engeteriwa|height=30%}}
+{{Robelbox|theme=2|title=Matsalwa malavaka ku Engeteriwa|height=30%}}
 <div style="{{Robelbox/pad}}">
 minkongomiso yikomba matsalwa lawa mahalavaka ku engeteriwa. Langutisa tsalwa leri yelanaka eka [[:en:wikipedia:Portal:Africa|Nyangwa-nkulu wa Afrika eka wikipediya ya xinghezi]] ivi u sungula kuhundzuluxa. 
 </div>
 {{Robelbox/close}}
 |}
-{{Robelbox|theme=1|title=Ti wiki tinwana to yelana na nyangwa-nkulu wa ta Vuqambhi|height=30%}}
+{{Robelbox|theme=2|title=Ti wiki tinwana to yelana na nyangwa-nkulu wa ta Vuqambhi|height=30%}}
 <div style="{{Robelbox/pad}}">
 {| align="center" style="text-align:left"
 | [[Image:Wikiquote-logo.svg|35px|<nowiki></nowiki>]]
