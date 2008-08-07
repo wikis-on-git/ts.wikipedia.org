@@ -49,9 +49,8 @@ minkongomiso yikomba matsalwa lawa mahalavaka ku engeteriwa. Langutisa tsalwa le
 {{Robelbox/close}}
 |}
 {{Robelbox|theme=7|title=Ti wiki tinwana to yelana na nyangwa-nkulu wa ta Yuropa|height=30%}}
-<centre>
 <div style="{{Robelbox/pad}}">
-{| align="center" style="text-align:left"
+{| align="center" style="text-align:centre"
 | [[Image:Wikiquote-logo.svg|35px|<nowiki></nowiki>]]
 | [[q:Europe|'''Yuropa e ka Wikiquote''']]</br> Quotes
 | [[Image:Commons-logo.svg|35px|<nowiki></nowiki>]]
@@ -61,5 +60,5 @@ minkongomiso yikomba matsalwa lawa mahalavaka ku engeteriwa. Langutisa tsalwa le
 | [[Image:Wikibooks-logo.svg|35px|<nowiki></nowiki>]]
 | [[:wikibooks:Europe|'''Yuropa e ka Wikibooks''']]</br> Manuals & Texts
 |}
-</div></centre>
+</div>
 {{Robelbox/close}}
