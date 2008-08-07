@@ -35,7 +35,7 @@ Lexi hi xona xi thopo lexi tivekaka xa muti lowu. Kuni ku hambana-nyana eka swi 
 <!--     Right Column           -->
 <!-------------------------------->
 |width=50% valign=top height=50px|
-{{Robelbox|theme=10|title=Laha va akeke kona|height=30%}}
+{{Robelbox|theme=10|title=Laha va akeke kona|height=15%}}
 <div style="{{Robelbox/pad}}">
 {| align="left" width="100%" cellspacing="0" cellpadding="5"| style="width:100%; vertical-align:top; background-color:transparent;" |
 |-
@@ -50,7 +50,7 @@ Lexi hi xona xi thopo lexi tivekaka xa muti lowu. Kuni ku hambana-nyana eka swi 
 |}
 </div>
 {{Robelbox/close}}
-{{Robelbox|theme=10|title=Matimu ya vaka Xillenge|height=30%}}
+{{Robelbox|theme=10|title=Matimu ya vaka Xillenge|height=25%}}
 <div style="{{Robelbox/pad}}">
 
 Add Text
