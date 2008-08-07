@@ -44,9 +44,11 @@ Add Text
 {{Robelbox/close}}
 |}
 {{Robelbox|theme=10|title=Leswi engetelekeke hi vaka Xillenge|height=30%}}
+<div style="{{Robelbox/pad}}">
 
 Add Text
 
+</div>
 {{Robelbox/close}}
 
 [[Category:Swivongo_swa_Xitsonga]]
