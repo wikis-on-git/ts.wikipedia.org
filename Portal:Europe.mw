@@ -7,13 +7,16 @@ __NOTOC__
 |colspan=3 valign=top|
 {{Robelbox|theme=7|title=Nyangwankulu wa Yuropa|height=10%}}
 <div style="{{Robelbox/pad}}">
-<center>[[image:Ts.Europa.jpg|with:100%]]</center>
-
-
-<!----------Strapline immediately below banner
----------->{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
+{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
+|style="font-size:200%; padding:10px 0; margin:0px; text-align:center; white-space:nowrap; color:#000;"|'''Nyangwa-nkulu wa Yuropa'''
+|}<center>
+<BR>
+[[image:Header_notext.gif|1000px]]</center>
+<BR>
+{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
 |style="font-size:100%; padding:10px 0; margin:0px; text-align:center; white-space:nowrap; color:#000;"|[[Portal:Arts|'''Vuqambhi''']]&nbsp;'''·''' [[Portal:Biography|'''Biography''']]&nbsp;'''·''' [[Portal:Geography|'''Ntivo mbangu''']]&nbsp;'''·''' [[Portal:History|'''Matimu''']]&nbsp;'''·''' [[Portal:Science|'''Ntivo-vuthlarhi''']]&nbsp;'''·''' [[Portal:Contents|'''Minyangwa-nkulu hinkwayo''']]
-|-
+|}
+{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
 |style="font-size:75%; padding:4px 0; margin:0px; text-align:center; white-space:nowrap; color:#000;"|[[Portal:Africa|'''Afrika''']]&nbsp;'''·''' [[Portal:Europe|'''Yuropa''']]&nbsp;'''·''' [[Portal:Spain|'''Xipaniya''']]
 |}</big><br></div>
 {{Robelbox/close}}
