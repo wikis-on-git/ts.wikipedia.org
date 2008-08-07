@@ -17,7 +17,12 @@ Phurojeki leyi, yi kongeme ku lavisisa nxaxamelo wa Swivongo swa Xitsonga, Xiths
 {{Robelbox|theme=10|title=Nxaxamelo wa swivongo swa Xitsonga/Xichangana|icon=Crystal_Clear_action_history.png|iconwidth=20px|height=30%}}
 <div style="{{Robelbox/pad}}">
 
-Add Text
+{| 
+|width="300" bgcolor="inherit" align="center"| A ||width="300" bgcolor="transparent" align="center"| B ||width="300" bgcolor="transparent" align="center"| C ||width="300" bgcolor="transparent" align="center"| D ||
+|- 
+|width="300" bgcolor="inherit" align="center"| A1 ||width="300" bgcolor="inherit" align="center"| B1 ||width="300" bgcolor="inherit" align="center"| C1 ||width="300" bgcolor="inherit" align="center"| D1
+|}
+
 
 </div>
 {{Robelbox/close}}
@@ -25,7 +30,6 @@ Add Text
 <div style="{{Robelbox/pad}}">
 
 
-|}
 
 </div>
 {{Robelbox/close}}
