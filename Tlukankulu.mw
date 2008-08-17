@@ -70,6 +70,23 @@ __NOTOC__ __NOEDITSECTION__
 <p style="text-align:center;">'''Machangana Matsonga. Swi hluke swa Nghunghunyana <BR> N'wina vo chava ku tsongola swa van'wana'''</p>
 </div><br />
 
+<center>
+<div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
+<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
+* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
+</div>
+</center>
+<br>
+{| width="60%" style="border:1px solid black" align=center
+|
+<inputbox>
+type=create
+width=45
+</inputbox>
+|}
+<br>
+<br>
+
 {| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
 |-
 ! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Verdana; color:black" |Wikipedia Hi ti ndzimi tinwana
