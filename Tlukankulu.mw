@@ -71,7 +71,7 @@ __NOTOC__ __NOEDITSECTION__
 </div><br />
 
 <center>
-<div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
+<div style="width:98%;margin-top:.7em;border:1px solid #eeeeee;background:#cef2e0;padding:.7em;text-align:center"> 	 
 <big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
 * '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
 </div>
@@ -84,7 +84,6 @@ type=create
 width=45
 </inputbox>
 |}
-<br>
 <br>
 
 {| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
