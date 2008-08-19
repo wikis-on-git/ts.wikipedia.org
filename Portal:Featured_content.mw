@@ -1,0 +1,54 @@
+ __NOTOC__
+{{pp-semi-protected|small=yes}}
+{|style="border-spacing:8px;margin:-8px -8px -2px; background-color:transparent"
+| class="MainPageBG" style="padding:0.5em 1em 0em 1em; border:1px solid #A3B1BF;background-color:#E6F2FF;vertical-align:top;color:#000; vertical-align:top;" |
+<h2 style="font-size:16pt">Featured content in Wikipedia</h2>
+[[Image:Cscr-featured.svg|right|40px|The featured content star]]
+Featured content represents the best that Wikipedia has to offer. These are the articles, pictures, and other contributions that showcase the polished result of the collaborative efforts that drive Wikipedia. All featured content undergoes a thorough review process to ensure that it meets the highest standards and can serve as an example of our end goals. A small bronze star ([[Image:LinkFA-star.png|The featured content star]]) in the top right corner of a page indicates that the content is featured.
+This page gives links to all of Wikipedia's featured content and showcases one randomly selected example of each type of content. You can view another {{purge|random content selection}}.<br><br>Also check out featured content from the [[Portal:Featured content/Wikimedia|other Wikimedia projects]].
+| width="300px" valign="top" style="padding:0.5em 1em 0em 1em; border:1px solid #A3B1BF; background-color:#E6F2FF" |
+{{Shortcut|P:FC|WP:FX|WP:FC|WP:FEAT|WP:FEATURE}}
+{{FCpages}}
+|}{{/current|{{/SetDate}}|{{/SetDate2}}}}
+
+{|cellpadding="2" cellspacing="5" style="width:100%; border:1px solid #BFB1A3; vertical-align:top;background-color:#fffaf5;color:#000; margin:10px 0 0 0"
+! <h2 style="margin:0;background-color:#f2e0ce;font-size:120%;font-weight:bold;border:1px solid #bfb1a3;text-align:center;color:#000;padding:0.2em 0.4em;">''[[Wikipedia:Featured lists|Featured list]]: [[{{/Lists}}]]''</h2>
+|-
+|style="color:#000"|{{#ifexist: {{/Lists}}/Blurb|{{:{{/Lists}}/Blurb}}|{{:{{/Lists}}}}}}<div align="right">'''[[{{/Lists}}|See full list...]]'''</div>
+|-
+|}
+
+{|cellpadding="2" cellspacing="5" style="width:100%; border:1px solid #B1BFA3; vertical-align:top;background-color:#FAFFF5;color:#000; margin:15px 0 0 0"
+! <h2 style="margin:0;background-color:#E0F2CE;font-size:120%;font-weight:bold;border:1px solid #B1BFA3;text-align:center;color:#000;padding:0.2em 0.4em;">''[[Wikipedia:Featured topics|Featured topic]]: {{/Topics}}</h2>
+|-
+|style="color:#000"|{{:Wikipedia:Featured topics/{{/Topics}}}}
+|-
+|}
+
+{|cellpadding="2" cellspacing="5" style="width:100%; border:1px solid #A3B1BF; vertical-align:top; background-color:#F5FAFF; color:#000; margin:15px 0 0 0"
+! <h2 style="margin:0; background-color:#CEE0F2; font-size:120%; font-weight:bold; border:1px solid #A3B1BF; text-align:center; color:#000; padding:0.2em 0.4em;">''New featured content'' {{Ed|Announcements/New featured content}}</h2>
+|-
+|style="color:#000" | {{Announcements/New featured content}}
+|-
+|}
+
+{|cellpadding="2" cellspacing="5" style="width:100%; border:1px solid #A3B1BF; vertical-align:top;background-color:#F5FAFF;color:#000; margin:15px 0 15px 0"
+! <h2 style="margin:0;background-color:#CEE0F2;font-size:120%;font-weight:bold;border:1px solid #A3B1BF;text-align:center;color:#000;padding:0.2em 0.4em;">''Featured content procedures''</h2>
+|-
+|style="color:#000" | {{/Info}}
+|-
+|}
+{{Contents pages (footer box)}}
+<div align="right"><small>{{purge|Purge page cache}}</small></div>
+
+[[Category:Wikipedia featured content|Featured content]]
+[[Category:Portals|Featured content]]
+[[Category:Contents|Featured content]]
+
+[[ar:ويكيبيديا:محتوى متميز]]
+[[az:Vikipediya:Fəal məzmun]]
+[[da:Wikipedia:Fremhævet indhold]]
+[[de:Wikipedia:Auszeichnungen]]
+[[nl:Wikipedia:Uitgelicht]]
+[[zh:Wikipedia:特色內容]]
+[[zh-yue:Wikipedia:正嘢]]
