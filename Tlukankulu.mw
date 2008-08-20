@@ -30,7 +30,7 @@ __NOTOC__ __NOEDITSECTION__
 ----------Strapline immediately below banner---------->
 {|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
 |style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[Wikipedia:About|Nkomiso]]&nbsp;'''·''' [[Wikipedia:Tutorial|Kululamisa]]&nbsp;'''·''' [[Wikipedia:Questions|Swivutiso]]&nbsp;'''·''' [[Help:Contents|Mpfuno]]
-|style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|[[Portal:Contents|Mintlawa]]&nbsp;'''·''' [[Portal:Featured content|Swinavetiso]]&nbsp;'''·''' [[Portal:Contents/Quick index|Xikombo A–Z]]
+|style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|[[Portal:Contents/Categorical index|Mintlawa]]&nbsp;'''·''' [[Portal:Featured content|Swinavetiso]]&nbsp;'''·''' [[Portal:Contents/Quick index|Xikomba-ndlela A–Z]]
 |}
 {{Main Page banner}}
 <BR>
@@ -71,7 +71,7 @@ __NOTOC__ __NOEDITSECTION__
 </div><br />
 
 <center>
-<div style="width:98%;margin-top:.7em;border:1px solid #eeeeee;background:#cef2e0;padding:.7em;text-align:center"> 	 
+<div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
 <big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
 * '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
 </div>
@@ -84,6 +84,7 @@ type=create
 width=45
 </inputbox>
 |}
+<br>
 <br>
 
 {| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
