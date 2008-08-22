@@ -1,0 +1,22 @@
+<noinclude>{{:Portal:Featured content/Portals}}<br>
+{{Purge|Vona nyangwa unwana}}
+
+== Featured portals included here ==
+When adding a '''''new''''' portal, please be sure to update the "max" value in the "#switch:" function as well.
+<!--
+New entries should be added after the last '</big> at the bottom of this list in the format:
+
+<includeonly>|</includeonly>PORTALNUMBER<includeonly>=</includeonly><imagemap>Image:PORTALIMAGE|100x100px|PORTALNAME
+rect 0 0 9000 9000 [[Portal:PORTALNAME]]
+desc none</imagemap>
+<big>'''[[Portal:PORTALNAME|PORTALNAME]]'''</big>
+
+Only the 'PORTALNUMBER', 'PORTALIMAGE', and 'PORTALNAME' values need to be changed in most cases. In some instances a different size than 100x100px may be needed.
+
+-->
+</noinclude><includeonly>{{#switch: {{#expr: {{rand|{{{max|125}}}|{{mod|{{#time:U}}|{{{seed|17}}}}} }} + 1}}
+|</includeonly><noinclude>{{MultiCol}}</noinclude>1<includeonly>=</includeonly><imagemap>Image:P vip.svg|100x100px|Biography
+rect 0 0 9000 9000 [[Portal:Biography]]
+desc none</imagemap>
+<big>'''[[Portal:Biography|Biography]]'''</big>
+}}</includeonly><noinclude>{{EndMultiCol}}</noinclude>
