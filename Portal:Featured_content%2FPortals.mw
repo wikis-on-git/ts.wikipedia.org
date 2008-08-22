@@ -19,5 +19,9 @@ Only the 'PORTALNUMBER', 'PORTALIMAGE', and 'PORTALNAME' values need to be chang
 rect 0 0 9000 9000 [[Portal:Biography|Vanhu]]
 desc none</imagemap>
 <big>'''[[Portal:Biography|Vanhu]]'''</big>
+<includeonly>|</includeonly>2<includeonly>=</includeonly><imagemap>Image:P_culture.svg|100x100px|Vuqambhi
+rect 0 0 9000 9000 [[Portal:Arts|Vuqambhi]]
+desc none</imagemap>
+<big>'''[[Portal:Arts|Vuqambhi]]'''</big>
 <includeonly>
 }}</includeonly><noinclude>{{EndMultiCol}}</noinclude>
