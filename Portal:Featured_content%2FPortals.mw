@@ -15,8 +15,8 @@ Only the 'PORTALNUMBER', 'PORTALIMAGE', and 'PORTALNAME' values need to be chang
 
 -->
 </noinclude><includeonly>{{#switch: {{#expr: {{rand|{{{max|1}}}|{{mod|{{#time:U}}|{{{seed|17}}}}} }} + 1}}
-|</includeonly><noinclude>{{MultiCol}}</noinclude>1<includeonly>=</includeonly><imagemap>Image:P vip.svg|100x100px|Biography
-rect 0 0 9000 9000 [[Portal:Biography]]
+|</includeonly><noinclude>{{MultiCol}}</noinclude>1<includeonly>=</includeonly><imagemap>Image:P vip.svg|100x100px|Vanhu
+rect 0 0 9000 9000 [[Portal:Vanhu]]
 desc none</imagemap>
 <big>'''[[Portal:Biography|Biography]]'''</big>
 <includeonly>
