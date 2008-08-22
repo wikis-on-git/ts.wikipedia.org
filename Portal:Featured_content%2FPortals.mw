@@ -14,7 +14,7 @@ desc none</imagemap>
 Only the 'PORTALNUMBER', 'PORTALIMAGE', and 'PORTALNAME' values need to be changed in most cases. In some instances a different size than 100x100px may be needed.
 
 -->
-</noinclude><includeonly>{{#switch: {{#expr: {{rand|{{{max|2}}}|{{mod|{{#time:U}}|{{{seed|17}}}}} }} + 1}}
+</noinclude><includeonly>{{#switch: {{#expr: {{rand|{{{max|5}}}|{{mod|{{#time:U}}|{{{seed|17}}}}} }} + 1}}
 |</includeonly><noinclude>{{MultiCol}}</noinclude>1<includeonly>=</includeonly><imagemap>Image:P vip.svg|100x100px|Vanhu
 rect 0 0 9000 9000 [[Portal:Biography|Vanhu]]
 desc none</imagemap>
@@ -23,5 +23,17 @@ desc none</imagemap>
 rect 0 0 9000 9000 [[Portal:Arts|Vuqambhi]]
 desc none</imagemap>
 <big>'''[[Portal:Arts|Vuqambhi]]'''</big>
+<includeonly>|</includeonly>3<includeonly>=</includeonly><imagemap>Image:Nuvola_filesystems_www.png|100x100px|Ntivo-mbangu
+rect 0 0 9000 9000 [[Portal:Geography|Ntivo-mbangu]]
+desc none</imagemap>
+<big>'''[[Portal:Geography|Ntivo-mbangu]]'''</big>
+<includeonly>|</includeonly>4<includeonly>=</includeonly><imagemap>Image:P_history.png|100x100px|Matimu
+rect 0 0 9000 9000 [[Portal:History|Matimu]]
+desc none</imagemap>
+<big>'''[[Portal:History|Matimu]]'''</big>
+<includeonly>|</includeonly>5<includeonly>=</includeonly><imagemap>Image:Nuvola_apps_kalzium.svg|100x100px|Ntivo-vuthlarhi
+rect 0 0 9000 9000 [[Portal:Science|Ntivo-vuthlarhi]]
+desc none</imagemap>
+<big>'''[[Portal:Science|Ntivo-vuthlarhi]]'''</big>
 <includeonly>
 }}</includeonly><noinclude>{{EndMultiCol}}</noinclude>
