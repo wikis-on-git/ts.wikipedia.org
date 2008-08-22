@@ -19,4 +19,5 @@ Only the 'PORTALNUMBER', 'PORTALIMAGE', and 'PORTALNAME' values need to be chang
 rect 0 0 9000 9000 [[Portal:Biography]]
 desc none</imagemap>
 <big>'''[[Portal:Biography|Biography]]'''</big>
+<includeonly>
 }}</includeonly><noinclude>{{EndMultiCol}}</noinclude>
