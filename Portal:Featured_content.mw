@@ -12,33 +12,6 @@ Tluka leri i ra ku kongomisa kuya eka matluka lamahlawuriweke kuva swinavetiso l
 {{FCpages}}
 |}{{/current|{{/SetDate}}|{{/SetDate2}}}}
 
-{|cellpadding="2" cellspacing="5" style="width:100%; border:1px solid #BFB1A3; vertical-align:top;background-color:#fffaf5;color:#000; margin:10px 0 0 0"
-! <h2 style="margin:0;background-color:#f2e0ce;font-size:120%;font-weight:bold;border:1px solid #bfb1a3;text-align:center;color:#000;padding:0.2em 0.4em;">''[[Wikipedia:Featured lists|Featured list]]: [[{{/Lists}}]]''</h2>
-|-
-|style="color:#000"|{{#ifexist: {{/Lists}}/Blurb|{{:{{/Lists}}/Blurb}}|{{:{{/Lists}}}}}}<div align="right">'''[[{{/Lists}}|See full list...]]'''</div>
-|-
-|}
-
-{|cellpadding="2" cellspacing="5" style="width:100%; border:1px solid #B1BFA3; vertical-align:top;background-color:#FAFFF5;color:#000; margin:15px 0 0 0"
-! <h2 style="margin:0;background-color:#E0F2CE;font-size:120%;font-weight:bold;border:1px solid #B1BFA3;text-align:center;color:#000;padding:0.2em 0.4em;">''[[Wikipedia:Featured topics|Featured topic]]: {{/Topics}}</h2>
-|-
-|style="color:#000"|{{:Wikipedia:Featured topics/{{/Topics}}}}
-|-
-|}
-
-{|cellpadding="2" cellspacing="5" style="width:100%; border:1px solid #A3B1BF; vertical-align:top; background-color:#F5FAFF; color:#000; margin:15px 0 0 0"
-! <h2 style="margin:0; background-color:#CEE0F2; font-size:120%; font-weight:bold; border:1px solid #A3B1BF; text-align:center; color:#000; padding:0.2em 0.4em;">''New featured content'' {{Ed|Announcements/New featured content}}</h2>
-|-
-|style="color:#000" | {{Announcements/New featured content}}
-|-
-|}
-
-{|cellpadding="2" cellspacing="5" style="width:100%; border:1px solid #A3B1BF; vertical-align:top;background-color:#F5FAFF;color:#000; margin:15px 0 15px 0"
-! <h2 style="margin:0;background-color:#CEE0F2;font-size:120%;font-weight:bold;border:1px solid #A3B1BF;text-align:center;color:#000;padding:0.2em 0.4em;">''Featured content procedures''</h2>
-|-
-|style="color:#000" | {{/Info}}
-|-
-|}
 {{Contents pages (footer box)}}
 <div align="right"><small>{{purge|Purge page cache}}</small></div>
 
