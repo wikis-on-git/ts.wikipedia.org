@@ -18,7 +18,7 @@
 <div style="float:left; width:49%;"> <!-- This width add to the the margin below to equal 99%-->
 
 {{/box-header|Select article|Portal:Spain/Select article|}}
-{{Portal:Spain/Select article}}
+{{:Portal:Spain/Select article}}
 {{/box-footer|}}
 
 {{/box-header|Select picture|Portal:Spain/Select picture|}}
