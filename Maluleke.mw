@@ -43,18 +43,14 @@ __NOTOC__
 {{Robelbox/close}}
 {{Robelbox|theme=10|title=Matimu ya vaka Maluleke|height=25%}}
 <div style="{{Robelbox/pad}}">
-
-Add Text
-
-</div>
+{{:/Matimu}}
+{{editme|/Matimu}}</div>
 {{Robelbox/close}}
 |}
-{{Robelbox|theme=10|title=Leswi engetelekeke hi vaka Xillenge|height=30%}}
+{{Robelbox|theme=10|title=Leswi engetelekeke hi vaka Maluleke|height=30%}}
 <div style="{{Robelbox/pad}}">
-
-Add Text
-
-</div>
+{{:/Swinwana}}
+{{editme|/Swinwana}}</div>
 {{Robelbox/close}}
 
 [[Category:Swivongo_swa_Xitsonga]]
