@@ -7,11 +7,64 @@ __NOTOC__
 |colspan=3 valign=top|
 {{Robelbox|theme=10|title=vaka Xillenge|icon=Love_Pumpkin.png|iconwidth=54px|height=30%}}
 <div style="{{Robelbox/pad}}">
-{{image|name=Pumpkins_Hancock_Shaker_village_2418.jpg|width=150px|pad=10px|caption=<div style="font-size:100%;line-height:1.3em;text-align:center;">'''Xifaniso xa kwembe'''<BR>Muti waka Xillenge</p>|float=left}}
+{{:/Intro}}
+{{editme|/Intro}}
+</div>
+{{Robelbox/close}}
+<!-------------------------------->
+<!--     Left Column            -->
+<!-------------------------------->
+|-
+|width=50% valign=top height=50px|
+{{Robelbox|theme=10|title=Xithopo xa muti lowu|height=30%}}
+<div style="{{Robelbox/pad}}">
+{{:/Xithopo}}
+{{editme|/Xithopo}}
+</div>
+{{Robelbox/close}}
+<!-------------------------------->
+<!--     Right Column           -->
+<!-------------------------------->
+|width=50% valign=top height=50px|
+{{Robelbox|theme=10|title=Laha va akeke kona|height=15%}}
+<div style="{{Robelbox/pad}}">
+{| align="left" width="100%" cellspacing="0" cellpadding="5"| style="width:100%; vertical-align:top; background-color:transparent;" |
+|-
+! align="left" style="vertical-align:top;" | [[Afrika-Dzonga|E Afrika Dzonga]]
+| align="left" style="vertical-align:top;" | <small>[[???]] {{·}} [[???]]{{·}} [[???]] {{·}} [[???]] {{·}} [[???]]</small>
+|-
+! align="left" style="vertical-align:top;" | [[Mozambique|E mozambhiki]]
+| align="left" style="vertical-align:top;" | <small>[[???]] {{·}} [[???]]{{·}} [[???]] {{·}} [[???]] {{·}} [[???]]</small>
+|-
+! align="left" style="vertical-align:top;" | [[Swaziland|E Swazini]]
+| align="left" style="vertical-align:top;" | <small>[[???]] {{·}} [[???]]{{·}} [[???]] {{·}} [[???]] {{·}} [[???]]</small>
+|}
+</div>
+{{Robelbox/close}}
+{{Robelbox|theme=10|title=Matimu ya vaka Xillenge|height=25%}}
+<div style="{{Robelbox/pad}}">
+{{:/Matimu}}
+{{editme|/Matimu}}</div>
+{{Robelbox/close}}
+|}
+{{Robelbox|theme=10|title=Leswi engetelekeke hi vaka Xillenge|height=30%}}
+<div style="{{Robelbox/pad}}">
+{{:/Swinwana}}
+{{editme|/Swinwana}}</div>
+{{Robelbox/close}}
 
-Muti waka Xillenge i muti lowu vulavulaka xitsonga/Xichangana. Ku hava numbhoni lebyi seketelaka leswi, kambe kuvuriwa leswaku vakaxillenge vave tihosi ta ndzhawu leyi vuriwaka leswake hile: Xillengeni (''Chillengeni''). Kuniswi mutana swo hlaya e hansi ka muti wa Xillenge, kambe swi hlangana eka Kokwani-xindhuwe loyi a vuriwaka : '''''Khwembe'''''.
+[[Category:Swivongo_swa_Xitsonga]]
 
-Nxaxamelo lowu tiviwaka wa vakwokwa-wa vakwokwani vaka xilenge wu sungula eka Khwembe ivi wu ta haleno.
+__NOTOC__ 
+<!-------------------------------->
+<!--      Full Column           -->
+<!-------------------------------->
+{|width=100% border="0" cellspacing="0" cellpadding="0" style="padding:0px; margin:2px;" |
+|-
+|colspan=3 valign=top|
+{{Robelbox|theme=10|title=vaka Xillenge|icon=Love_Pumpkin.png|iconwidth=54px|height=30%}}
+<div style="{{Robelbox/pad}}">
+
 </div>
 {{Robelbox/close}}
 <!-------------------------------->
