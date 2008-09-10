@@ -7,7 +7,7 @@ __NOTOC__
 |colspan=3 valign=top|
 {{Robelbox|theme=10|title=vaka Maluleke|icon=Love_Pumpkin.png|iconwidth=54px|height=30%}}
 <div style="{{Robelbox/pad}}">
-{{:/Intro}}
+{{:Maluleke/Intro}}
 {{editme|/Intro}}
 </div>
 {{Robelbox/close}}
@@ -19,7 +19,7 @@ __NOTOC__
 {{Robelbox|theme=10|title=Xithopo xa muti lowu|height=30%}}
 <div style="{{Robelbox/pad}}">
 {{:/Xithopo}}
-{{editme|/Xithopo}}
+{{editme|Maluleke/Xithopo}}
 </div>
 {{Robelbox/close}}
 <!-------------------------------->
@@ -43,13 +43,13 @@ __NOTOC__
 {{Robelbox/close}}
 {{Robelbox|theme=10|title=Matimu ya vaka Maluleke|height=25%}}
 <div style="{{Robelbox/pad}}">
-{{:/Matimu}}
+{{:Maluleke/Matimu}}
 {{editme|/Matimu}}</div>
 {{Robelbox/close}}
 |}
 {{Robelbox|theme=10|title=Leswi engetelekeke hi vaka Maluleke|height=30%}}
 <div style="{{Robelbox/pad}}">
-{{:/Swinwana}}
+{{:Maluleke/Swinwana}}
 {{editme|/Swinwana}}</div>
 {{Robelbox/close}}
 
