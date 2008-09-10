@@ -7,7 +7,7 @@ __NOTOC__
 |colspan=3 valign=top|
 {{Robelbox|theme=10|title=vaka Xillenge|icon=Love_Pumpkin.png|iconwidth=54px|height=30%}}
 <div style="{{Robelbox/pad}}">
-{{:/Intro}}
+{{:Xillenge/Intro}}
 {{editme|/Intro}}
 </div>
 {{Robelbox/close}}
@@ -18,7 +18,7 @@ __NOTOC__
 |width=50% valign=top height=50px|
 {{Robelbox|theme=10|title=Xithopo xa muti lowu|height=30%}}
 <div style="{{Robelbox/pad}}">
-{{:/Xithopo}}
+{{:Xillenge/Xithopo}}
 {{editme|/Xithopo}}
 </div>
 {{Robelbox/close}}
@@ -43,14 +43,14 @@ __NOTOC__
 {{Robelbox/close}}
 {{Robelbox|theme=10|title=Matimu ya vaka Xillenge|height=25%}}
 <div style="{{Robelbox/pad}}">
-{{:/Matimu}}
+{{:Xillenge/Matimu}}
 {{editme|/Matimu}}</div>
 {{Robelbox/close}}
 |}
 {{Robelbox|theme=10|title=Leswi engetelekeke hi vaka Xillenge|height=30%}}
 <div style="{{Robelbox/pad}}">
-{{:/Swinwana}}
-{{editme|/Swinwana}}</div>
+{{:Xillenge/Swinwana}}
+{{editme|Xillenge/Swinwana}}</div>
 {{Robelbox/close}}
 
 [[Category:Swivongo_swa_Xitsonga]]
