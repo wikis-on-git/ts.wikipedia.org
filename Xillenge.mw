@@ -15,7 +15,7 @@ __NOTOC__
 <!--     Left Column            -->
 <!-------------------------------->
 |-
-|width=50% valign=top height=50px|
+|width=50% valign=top height=20px|
 {{Robelbox|theme=10|title=Xithopo xa muti lowu|height=30%}}
 <div style="{{Robelbox/pad}}">
 {{:Xillenge/Xithopo}}
@@ -25,7 +25,7 @@ __NOTOC__
 <!-------------------------------->
 <!--     Right Column           -->
 <!-------------------------------->
-|width=50% valign=top height=50px|
+|width=50% valign=top height=20px|
 {{Robelbox|theme=10|title=Laha va akeke kona|height=15%}}
 <div style="{{Robelbox/pad}}">
 {| align="left" width="100%" cellspacing="0" cellpadding="5"| style="width:100%; vertical-align:top; background-color:transparent;" |
@@ -41,13 +41,13 @@ __NOTOC__
 |}
 </div>
 {{Robelbox/close}}
-{{Robelbox|theme=10|title=Matimu ya vaka Xillenge|height=25%}}
+{{Robelbox|theme=10|title=Matimu ya vaka Xillenge|height=75%}}
 <div style="{{Robelbox/pad}}">
 {{:Xillenge/Matimu}}
 {{editme|/Matimu}}</div>
 {{Robelbox/close}}
 |}
-{{Robelbox|theme=10|title=Leswi engetelekeke hi vaka Xillenge|height=30%}}
+{{Robelbox|theme=10|title=Leswi engetelekeke hi vaka Xillenge|height=15%}}
 <div style="{{Robelbox/pad}}">
 {{:Xillenge/Swinwana}}
 {{editme|/Swinwana}}</div>
