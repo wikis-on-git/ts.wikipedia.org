@@ -1,100 +1,229 @@
-. ...
-                         .""." .    ".
-                    . "" '.".:I:."..   ".
-                  .".:.:....:II:".".".. ".
-                .":."::.:::.:II:".".".".. ".
-              ."."."."::.:.:.:I:".".".". .  .
-             ..".".".:.:I::.:II:.".."."..    .
-            .."."":.:.::.:.::II::."."."."..   .
-           ..".".".:.::. .:::II:..".".".".".   .
-          .":."".":".".".:.:I:".".".".".. "..  ..
-          ":. ".":". ..:.::.::.:.".."  ":.".".. ..
-         .:.:.":".   ".:":I:.:.. .".".  ": .".. . ..
-         "..:.:".   .:.II:.:..   . .:.". ".. ". .  ..
-        .. :.:.".  .:.:I:.:. .  . ..:..:. :..":. .  ".
-       .:. :.:.   .:.:I:.:. .    . ..:I::. :: ::  .. ..
-       .. :".".:. .:.:I:".        ..:.:I:. :: ::.   . ".
-       "..:. .:.. .:II:"         ..:IIIH.  ::. ":.      .
-      .:.::".:::..:.AII:.      .::',,  :I .::. ":.       .
-      :..:".:II:.:I:  ,,:"   " .::FBT'X:: ..:.. ":.    . .
-     .. :":III:. :.:A'FBF:.  . .P.IP::':: :I:.."::. .    ..
-     . .:.:II: A.".":.PP:' .  . ..".." .: :.::. ":...  . ..
-     . .: .:IIIH:.   " "." .  ... .    .:. :.:.. :...    ."
-     . .I.::I:IIA.        ..   ...    ..::.".".".: ..  . .
-      .:II.".":IA:.      ..    ..:.  . .:.: .""."  ..  . .
-     ..::I:."."::A:.  . .:"-. .-.:..  .:.::AA.. ..:." .. .
-      ":II:I:.  ":A:. ..:"   "".. . : ..:::AHI: ..:..".".
-     .":III.::.   "II:.:.,.::::::::'. .:::AHV:: .::"" ..
-     ..':IIHI::. .  'I:..'::,,,,::'. . .:AII:: :.:"  . .
-     . . IIHHI:..".�."V::. '::::'   ...:AIIV:".:."  .. .
-      . . :IIHI:. .:.:.V:.   " " . ...:HI:" .:: :. .  ..
-      . .  ":IHII:: ::.IA..      .. .A .,,:::" .:.    .
-      :.  ..."I:I:.: .,AHHA, . ."..AHIV::" . .  :     ..
-      :. ".::::II:.I:.HIHHIHHHHHIHHIHV:"..:. .I.":. ..  ".
-   . . .. "":::I:".::IHHHHHHHHHHHHIHI. ".".:IHI..  "  "  ".
-    ":... .  ""' .::".HHHI:HHHHHHHIHI. :IIHHII:. . . .    .
-     :.:.. . ..::." .IV'.:I:IIIHIHHIH. .:IHI::".": "..  .  .
-   . .:.:: .. ::"."."..":.::I:I:IHHHIA.".II.:...:" ." ... . "..
-  "..::::" ...::".IIHII:: .:.:..:..:III:."::" ."    .    ..  . .
-  "::.:" .""     .. :IIHI:.:.. ..: . .:I:'" ...:.:.  ..    .. ..
-     .:..::I:.  . . . .IHII:.:"   .. ..'.::.:II:.:. .  ...   . ..
-  .. . .::.:.,,...-::II:.:"    . ...... . .. .:II:.::  ...  .. ..
-   ..:.::.I .    . . .. .:. .... ..,:.. . . ..:.::.   :..   . ..
-    .".::I:.      . .. ..:.... . ..... .. . ..::. .. .I:. .." .
-  ."":.: I.       . .. ..:.. .  . .. ..... .:. .:.. .:I.".""..
-  . .:::I:.       . . .. .:. .    .. ..  . ... .:."."I"  .  ...
-  . ::.:I:..     . . . ....:. . .   .... ..   .:...:.:.:. "".""
-  "."::"I:.       . .. ....:. .     .. . ..  .."  .".:..:..    "
-        :. .     . .. .. .:.... .  .  .... ...   .  .:.:.:..    ".
-        :.      .  . . .. .:.... . . ........       .:.:.::. .    .
-        :. .     . . . . .. .::..:  . ..:.. .        ::.:.:.. .    .
-        :.. .    . . .  . .. ..:.:  .. .. .:. ..     ":::.::.:. .   .
-        ":.. .  . . . .. .. ...::" .. ..  . .:. .     V:I:::::.. .   :.
-        "::. .  . .. .. ... .:.::  .. .  . .. .. .     VI:I:::::..   ""B
-         :.. .   . .. ..:.. ..I:... . .  . .. ... .     VII:I:I:::. ."::
-         ":.. . . . .. ..:..:.:I:.:. .  . .. . .:. .     VHIII:I::.:..":
-          ::..   . . .. ..:..:.HI:. .      . . .... .    :HHIHIII:I::..:
-          ":. .  . .. .. ..:.:.:HI:.    . . .. ..... .    HHHHIHII:I::."
-           :.. .  . . .. .:.:.:.HI:.      . . .. ... .    IHHHHIHHIHI:"
-            :..  .  . . .. ..:..IH:.     . . .. .. ... .  "HHHHHHHHI:"
-            ":..   . . .. ..:.:.:HI..   .  . .. . :::::.   IH:'''"
-              :. . .  . .. ..::.:.VI:.     . . .. .:::"::. HIH
-               :..  .  . .. .:.:.:.V:.    . . . ...::I'A:. HHV
-                :. .  .  . .. ..:.:.V:.     . . ....::I::".HV:
-                 :. .  . . . .. .:..II:.  . . . ....":::" AV."
-                  :.. . . .. ... .:..VI:. . . .. .:. ..:.AV".
-                  ":.. . .  .. ..:.:.:HAI:.:...:.:.:.:.AII:.
-                   I:. .  .. ... .:.:.VHHII:..:.:..:A:".:..
-                   IA..  . . .. ..:.:.:VHHHHIHIHHIHI:".::.
-                   "HA:.  . . .. ..:.:.:HHHIHIHHHIHI:..:.
-                    HIA: .  . . .. ...:.VHHHIHIIHI::.:...
-                    HIHI:. .  .. ... .::.HHHIIHIIHI:::..
-                    HII:.:.  .  .. ... .::VHHIHI:I::.:..
-                    AI:..:..  .  . .. ..:.VHIII:I::.:. .
-                   AI:. ..:..  .  . .. .." VHIII:I:... .
-                  AI:. .  .:.. .  .  . ...  VHIII::... .
-                .A:. .      :.. .  . .. .:.. VHII::..  .
-               A:. . .       ::. .. .. . .:.. 'VHI::.. .
-             .:.. .  .        :.. .:..... .::.. VHI:..
-            ... . .  .     . . :.:. ..:. . .::.. VI:..  .
-           .. .. .  .    . . ...:... . .. . .:::. V:..  .
-          ".. ..  .   .  .. ..:::.... .:. . ..::.. V..  .
-        . . .. . .   . . .. ..:::A. ..:. . . .::.. :..
-       . .. .. .. . .  . ... ..::IA.. .. . .  ..::. :..  .
-      .. .. ... . .  .. .... .:.::IA. . .. . ..:.::. :.  .
-     . . . .. .   . . .. ..:..:.::IIA. . .  .. .:.::. :. .
-    .. . .  .   . . .. ... ..:.::I:IHA. .  . . ..:.::. . .
-   .: ..  .  .   . . ... .:.. .:I:IIHHA. .  . .. .::I:. .
-  .::.  .     . . .. ..:. .::.:IIHIIHHHA.  .  .. ..:I:. . .
-  A::..      .  .  ...:..:.::I:IHIHIHHHHA.  .  . ..::I:. .
- :HI:.. .       . .. .:.:.::I:IHIHIIHIHHHA. .   .. .::I:. ..
- AI:.. .. .    . .. .:.:.::II:IHIIIHIHIHHHA.  .  . ..::I:. ..
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''Reino de España'''</big></big>
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[File:Flag of Spain.svg|125px]]
+| align="center" width="140px" | [[File:Escudo de España (mazonado).svg|125px]]
+|-
+| align="center" width="140px" | ([[Flag of the Spain|Flag]])
+| align="center" width="140px" | ([[Coat of Arms of Spain|Coat of Arms]])
+|}
+|-
+| align="center" colspan=2 | <small>''[[National motto]]: Plus Ultra''</big>
+|-
+| align=center colspan=2 | [[File:LocationSpain.svg|300px]]
+|}
+'''Spaniya''' (Spanish: España, IPA: [es'paɲa]) i tiko ra le [[Dzongeni ka Yuropa|dzongeni ka yuropa]], laha ku vulavuriwaka [[Spanish language|Xipaniya]]. Tiko leri ri hlanganisa Xipaniya xa le ribuweni exikarhi ka Lwandle ra Atlantiki na ra Meditera, Swihlala-ntsongo swi mbirhi eka malwandle lama angarheke, kuhlanganisa na swi-mutana leswi tiyimeleke e Nwalungwini wa Afrika. Tiko ra Xipaniya ri le xikarhi ka [[Lwandle ra Meditera]] e dzongeni na vuxa, [[Lwandle ra Kantabrika]] enwalungu na [[lwandle ra Atlantika]] e vupela-dyambu. Xipaniya xihleriwe hi [[Phalamende ya xi demokrasi]] naswona itiko leri tifumaka. Xipaniya xile ka ntlawa wa [[Nhlangano wa matiko ya Yuropa]] ku sukela hi lembe ra [[1986]] naswona i tiko leri hluvukeke leri nga ra vunkaye hi kufuwa e misaveni hinkwayo, kasi riri ra vunthlanu e Yuropa. Xipaniya, Portugal na Andora i matiko lama vumbaka ribuwa-nkulu ra Iberiya, naswona ma hlanganisa vu anamo bya kwalomu ka 504,030 km², Hi rona tiko leri anameke ngopfu e vupela-dyambu bya Yuropa(kulandzela Furhwa).
+
+Xipaniya xi hlakarherile e hansi ka [[mfumo wa rhoma]] Hispaniya, hikwalaho xi va ri nwana ra matiko ya nkoka e nkarhini wolowo. E minkarhini leyi landzeleke, Xipaniya ri fumiwile hi [[Jarimani]], endhzaku ri ta fumiwa hi mufumi wa mu Islamu. Xipaniya ri hlaserile [[Furhwa]] hi [[1793]] loko mafurhwa ma dlayile hosi ya wona [[Luwi wa vu Khume-ntsevu]], kambe ri hluriwa kufika laha ri kondleteleke kurhula na furhwa hi [[1795]].
 
 
+{{Yuropa}}
 
+[[Category:Yuropa]]
 
-ANGIE IS A WHORE
-
-WITH LOVE, 
-
-TROLLS OF TERROR
+[[ace:Seupanyo]]
+[[af:Spanje]]
+[[als:Spanien]]
+[[am:እስፓንያ]]
+[[an:España]]
+[[ang:Spēonland]]
+[[ar:إسبانيا]]
+[[arc:ܐܣܦܢܝܐ]]
+[[arz:اسبانيا]]
+[[ast:España]]
+[[ay:Ispaña]]
+[[az:İspaniya]]
+[[bar:Spanien]]
+[[bat-smg:Ėspanėjė]]
+[[bcl:Espanya]]
+[[be:Іспанія]]
+[[be-x-old:Гішпанія]]
+[[bg:Испания]]
+[[bi:Spain]]
+[[bn:স্পেন]]
+[[bo:ཞི་པན་ཡ།]]
+[[bpy:স্পেন]]
+[[br:Spagn]]
+[[bs:Španija]]
+[[ca:Espanya]]
+[[cbk-zam:España]]
+[[ce:Испани]]
+[[ceb:Espanya]]
+[[ch:España]]
+[[ckb:ئیسپانیا]]
+[[co:Spagna]]
+[[crh:İspaniya]]
+[[cs:Španělsko]]
+[[csb:Szpańskô]]
+[[cu:Їспані́ꙗ]]
+[[cv:Испани]]
+[[cy:Sbaen]]
+[[da:Spanien]]
+[[de:Spanien]]
+[[diq:İspanya]]
+[[dsb:Špańska]]
+[[dv:އިސްޕެއިން]]
+[[dz:སིཔཱེན་]]
+[[ee:Spain]]
+[[el:Ισπανία]]
+[[en:Spain]]
+[[eo:Hispanio]]
+[[es:España]]
+[[et:Hispaania]]
+[[eu:Espainia]]
+[[ext:España]]
+[[fa:اسپانیا]]
+[[fi:Espanja]]
+[[fiu-vro:Hispaania]]
+[[fo:Spania]]
+[[fr:Espagne]]
+[[frp:Èspagne]]
+[[fur:Spagne]]
+[[fy:Spanje]]
+[[ga:An Spáinn]]
+[[gan:西班牙]]
+[[gd:An Spàinn]]
+[[gl:España]]
+[[gn:Epaña]]
+[[got:𐌷𐌴𐌹𐍃𐍀𐌰𐌽𐌾𐌰]]
+[[gu:સ્પેઇન]]
+[[gv:Yn Spaainey]]
+[[hak:Sî-pân-ngà]]
+[[haw:Sepania]]
+[[he:ספרד]]
+[[hi:स्पेन]]
+[[hif:Spain]]
+[[hr:Španjolska]]
+[[hsb:Španiska]]
+[[ht:Espay]]
+[[hu:Spanyolország]]
+[[hy:Իսպանիա]]
+[[ia:Espania]]
+[[id:Spanyol]]
+[[ie:Hispania]]
+[[ilo:España]]
+[[io:Hispania]]
+[[is:Spánn]]
+[[it:Spagna]]
+[[iu:ᓯᐸᐃᓐ/sipain]]
+[[ja:スペイン]]
+[[jbo:sangu'e]]
+[[jv:Spanyol]]
+[[ka:ესპანეთი]]
+[[kab:Spanya]]
+[[kg:Espania]]
+[[kk:Испания]]
+[[kl:Spanien]]
+[[kn:ಸ್ಪೇನ್]]
+[[ko:스페인]]
+[[ks:Spēna]]
+[[ku:Spanya]]
+[[kv:Испания]]
+[[kw:Spayn]]
+[[ky:Испания]]
+[[la:Hispania]]
+[[lad:Espanya]]
+[[lb:Spuenien]]
+[[li:Spanje]]
+[[lij:Spagna]]
+[[lmo:Spagna]]
+[[ln:Espania]]
+[[lt:Ispanija]]
+[[lv:Spānija]]
+[[mg:Espaina]]
+[[mi:Pāniora]]
+[[mk:Шпанија]]
+[[ml:സ്പെയിന്‍]]
+[[mn:Испани]]
+[[mr:स्पेन]]
+[[ms:Sepanyol]]
+[[mt:Spanja]]
+[[mwl:Spanha]]
+[[mzn:ئەسپانون]]
+[[na:Pain]]
+[[nah:Caxtillān]]
+[[nap:Spagna]]
+[[nds:Spanien]]
+[[nds-nl:Spanje]]
+[[ne:स्पेन]]
+[[new:स्पेन]]
+[[nl:Spanje]]
+[[nn:Spania]]
+[[no:Spania]]
+[[nov:Spania]]
+[[nrm:Espangne]]
+[[nv:Dibé diníí bikéyah]]
+[[oc:Espanha]]
+[[os:Испани]]
+[[pam:Espanya]]
+[[pap:Spaña]]
+[[pdc:Schpaani]]
+[[pih:Spain]]
+[[pl:Hiszpania]]
+[[pms:Spagna]]
+[[pnb:سپین]]
+[[pnt:Ισπανία]]
+[[ps:اسپانيا]]
+[[pt:Espanha]]
+[[qu:Ispaña]]
+[[rm:Spagna]]
+[[rmy:Spaniya]]
+[[ro:Spania]]
+[[roa-rup:Ispania]]
+[[ru:Испания]]
+[[rw:Espanye]]
+[[sa:स्पेन]]
+[[sah:Испания]]
+[[sc:Ispagna]]
+[[scn:Spagna]]
+[[sco:Spain]]
+[[se:Spánia]]
+[[sh:Španija]]
+[[simple:Spain]]
+[[sk:Španielsko]]
+[[sl:Španija]]
+[[sm:Spania]]
+[[sq:Spanja]]
+[[sr:Шпанија]]
+[[ss:Sipeyini]]
+[[st:Spain]]
+[[stq:Spanien]]
+[[sv:Spanien]]
+[[sw:Hispania]]
+[[szl:Szpańijo]]
+[[ta:எசுப்பானியா]]
+[[te:స్పెయిన్]]
+[[tet:España]]
+[[tg:Испониё]]
+[[th:ประเทศสเปน]]
+[[tl:Espanya]]
+[[to:Sepeni]]
+[[tpi:Spen]]
+[[tr:İspanya]]
+[[tt:Испания]]
+[[ty:Paniora]]
+[[udm:Испания]]
+[[ug:Ispaniye]]
+[[uk:Іспанія]]
+[[ur:ہسپانیہ]]
+[[uz:Ispaniya]]
+[[vec:Spagna]]
+[[vi:Tây Ban Nha]]
+[[vls:Spanje]]
+[[vo:Spanyän]]
+[[war:Espanya]]
+[[wo:Ispaañ]]
+[[wuu:西班牙]]
+[[xal:Эспанмудн Орн Нутг]]
+[[yi:שפאניע]]
+[[yo:Spain]]
+[[za:Sihbanhyaz]]
+[[zea:Spanje]]
+[[zh:西班牙]]
+[[zh-classical:西班牙]]
+[[zh-min-nan:Se-pan-gâ]]
+[[zh-yue:西班牙]]
+[[zu:ISpaniya]]
