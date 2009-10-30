@@ -1,100 +1,237 @@
-. ...
-                         .""." .    ".
-                    . "" '.".:I:."..   ".
-                  .".:.:....:II:".".".. ".
-                .":."::.:::.:II:".".".".. ".
-              ."."."."::.:.:.:I:".".".". .  .
-             ..".".".:.:I::.:II:.".."."..    .
-            .."."":.:.::.:.::II::."."."."..   .
-           ..".".".:.::. .:::II:..".".".".".   .
-          .":."".":".".".:.:I:".".".".".. "..  ..
-          ":. ".":". ..:.::.::.:.".."  ":.".".. ..
-         .:.:.":".   ".:":I:.:.. .".".  ": .".. . ..
-         "..:.:".   .:.II:.:..   . .:.". ".. ". .  ..
-        .. :.:.".  .:.:I:.:. .  . ..:..:. :..":. .  ".
-       .:. :.:.   .:.:I:.:. .    . ..:I::. :: ::  .. ..
-       .. :".".:. .:.:I:".        ..:.:I:. :: ::.   . ".
-       "..:. .:.. .:II:"         ..:IIIH.  ::. ":.      .
-      .:.::".:::..:.AII:.      .::',,  :I .::. ":.       .
-      :..:".:II:.:I:  ,,:"   " .::FBT'X:: ..:.. ":.    . .
-     .. :":III:. :.:A'FBF:.  . .P.IP::':: :I:.."::. .    ..
-     . .:.:II: A.".":.PP:' .  . ..".." .: :.::. ":...  . ..
-     . .: .:IIIH:.   " "." .  ... .    .:. :.:.. :...    ."
-     . .I.::I:IIA.        ..   ...    ..::.".".".: ..  . .
-      .:II.".":IA:.      ..    ..:.  . .:.: .""."  ..  . .
-     ..::I:."."::A:.  . .:"-. .-.:..  .:.::AA.. ..:." .. .
-      ":II:I:.  ":A:. ..:"   "".. . : ..:::AHI: ..:..".".
-     .":III.::.   "II:.:.,.::::::::'. .:::AHV:: .::"" ..
-     ..':IIHI::. .  'I:..'::,,,,::'. . .:AII:: :.:"  . .
-     . . IIHHI:..".�."V::. '::::'   ...:AIIV:".:."  .. .
-      . . :IIHI:. .:.:.V:.   " " . ...:HI:" .:: :. .  ..
-      . .  ":IHII:: ::.IA..      .. .A .,,:::" .:.    .
-      :.  ..."I:I:.: .,AHHA, . ."..AHIV::" . .  :     ..
-      :. ".::::II:.I:.HIHHIHHHHHIHHIHV:"..:. .I.":. ..  ".
-   . . .. "":::I:".::IHHHHHHHHHHHHIHI. ".".:IHI..  "  "  ".
-    ":... .  ""' .::".HHHI:HHHHHHHIHI. :IIHHII:. . . .    .
-     :.:.. . ..::." .IV'.:I:IIIHIHHIH. .:IHI::".": "..  .  .
-   . .:.:: .. ::"."."..":.::I:I:IHHHIA.".II.:...:" ." ... . "..
-  "..::::" ...::".IIHII:: .:.:..:..:III:."::" ."    .    ..  . .
-  "::.:" .""     .. :IIHI:.:.. ..: . .:I:'" ...:.:.  ..    .. ..
-     .:..::I:.  . . . .IHII:.:"   .. ..'.::.:II:.:. .  ...   . ..
-  .. . .::.:.,,...-::II:.:"    . ...... . .. .:II:.::  ...  .. ..
-   ..:.::.I .    . . .. .:. .... ..,:.. . . ..:.::.   :..   . ..
-    .".::I:.      . .. ..:.... . ..... .. . ..::. .. .I:. .." .
-  ."":.: I.       . .. ..:.. .  . .. ..... .:. .:.. .:I.".""..
-  . .:::I:.       . . .. .:. .    .. ..  . ... .:."."I"  .  ...
-  . ::.:I:..     . . . ....:. . .   .... ..   .:...:.:.:. "".""
-  "."::"I:.       . .. ....:. .     .. . ..  .."  .".:..:..    "
-        :. .     . .. .. .:.... .  .  .... ...   .  .:.:.:..    ".
-        :.      .  . . .. .:.... . . ........       .:.:.::. .    .
-        :. .     . . . . .. .::..:  . ..:.. .        ::.:.:.. .    .
-        :.. .    . . .  . .. ..:.:  .. .. .:. ..     ":::.::.:. .   .
-        ":.. .  . . . .. .. ...::" .. ..  . .:. .     V:I:::::.. .   :.
-        "::. .  . .. .. ... .:.::  .. .  . .. .. .     VI:I:::::..   ""B
-         :.. .   . .. ..:.. ..I:... . .  . .. ... .     VII:I:I:::. ."::
-         ":.. . . . .. ..:..:.:I:.:. .  . .. . .:. .     VHIII:I::.:..":
-          ::..   . . .. ..:..:.HI:. .      . . .... .    :HHIHIII:I::..:
-          ":. .  . .. .. ..:.:.:HI:.    . . .. ..... .    HHHHIHII:I::."
-           :.. .  . . .. .:.:.:.HI:.      . . .. ... .    IHHHHIHHIHI:"
-            :..  .  . . .. ..:..IH:.     . . .. .. ... .  "HHHHHHHHI:"
-            ":..   . . .. ..:.:.:HI..   .  . .. . :::::.   IH:'''"
-              :. . .  . .. ..::.:.VI:.     . . .. .:::"::. HIH
-               :..  .  . .. .:.:.:.V:.    . . . ...::I'A:. HHV
-                :. .  .  . .. ..:.:.V:.     . . ....::I::".HV:
-                 :. .  . . . .. .:..II:.  . . . ....":::" AV."
-                  :.. . . .. ... .:..VI:. . . .. .:. ..:.AV".
-                  ":.. . .  .. ..:.:.:HAI:.:...:.:.:.:.AII:.
-                   I:. .  .. ... .:.:.VHHII:..:.:..:A:".:..
-                   IA..  . . .. ..:.:.:VHHHHIHIHHIHI:".::.
-                   "HA:.  . . .. ..:.:.:HHHIHIHHHIHI:..:.
-                    HIA: .  . . .. ...:.VHHHIHIIHI::.:...
-                    HIHI:. .  .. ... .::.HHHIIHIIHI:::..
-                    HII:.:.  .  .. ... .::VHHIHI:I::.:..
-                    AI:..:..  .  . .. ..:.VHIII:I::.:. .
-                   AI:. ..:..  .  . .. .." VHIII:I:... .
-                  AI:. .  .:.. .  .  . ...  VHIII::... .
-                .A:. .      :.. .  . .. .:.. VHII::..  .
-               A:. . .       ::. .. .. . .:.. 'VHI::.. .
-             .:.. .  .        :.. .:..... .::.. VHI:..
-            ... . .  .     . . :.:. ..:. . .::.. VI:..  .
-           .. .. .  .    . . ...:... . .. . .:::. V:..  .
-          ".. ..  .   .  .. ..:::.... .:. . ..::.. V..  .
-        . . .. . .   . . .. ..:::A. ..:. . . .::.. :..
-       . .. .. .. . .  . ... ..::IA.. .. . .  ..::. :..  .
-      .. .. ... . .  .. .... .:.::IA. . .. . ..:.::. :.  .
-     . . . .. .   . . .. ..:..:.::IIA. . .  .. .:.::. :. .
-    .. . .  .   . . .. ... ..:.::I:IHA. .  . . ..:.::. . .
-   .: ..  .  .   . . ... .:.. .:I:IIHHA. .  . .. .::I:. .
-  .::.  .     . . .. ..:. .::.:IIHIIHHHA.  .  .. ..:I:. . .
-  A::..      .  .  ...:..:.::I:IHIHIHHHHA.  .  . ..::I:. .
- :HI:.. .       . .. .:.:.::I:IHIHIIHIHHHA. .   .. .::I:. ..
- AI:.. .. .    . .. .:.:.::II:IHIIIHIHIHHHA.  .  . ..::I:. ..
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''Bundesrepublik Deutschland'''</big></big>
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[File:Flag of Germany.svg|125px]]
+| align="center" width="140px" | [[File:Coat of Arms of Germany.svg|125px]]
+|-
+| align="center" width="140px" | ([[Flag of the Germany|Flag]])
+| align="center" width="140px" | ([[Coat of Arms of Germany|Coat of Arms]])
+|}
+|-
+| align=center colspan=2 | [[File:Europe location GER.png|300px]]
+|}
+A tiko ra [[Yuropa]]. The capital is Berlin. 
+{{Yuropa}}
 
+[[Category:Jarimani]]
+[[Category:Yuropa]]
 
-
-
-ANGIE IS A WHORE
-
-WITH LOVE, 
-
-TROLLS OF TERROR
+[[ace:Jeureuman]]
+[[af:Duitsland]]
+[[als:Deutschland]]
+[[am:ጀርመን]]
+[[an:Alemaña]]
+[[ang:Þēodiscland]]
+[[ar:ألمانيا]]
+[[arc:ܓܪܡܢ]]
+[[arz:المانيا]]
+[[ast:Alemaña]]
+[[ay:Alimaña]]
+[[az:Almaniya]]
+[[ba:Германия]]
+[[bar:Deitschland]]
+[[bat-smg:Vuokītėjė]]
+[[bcl:Alemanya]]
+[[be:Германія]]
+[[be-x-old:Нямеччына]]
+[[bg:Германия]]
+[[bi:Germany]]
+[[bm:Jermani]]
+[[bn:জার্মানি]]
+[[bo:འཇར་མན།]]
+[[bpy:জার্মানি]]
+[[br:Alamagn]]
+[[bs:Njemačka]]
+[[ca:Alemanya]]
+[[cbk-zam:Alemania]]
+[[cdo:Dáik-guók]]
+[[ce:Германе]]
+[[ceb:Alemanya]]
+[[ckb:ئەڵمانیا]]
+[[co:Germania]]
+[[crh:Almaniya]]
+[[cs:Německo]]
+[[csb:Miemieckô]]
+[[cu:Нѣ́мьци]]
+[[cv:Германи]]
+[[cy:Yr Almaen]]
+[[da:Tyskland]]
+[[de:Deutschland]]
+[[diq:Almanya]]
+[[dsb:Nimska]]
+[[dv:ޖަރުމަނުވިލާތް]]
+[[dz:ཇཱར་མ་ནི་]]
+[[ee:Germany]]
+[[el:Γερμανία]]
+[[eml:Germâgna]]
+[[en:Germany]]
+[[eo:Germanio]]
+[[es:Alemania]]
+[[et:Saksamaa]]
+[[eu:Alemania]]
+[[ext:Alemaña]]
+[[fa:آلمان]]
+[[fi:Saksa]]
+[[fiu-vro:S'aksamaa]]
+[[fo:Týskland]]
+[[fr:Allemagne]]
+[[frp:Alemagne]]
+[[fur:Gjermanie]]
+[[fy:Dútslân]]
+[[ga:An Ghearmáin]]
+[[gan:德國]]
+[[gd:A' Ghearmailt]]
+[[gl:Alemaña - Deutschland]]
+[[gn:Alemaña]]
+[[got:𐌸𐌹𐌿𐌳𐌹𐍃𐌺𐌰𐌻𐌰𐌽𐌳]]
+[[gv:Yn Ghermaan]]
+[[hak:Tet-koet]]
+[[haw:Kelemānia]]
+[[he:גרמניה]]
+[[hi:जर्मनी]]
+[[hif:Germany]]
+[[hr:Njemačka]]
+[[hsb:Němska]]
+[[ht:Almay]]
+[[hu:Németország]]
+[[hy:Գերմանիա]]
+[[ia:Germania]]
+[[id:Jerman]]
+[[ie:Germania]]
+[[ig:Germany]]
+[[ilo:Alemania]]
+[[io:Germania]]
+[[is:Þýskaland]]
+[[it:Germania]]
+[[iu:ᔮᒪᓂ/jaamani]]
+[[ja:ドイツ]]
+[[jbo:dotygu'e]]
+[[jv:Jerman]]
+[[ka:გერმანია]]
+[[kab:Lalman]]
+[[kg:Alemanyi]]
+[[kk:Алмания]]
+[[kl:Tyskland]]
+[[km:អាល្លឺម៉ង់]]
+[[kn:ಜರ್ಮನಿ]]
+[[ko:독일]]
+[[ks:जर्मनी]]
+[[ksh:Dütschland]]
+[[ku:Almanya]]
+[[kv:Германия]]
+[[kw:Almayn]]
+[[ky:Германия]]
+[[la:Germania]]
+[[lad:Almania]]
+[[lb:Däitschland]]
+[[lg:Girimane]]
+[[li:Duutsjlandj]]
+[[lij:Germania]]
+[[lmo:Germania]]
+[[ln:Alémani]]
+[[lo:ປະເທດເຢັຽລະມັນ]]
+[[lt:Vokietija]]
+[[lv:Vācija]]
+[[mdf:Германия мастор]]
+[[mg:Alemaina]]
+[[mhr:Немыч Эл]]
+[[mi:Tiamana]]
+[[mk:Германија]]
+[[ml:ജർമ്മനി]]
+[[mn:Герман]]
+[[mr:जर्मनी]]
+[[ms:Jerman]]
+[[mt:Ġermanja]]
+[[myv:Германия Мастор]]
+[[na:Germany]]
+[[nah:Teutontlālpan]]
+[[nap:Germania]]
+[[nds:Düütschland]]
+[[nds-nl:Duutslaand]]
+[[ne:जर्मनी]]
+[[nl:Duitsland]]
+[[nn:Tyskland]]
+[[no:Tyskland]]
+[[nov:Germania]]
+[[nrm:Allemangne]]
+[[nv:Bééshbichʼahí]]
+[[oc:Alemanha]]
+[[os:Герман]]
+[[pa:ਜਰਮਨੀ]]
+[[pag:Germany]]
+[[pam:Alemania]]
+[[pap:Alemania]]
+[[pdc:Deitschland]]
+[[pih:Doichland]]
+[[pl:Niemcy]]
+[[pms:Gërmania]]
+[[pnb:جرمنی]]
+[[pnt:Γερμανία]]
+[[pt:Alemanha]]
+[[qu:Alimanya]]
+[[rm:Germania]]
+[[rmy:Jermaniya]]
+[[rn:Ubudagi]]
+[[ro:Germania]]
+[[roa-rup:Ghermãnia]]
+[[ru:Германия]]
+[[rw:Ubudage]]
+[[sa:जर्मनी]]
+[[sah:Германия]]
+[[sc:Germània]]
+[[scn:Girmania]]
+[[sco:Germany]]
+[[se:Duiska]]
+[[sh:Nemačka]]
+[[simple:Germany]]
+[[sk:Nemecko]]
+[[sl:Nemčija]]
+[[sm:Siamani]]
+[[so:Jarmal]]
+[[sq:Gjermania]]
+[[sr:Немачка]]
+[[srn:Doysrikondre]]
+[[stq:Düütsklound]]
+[[su:Jérman]]
+[[sv:Tyskland]]
+[[sw:Ujerumani]]
+[[szl:Mjymcy]]
+[[ta:செருமனி]]
+[[te:జర్మనీ]]
+[[tet:Alemaña]]
+[[tg:Олмон]]
+[[th:ประเทศเยอรมนี]]
+[[ti:ጀርመን]]
+[[tk:Germaniýa]]
+[[tl:Alemanya]]
+[[tpi:Siamani]]
+[[tr:Almanya]]
+[[tt:Алмания]]
+[[ty:Heremani]]
+[[udm:Германия]]
+[[ug:Gérmaniye]]
+[[uk:Німеччина]]
+[[ur:جرمنی]]
+[[uz:Olmoniya]]
+[[vec:Germania]]
+[[vi:Đức]]
+[[vls:Duutsland]]
+[[vo:Deutän]]
+[[wa:Almagne]]
+[[war:Alemanya]]
+[[wo:Almaañ]]
+[[wuu:德国]]
+[[xal:Немшн Орн Нутг]]
+[[xh:IJamani]]
+[[yi:דייטשלאנד]]
+[[yo:Germany]]
+[[za:Dwzgoz]]
+[[zea:Duutsland]]
+[[zh:德国]]
+[[zh-classical:德國]]
+[[zh-min-nan:Tek-kok]]
+[[zh-yue:德國]]
+[[zu:IJalimani]]
