@@ -1,35 +1,6 @@
 <!-------------------------------->
 <!--          Main Page         -->
 <!-------------------------------->
-<!------------------------------Banner across top of page------------------------------>
-{| style="width:100%; background:#fcfcfc; margin-top:1.2em; border:1px solid #ccc;"
-|style="width:56%; color:#000"| <!-- 
-
------------"Welcome to Wikipedia" and article count---------->
-{| style="width:400px; border:solid 0px; background:none;"
-|style="width:400px; text-align:center; white-space:nowrap; color:#000;"|
-<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Ha ku hoyozela e ka [[Wikipediya]] leyi,</div>
-<div style="top:+0.2em; font-size:95%;">[[encyclopediya]] ya mahala leyi [[Wikipedia:Introduction|lulamisiwaka&nbsp;hi&nbsp;mani na mani]].</div>
-<div id="articlecount" style="width:100%; text-align:center; font-size:85%;">'''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' wa matsalwa hi [[Xitsonga|Xitsonga]]</div>
-|}<!--
-
-------------Portal list on righthand side---------->
-|style="width:14%; font-size:95%;"|
-*[[Portal:Arts|Vuqambhi]]
-*[[Portal:Biography|Biography]]
-|style="width:14%; font-size:95%;"|
-*[[Portal:Geography|Ntivo mbangu]]
-*[[Portal:History|Matimu]]
-|style="width:20%; font-size:95%;"|
-*[[Portal:Science|Ntivo-vuthlarhi]]
-*'''[[Portal:Contents|Minyangwa-nkulu hinkwayo]]'''
-|}<!--
-
-----------Strapline immediately below banner---------->
-{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
-|style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[Wikipedia:About|Nkomiso]]&nbsp;'''·''' [[Wikipedia:Tutorial|Kululamisa]]&nbsp;'''·''' [[Wikipedia:Questions|Swivutiso]]&nbsp;'''·''' [[Help:Contents|Mpfuno]]
-|style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|[[Portal:Contents|Mintlawa]]&nbsp;'''·''' [[Portal:Featured content|Swinavetiso]]&nbsp;'''·''' [[Portal:Contents/Quick index|Xikomba-ndlela A–Z]]
-|}
 {{Main Page banner}}
 <BR>
 {| width=100% cellpadding="0" cellspacing="0" valign="top" style="background:#F1FAFF;"
