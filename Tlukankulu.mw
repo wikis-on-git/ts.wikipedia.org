@@ -42,131 +42,51 @@ searchbuttonlabel=Search
 |style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[Wikipedia:About|Nkomiso]]&nbsp;'''·''' [[Wikipedia:Tutorial|Kululamisa]]&nbsp;'''·''' [[Wikipedia:Questions|Swivutiso]]&nbsp;'''·''' [[Help:Contents|Mpfuno]]
 |style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
 [[Portal:Contents|Leswinga ndzeni]]&nbsp;'''·''' [[Portal:Contents/Categorical index|Mintlawa]]&nbsp;'''·''' [[Portal:Featured content|Swinavetiso]]&nbsp;'''·''' [[Portal:Contents/Quick index|Xikomba-ndlela A–Z]]
-|}
-{{Main Page banner}}
-<BR>
+|}{{Main Page banner}}
+</td></tr>
 {| width=100% cellpadding="0" cellspacing="0" valign="top" style="background:#F1FAFF;"
 |-
 ! style="background:#E3E4FA; border:1px solid #eeeeee; text-align:center;"  | 
-<div style="font-size:120%">[[Image:Flag of South Africa.svg|35px]] [[Image:Flag of Mozambique.svg|35px]] [[Image:Flag of Swaziland.svg|35px]] [[Image:Flag_of_Zimbabwe.svg|35px]] </div>
+<div style="font-size:120%">[[Image:Flag of South Africa.svg|35px|:Afrika Dzonga]] [[Image:Flag of Mozambique.svg|35px]] [[Image:Flag of Swaziland.svg|35px]] [[Image:Flag_of_Zimbabwe.svg|35px]] </div>
+<div style="background:#E3E4FA; text-align:center"><small>''Machangana Matsonga. Swi hluke swa [[Nghunghunyana]] N'wina vo chava ku tsongola swa van'wana''</small>.</center>
+</div>
+|}
+</table>
+<!--        TODAY'S FEATURED CONTENT        -->
+{| id="mp-upper" style="width: 100%; margin:4px 0 0 0; background:none; border-spacing: 0px;"
+<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
+| class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;" |
+{| id="mp-left" style="vertical-align:top; background:#f5fffa;"
+! style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Tsalwa ra siku...</h2>
+|-
+| style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Featured Article}}</div>
+|-
+! style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Xana awu switiva?...</h2>
+|-
+| style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Did you know}}</div>
+|-
+! style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Nxaxamelo wa siku</h2>
+|-
+| style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Featured list}}</div>
+|}
+| style="border:1px solid transparent;" |
+<!--        PIC OF THE DAY        -->
+| class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top;"|
+{| id="mp-right" style="width:100%; vertical-align:top; background:#f5faff;"
+! style="padding:2px;" | <h2 id="mp-itn-h2" style="margin:3px; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">Xifaniso xa siku</h2>
+|-
+| style="color:#000; padding:2px 5px;" | <div id="mp-itn">{{Today's featured picture}}</div>
+|}
 |}
 
-<div style="background:#ccccff; text-align:center">
-'''Hoyo - Hoyo. wa amukeriwa eka wikipedia ya Xitsonga'''</center>
-</div>
-<div style="margin-bottom:.7em; padding:.5em; text-align:left; font-weight:normal; font-size:100%; background:#E3E4FA; border:1px solid #ccccff">
-<div style="position: relative; z-index: 3; width: 620px; height: 420px; margin: 0 auto; font-size: 11pt;">
-<!--
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--        SECTIONS AT BOTTOM OF PAGE        -->
 
---><div style="position: absolute; z-index: 1; left: 200px; top: 10px">
-<p style="text-align:center;">[[Image:ISO 639 Icon ts.svg|40px]]&nbsp;<br>[[Xitsonga|Ririmi ra Xitsonga]]<br>[[Topic:History|Matimu]]</p></div>
-<!--
-
---><div style="position: absolute; z-index: 1; left: 10px; top: 150px">
-<p style="text-align:right;">[[Image:P_geography.png|60px]]&nbsp;<br>[[Xitsonga-Media|Xitsonga na vuhaxi]]<BR>[[Sciences|Ntivo vuthlarhi]]</p></div>
-<!--
-
---><div style="position: absolute; z-index: 1; left: 420px; top: 150px">
-<p style="text-align:left;">[[Image:P_culture.png|60px]]&nbsp;<br>[[Folklore|Migaringani]]<br>[[Wipedia:Statistics|Mintsengo ya Wikipedia]]</p></div>
-<!--
-
---><div style="position: absolute; z-index: 1; left: 150px; top: 100px">
-[[Image:Shangaan-retouch.png|250px]]
-</div>
-<div style="position: absolute; z-index: 1; left: 200px; top: 380px">
-[[Image:WikiHalo.svg|60px]]&nbsp; [[Swivongo swa Xitsonga|Swivongo]]</div>
-</div>
-<BR>
-<BR>
-<p style="text-align:center;">'''Machangana Matsonga. Swi hluke swa [[Nghunghunyana]] <BR> N'wina vo chava ku tsongola swa van'wana'''</p>
-</div><br />
-
-<div class="usermessage"><center>
-[[meta:List of articles all languages should have|List of articles all languages should have]]<br>
-[[Wikipedia:Vital articles|Vital articles (1000)]]<br>
-[[Wikipedia:Vital 100|Vital 100]]
-<center>
-<div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
-<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
-* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
-</div>
-</center>
-<br>
-{| width="60%" style="border:1px solid black" align=center
-|
-<inputbox>
-type=create
-width=45
-</inputbox>
-|}</center></div>
-<br>
-<br>
-
-{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
-|-
-! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Verdana; color:black" |Wikipedia Hi ti ndzimi tinwana
-|-
-| bgcolor="#FFFFFF" style="font: 95% Verdana;" align="left" |{{Wikipedia-Africa}}
-|}
-
-{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
-|-
-! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Verdana; color:black" |Tindzisana ta Wikipedia
-|-
-| bgcolor="#FFFFFF" style="font: 95% Verdana;" align="left" |{{Wikipediasister}}
-|}
-<div align="center">
-'''[[m:Complete list of language Wikipedias available|Complete list]]'''&nbsp;· 
-'''[[:en:Multilingual coordination|Languages working together]]'''&nbsp;· 
-'''[[m:How to start a new wikipedia|Start a Wikipedia for a new language]]'''
-</div>
-<!-- interwikis to many Wikipedias -->
-[[aa:]]
-[[af:]]
-[[ba:]]
-[[ca:]]
-[[ce:]]
-[[da:]]
-[[de:]]
-[[en:]]
-[[eo:]]
-[[eu:]]
-[[fi:]]
-[[fr:]]
-[[ga:]]
-[[gu:]]
-[[haw:]]
-[[hu:]]
-[[ia:]]
-[[it:]]
-[[jv:]]
-[[ka:]]
-[[ko:]]
-[[ku:]]
-[[la:]]
-[[li:]]
-[[mg:]]
-[[mi:]]
-[[mo:]]
-[[na:]]
-[[ne:]]
-[[no:]]
-[[oc:]]
-[[os:]]
-[[pa:]]
-[[pap:]]
-[[qu:]]
-[[ro:]]
-[[sa:]]
-[[si:]]
-[[su:]]
-[[ta:]]
-[[te:]]
-[[uk:]]
-[[ur:]]
-[[vo:]]
-[[wa:]]
-[[xh:]]
-[[yi:]]
-[[za:]]
-[[zu:]]
+<div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#ddcef2; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipedia-Africa}}</div>
+<div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#E3E4FA; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipediasister}}</div>
+<!--        INTERWIKI STRAPLINE TO BE ADDED AT A LATER STAGE       -->
+<noinclude>[[Category:Article Feedback Blacklist|Mbuyelo wa matsalwa]] {{Main Page interwikis}}</noinclude>__NOTOC____NOEDITSECTION__
