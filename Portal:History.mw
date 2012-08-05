@@ -63,7 +63,7 @@ __NOTOC__
 |'''[[Portal:Africana|Matimu ya Afrika]]'''
 |-
 |}
-</big><br>
+</big><br />
 </div>
 {{Robelbox/close}}
 <!-------------------------------->
@@ -91,13 +91,13 @@ minkongomiso yo tshuka yikomba matsalwa lawa mahalavaka ku engeteriwa. Loko uni 
 {{Robelbox|theme=4|title=Ti wiki tinwana to yelana na nyangwa-nkulu wa ta matimu|height=30%}}
 <div style="{{Robelbox/pad}}">
 {| align="center" style="text-align:left"
-| [[Image:Wikiquote-logo.svg|35px|<nowiki></nowiki>]]
+| [[File:Wikiquote-logo.svg|35px|<nowiki></nowiki>]]
 | [[q:History|'''Matimu e ka Wikiquote''']]</br> Quotes
-| [[Image:Commons-logo.svg|35px|<nowiki></nowiki>]]
+| [[File:Commons-logo.svg|35px|<nowiki></nowiki>]]
 | [[commons:History|'''Matimu e ka Commons''']]</br> Images
-| [[Image:Wikisource-logo.svg|35px|<nowiki></nowiki>]]
+| [[File:Wikisource-logo.svg|35px|<nowiki></nowiki>]]
 | [[s:Category:History|'''Matimu e ka Wikisource''']]</br> Texts
-| [[Image:Wikibooks-logo.svg|35px|<nowiki></nowiki>]]
+| [[File:Wikibooks-logo.svg|35px|<nowiki></nowiki>]]
 | [[:wikibooks:History|'''Matimu e ka Wikibooks''']]</br> Manuals & Texts
 |}
 </div>
@@ -122,6 +122,7 @@ minkongomiso yo tshuka yikomba matsalwa lawa mahalavaka ku engeteriwa. Loko uni 
 [[fi:Teemasivu:Historia]]
 [[fr:Portail:Histoire]]
 [[fy:Tema:Skiednis]]
+[[gag:Portal:Tarih]]
 [[he:פורטל:היסטוריה]]
 [[hr:Portal:Povijest]]
 [[hu:Portál:Történelem]]
