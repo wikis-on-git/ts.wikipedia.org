@@ -90,5 +90,3 @@ searchbuttonlabel=Search
 <div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#E3E4FA; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipediasister}}</div>
 <!--        INTERWIKI STRAPLINE TO BE ADDED AT A LATER STAGE       -->
 <noinclude>[[Category:Article Feedback Blacklist|Mbuyelo wa matsalwa]] {{Main Page interwikis}}</noinclude>__NOTOC____NOEDITSECTION__
-
-[[bug:Mappadecéŋ]]
