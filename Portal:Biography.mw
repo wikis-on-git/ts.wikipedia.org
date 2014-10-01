@@ -1,4 +1,8 @@
-[[Portal:Geography|'''Ntivombangu''']]&nbsp;'''·''' [[Portal:History|'''Matimu''']]&nbsp;'''·''' [[Portal:Science|'''Ntivovutlhari''']]&nbsp;'''·''' [[Portal:Contents|'''Minyangwankulu hinkwayo''']]
+__NOTOC__ 
+<!----------Strapline immediately below banner---------->
+{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
+|style="font-size:120%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"|'''Minyangwankulu ya laha Wikipediyeni leyi:'''
+|style="font-size:100%; padding:10px 0; margin:0px; text-align:center; white-space:nowrap; color:#000;"|[[Portal:Arts|'''Vuqambi''']]&nbsp;'''·''' [[Portal:Biography|'''Biography''']]&nbsp;'''·''' [[Portal:Geography|'''Ntivombangu''']]&nbsp;'''·''' [[Portal:History|'''Matimu''']]&nbsp;'''·''' [[Portal:Science|'''Ntivovutlhari''']]&nbsp;'''·''' [[Portal:Contents|'''Minyangwankulu hinkwayo''']]
 |}
 <!-------------------------------->
 <!--      Full Column           -->
@@ -53,4 +57,22 @@ mikongomiso ya rihlaza yi komba matsalwa lawa ma ha lavaka ku hlakarhirisiwa. Lo
 |width=50% valign=top height=50px|
 {{Robelbox|theme=10|title=Matsalwa lama lavaka ku engeteriwa|icon=Admin_mop.PNG|iconwidth=46px|height=30%}}
 <div style="{{Robelbox/pad}}">
-mikongomiso yo tshuka yi komba matsalwa lawa ma ha lavaka ku engeteriwa. Loko u ri ni vuxokoxoko byo karhi, u nga tumbuluxa tsalwa leri yelanaka na leswi ivi u sungula ku tsala. Kumbe u nga langutisa tsalwa l
+mikongomiso yo tshuka yi komba matsalwa lawa ma ha lavaka ku engeteriwa. Loko u ri ni vuxokoxoko byo karhi, u nga tumbuluxa tsalwa leri yelanaka na leswi ivi u sungula ku tsala. Kumbe u nga langutisa tsalwa leri yelanaka eka [[:en:wikipedia:Portal:Biography|Nyangwa-nkulu wa ta matimu ya vanhu  eka wikipediya ya Xinghezi]]. 
+
+</div>
+{{Robelbox/close}}
+|}
+{{Robelbox|theme=10|title=Tiwiki tin'wana to yelana na nyangwankulu wa ta Matimu ya vanhu|height=30%}}
+<div style="{{Robelbox/pad}}">
+{| align="center" style="text-align:left"
+| [[File:Wikiquote-logo.svg|35px|<nowiki></nowiki>]]
+| [[q:Category:Biography|'''Matimu ya vanhu eka Wikiquote''']]</br> Mitshaho
+| [[File:Commons-logo.svg|35px|<nowiki></nowiki>]]
+| [[commons:Category:Biography|'''Matimu ya vanhu eka Commons''']]</br> Swifaniso
+| [[File:Wikisource-logo.svg|35px|<nowiki></nowiki>]]
+| [[s:Category:Biography|'''Matimu ya vanhu eka Wikisource''']]</br> Matsalwa
+| [[File:Wikibooks-logo.svg|35px|<nowiki></nowiki>]]
+| [[b:Wikibooks:Biography|'''Matimu ya vanhu eka Wikibooks''']]</br> Tibuku na matsalwa
+|}
+</div>
+{{Robelbox/close}}
