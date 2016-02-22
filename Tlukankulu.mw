@@ -61,7 +61,7 @@ searchbuttonlabel=Search
 |-
 | style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Did you know}}</div>
 |-
-! style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Nxaxamelo wa siku</h2>
+! style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Xifaniso xa siku</h2>
 |-
 | style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Today's featured picture}}</div>
 |}
@@ -71,7 +71,7 @@ searchbuttonlabel=Search
 {| id="mp-right" style="width:100%; vertical-align:top; background:#f5faff;"
 ! style="padding:2px;" | <h2 id="mp-itn-h2" style="margin:3px; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">Xifaniso xa siku</h2>
 |-
-| style="color:#000; padding:2px 5px;" | <div id="mp-itn">{{Today's featured picture}}</div>
+| style="color:#000; padding:2px 5px;" | <div id="mp-itn">{{Featured Articles}}</div>
 |-
 ! style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Pfuna ku Hundzuluxa...</h2>
 |-
