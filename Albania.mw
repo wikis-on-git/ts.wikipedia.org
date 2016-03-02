@@ -1,20 +1,15 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Republika e Shqipërisë'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag of Albania.svg|125px]]
-| align="center" width="140px" | [[File:Albania state emblem.svg|65px]]
-|-
-| align="center" width="140px" | ([[Flag of Albania|Flag]])
-| align="center" width="140px" | ([[Coat of Arms of Albania|Coat of Arms]])
-|}
-|-
-| align="center" colspan=2 | <small>''[[National motto]]: Ti Shqipëri më jep nderë,më jep emrin Shqiptar''</big>
-|-
-| align=center colspan=2 | [[File:Location_Albania_Europe.png|300px]]
-|}
+{{Tiko
+|name               = Republika e Shqipërisë
+|mujeko             = Flag of Albania.svg
+|coa                = Albania state emblem.svg
+|image              = Location_Albania_Europe.png
+|Ntsindza           = Tirana
+|official_languages = 
+|area               = 28 748
+|population         = 3 000 664
+|year               = 2014
+|density            = 104,38
+}}
 '''Albania''' a tiko ra [[Yuropa]].
 
 {{Yuropa}}
