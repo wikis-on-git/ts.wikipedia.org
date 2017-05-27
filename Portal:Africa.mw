@@ -4,7 +4,6 @@ __NOTOC__
 <!-------------------------------->
 {|width=100% border="0" cellspacing="0" cellpadding="0" style="padding:0px; margin:2px;" |
 |-
-|colspan=3 valign=top|
 {{Robelbox|theme=2|title=Nyangwankulu wa Afrika|height=10%}}
 <div style="{{Robelbox/pad}}">
 <center>[[File:Portal_Africa_logo_(ts).png]]</center>
@@ -19,8 +18,9 @@ __NOTOC__
 <!--     Left Column            -->
 <!-------------------------------->
 |-
-|width=65% valign=top height=50px|
-{{Robelbox|theme=2|title=Matiko ya Afrika|height=30%}}
+|colspan=3 valign=top|
+|width=100% valign=top height=100%|
+{{Robelbox|theme=2|title=Matiko ya Afrika|height=100%}}
 <div style="{{Robelbox/pad}}">
 {{Afrika-xifaniso}}
 <BR>
@@ -29,7 +29,9 @@ __NOTOC__
 <!-------------------------------->
 <!--     Right Column           -->
 <!-------------------------------->
-|width=35% valign=top height=50px|
+|-
+|colspan=3 valign=top|
+|width=100% valign=top height=100%|
 {{Robelbox|theme=2|title=Endzeni ka Nyangwa-nkulu lowu|height=30%}}
 <div style="{{Robelbox/pad}}">
 {{:Portal:Africa/About}}
@@ -41,6 +43,7 @@ Ha ku amukela laha Nyangweni-nkulu wa Afrika. Laha u ta kuma nxaxamelo wa Matsal
 </div>
 {{Robelbox/close}}
 |}
+
 {{Robelbox|theme=2|title=Ti wiki tinwana to yelana na nyangwa-nkulu wa ta Vuqambhi|height=30%}}
 <div style="{{Robelbox/pad}}">
 {| align="center" style="text-align:left"
