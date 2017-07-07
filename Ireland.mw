@@ -1,20 +1,18 @@
 {{Translate|http://en.wikipedia.org/wiki/Ireland}}
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Éire<br />Ireland'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag of Ireland.svg|125px]]
-| align="center" width="140px" | [[File:Coat of arms of Ireland.svg|125px]]
-|-
-| align="center" width="140px" | ([[Flag of the Ireland|Flag]])
-| align="center" width="140px" | ([[Coat of Arms of Ireland|Coat of Arms]])
-|}
-|-
-| align=center colspan=2 | [[File:Europe location IRL.png|300px]]
-|}
-A tiko ra [[Yuropa]]. The capital is Dublin. 
+{{Tiko
+|name               = Ireland
+|mujeko             = Flag of Ireland.svg
+|coa                = Coat of arms of Ireland.svg
+|image              = [[File:Europe location IRL.png|190px|center]]
+|Ntsindza           =  Dublin
+|official_languages = -
+|area               = 70 273 
+|population         = 4 761 865
+|year               = 2016
+|density            = 67,7
+}}
+
+A tiko ra [[Yuropa]]. 
 
 {{Yuropa}}
 
