@@ -88,7 +88,7 @@ searchbuttonlabel=Search
 </td>
 </tr>
 </table>
-<!--        SECTIONS AT BOTTOM OF PAGE        -->
+<!--      SECTIONS AT BOTTOM OF PAGE        -->
 
 <div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#ddcef2; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipedia-Africa}}</div>
 <div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#E3E4FA; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipediasister}}</div>
