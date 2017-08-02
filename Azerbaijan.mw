@@ -1,21 +1,15 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Azərbaycan Respublikası'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag of Azerbaijan.svg|125px]]
-| align="center" width="140px" | [[File:Emblem_of_Azerbaijan.svg|65px]]
-|-
-| align="center" width="140px" | ([[Flag of Azerbaijan|Flag]])
-| align="center" width="140px" | ([[Coat of Arms of Azerbaijan|Coat of Arms]])
-|}
-|-
-| align="center" colspan=2 | <small></big>
-|-
-| align=center colspan=2 | [[File:Azerbaijan (orthographic projection).png|300px]]
-|}
-
+{{Tiko
+|name               = '''Azərbaycan Respublikası''' 
+|mujeko             = Flag of Azerbaijan.svg
+|coa                = Emblem_of_Azerbaijan.svg
+|image              = [[File:Azerbaijan (orthographic projection).png|190px|center]]
+|Ntsindza           = -
+|official_languages = -
+|area               = 86 600
+|population         = 9 823 667
+|year               = 2017
+|density            = 113
+}}
 '''Azerbaijan''' a tiko ra [[Yuropa]].
 
 {{Yuropa}}
