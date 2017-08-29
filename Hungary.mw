@@ -1,18 +1,15 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Magyarország'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag of Hungary.svg|125px]]
-| align="center" width="140px" | [[File:Coat of Arms of Hungary.svg|65px]]
-|-
-| align="center" width="140px" | ([[Flag of the Hungary|Flag]])
-| align="center" width="140px" | ([[Coat of Arms of Hungary|Coat of Arms]])
-|}
-|-
-| align=center colspan=2 | [[File:Location Hungary EU Europe.png|300px]]
-|}
+{{Tiko
+|name               = '''Magyarország'''
+|mujeko             = Flag of Hungary.svg
+|coa                = Coat of arms of Hungary.svg
+|image              = [[File:Location Hungary EU Europe.png|190px|right]]
+|Ntsindza           = Budapest
+|official_languages = 
+|area               = 93 030
+|population         = 9 797 561
+|year               = 2017
+|density            = 105
+}}
 '''Hungary''' a tiko ra [[Yuropa]].
 
 [[File:Agárd 009.jpg|250px|thumbnail|right|Lake Velence, Agárd, Hungary]]
