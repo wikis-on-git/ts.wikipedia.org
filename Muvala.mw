@@ -1,0 +1,58 @@
+[[File:Colouring_pencils.jpg|right|thumb|300x300px|Tipenisele ta mihlovo-hlovo]]
+[[File:Colour_shift.jpg|thumb|300x300px|Colors can appear different depending on their surrounding colors and shapes. The two small squares have exactly the same color, but the right one looks slightly darker.]]
+'''Muhlovo''' i xihlawulekisi xa kuvona ka matihlo ya munhu lexi hambanisaka leswivoniwaka, hi ku hambanisa mihlovo hi maviti yo fana tshwuka, wasi, xitshopani, rihlaza, tshopi, kumbe vhangazi. Mihlovo wu endliwa hi miseve ya rivoningo leyi thlerisiwaka yiya nghena e tihlweni.
+
+By defining a color space, colors can be identified numerically by coordinates.  The RGB color space for instance is a color space corresponding to human trichromacy and to the three cone cell types that respond to three bands of light: long wavelengths, peaking near 564–580 nm (''red''); medium-wavelength, peaking near 534–545&nbsp;nm (''green''); and short-wavelength light, near 420–440&nbsp;nm (''blue'').<ref name="Wyszecki">{{cite book|first=Günther|last=Wyszecki|author2=Stiles, W.S.|year=1982|title=Colour Science: Concepts and Methods, Quantitative Data and Formulae|edition=2nd|pages=|publisher=Wiley Series in Pure and Applied Optics|location=New York|isbn=0-471-02106-7}}</ref><ref>{{cite book|author=R. W. G. Hunt|year=2004|title=The Reproduction of Colour|edition=6th|pages=11–12|publisher=Wiley–IS&T Series in Imaging Science and Technology|location=Chichester UK|isbn=0-470-02425-9}}</ref>    There may also be more than three color dimensions in other color spaces, such as in the CMYK color model, wherein one of the dimensions relates to a color's colorfulness).
+{| class="wikitable" style="float: right; width: 400px; margin: 1em 0px 30px 1em; clear: right;"
+|+ '''Mihlovo leyi vumbaka rivoningo'''<ref>{{Cite book}}</ref>
+! colspan="2" style="text-align: left;" |Muhlovo
+! abbr="wavelength" |<br>
+! abbr="frequency" |<br>
+|-
+! style="background: rgb(255, 0, 0) none repeat scroll 0% 0%;" |<br>
+! style="text-align: left;" |Tshwuka
+|<br>
+|<br>
+|-
+! style="background: rgb(255, 128, 0) none repeat scroll 0% 0%;" |<br>
+! style="text-align: left;" |Tshopi
+|<br>
+|<br>
+|-
+! style="background: rgb(255, 255, 0) none repeat scroll 0% 0%;" |<br>
+! style="text-align: left;" |Halandi
+|<br>
+|<br>
+|-
+! style="background: rgb(0, 255, 0) none repeat scroll 0% 0%;" |<br>
+! style="text-align: left;" |Rihlaza
+|<br>
+|<br>
+|-
+! style="background: rgb(0, 255, 255) none repeat scroll 0% 0%;" |<br>
+! style="text-align: left;" |Wasi-Lwandle
+|<br>
+|<br>
+|-
+! style="background: rgb(0, 0, 255) none repeat scroll 0% 0%;" |<br>
+! style="text-align: left;" |Wasi
+|<br>
+|<br>
+|-
+! style="background: rgb(128, 0, 255) none repeat scroll 0% 0%;" |<br>
+! style="text-align: left;" |Vhangazi
+|<br>
+|<br>
+|}
+
+== Additional terms ==
+* Color wheel: an illustrative organization of color hues in a circle that shows relationships.
+* Colorfulness, chroma, purity, or saturation: how "intense" or "concentrated" a color is. Technical definitions distinguish between colorfulness, chroma, and saturation as distinct perceptual attributes and include purity as a physical quantity. These terms, and others related to light and color are internationally agreed upon and published in the CIE Lighting Vocabulary.<ref>CIE Pub. 17-4, [http://www.cie.co.at/publ/abst/17-4-89.html International Lighting Vocabulary], 1987. http://www.cie.co.at/publ/abst/17-4-89.html</ref> More readily available texts on colorimetry also define and explain these terms.<ref>R.S. Berns, [http://www.wiley.com/WileyCDA/WileyTitle/productCd-047119459X.html Principles of Color Technology], 3rd Ed., Wiley, New York (2001).</ref>
+* Dichromatism: a phenomenon where the hue is dependent on concentration and thickness of the absorbing substance.
+* Hue: the color's direction from white, for example in a color wheel or chromaticity diagram.
+* Shade: a color made darker by adding black.
+* Tint: a color made lighter by adding white.
+* Value, brightness, lightness, or luminosity: how light or dark a color is.
+
+== Minthsaho ==
+{{reflist|30em}}
