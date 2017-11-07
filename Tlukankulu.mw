@@ -39,7 +39,7 @@ searchbuttonlabel=Search
 |style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
 [[Portal:Contents|Leswi nga ndzeni]]&nbsp;'''·''' [[Portal:Contents|Mitlawa]]&nbsp;'''·''' [[Portal:Featured content|Swinavetiso]]&nbsp;'''·''' [[Portal:Contents/Quick index|Xikombandlela A–Z]]
 |}{{Main Page banner}}
-</td></tr>
+
 {| width=100% cellpadding="0" cellspacing="0" valign="top" style="background:#F1FAFF;"
 |-
 ! style="background:#E3E4FA; border:1px solid #eeeeee; text-align:center;"  | 
@@ -47,7 +47,7 @@ searchbuttonlabel=Search
 <div style="background:#E3E4FA; text-align:center"><small>''Vutsonga i Vukosi. Thimbya-rimbya! Ku veleka vukosi!''</small>.</center>
 </div>
 |}
-</table>
+
 <!--        TODAY'S FEATURED CONTENT        -->
 {| id="mp-upper" style="width: 100%; margin:4px 0 0 0; background:none; border-spacing: 0px;"
 <!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
@@ -83,14 +83,8 @@ searchbuttonlabel=Search
 |}
 |}
 
-</tr>
-</table>
-</td>
-</tr>
-</table>
-<!--      SECTIONS AT BOTTOM OF PAGE        -->
 
-<div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#ddcef2; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipedia-Africa}}</div>
+<!--      SECTIONS AT BOTTOM OF PAGE        --><div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#ddcef2; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipedia-Africa}}</div>
 <div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#E3E4FA; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipediasister}}</div>
 <!--        INTERWIKI STRAPLINE TO BE ADDED AT A LATER STAGE       -->
 <noinclude>[[Category:Article Feedback Blacklist|Mbuyelo wa matsalwa]] </noinclude>__NOTOC____NOEDITSECTION__
