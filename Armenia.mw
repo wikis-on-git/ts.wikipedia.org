@@ -1,17 +1,11 @@
-{{Tiko
-|name               = Armenia
-|mujeko             = Flag of Armenia.svg
-|coa                = Coat_of_arms_of_Armenia.svg
-|image              = [[File:Armenia_(orthographic_projection).svg|190px]]
-|Ntsindza           = -
-|official_languages = -
-|area               = 29,743
-|population         = 3,051,250 
-|year               = 2016
-|density            = 102.6
+{{Coord|40|N|45|E|display=title}}
+{{Infobox tiko
+|name_ts=Armeniya
+|name=Armenia
+|name_oth=Republic of Armenia
+|native_name=Հայաստանի Հանրապետություն
+|flag_image=Flag_of_Armenia.svg
+|coa_image=Coat_of_arms_of_Armenia.svg
+|map_image=Armenia_(orthographic_projection).svg
+|continent=Axiya
 }}
-'''Armenia''' a tiko ra [[Axiya]].
-
-{{Yuropa}}
-
-[[Category:Axiya]]
