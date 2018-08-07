@@ -1,17 +1,93 @@
-{{Tiko
-|name               = '''Azərbaycan Respublikası''' 
-|mujeko             = Flag of Azerbaijan.svg
-|coa                = Emblem_of_Azerbaijan.svg
-|image              = [[File:Azerbaijan (orthographic projection).png|190px|center]]
-|Ntsindza           = -
-|official_languages = -
-|area               = 86 600
-|population         = 9 823 667
-|year               = 2017
-|density            = 113
+{{coord|40.3|N|47.7|E}}
+{{bold|Azerbaijan}} i tiko ra [[Axiya]].
+{{Infobox country
+| conventional_long_name = Republic of Azerbaijan
+| common_name = Azerbaijan
+| native_name =   {{native name|az|Azərbaycan Respublikası}}
+| image_flag = Flag of Azerbaijan.svg
+| alt_flag = Three equally sized horizontal bands of blue, red, and green, with a white crescent and an eight-pointed star centered in the red band
+| image_coat = Coat of arms of Azerbaijan.svg
+| symbol_type = Emblem
+| national_motto = 
+| national_anthem = {{vunblist |''[[Azərbaycan marşı]]'' |{{small|"March of Azerbaijan"}}|<center>[[File:Azerbaijan national anthem (vocal version).ogg]]</center>}}
+| image_map = Azerbaijan with Nagorno Karabakh region.svg
+| map_caption = Location of Azerbaijan (green) and [[Republic of Artsakh|Artsakh]]<ref group=lower-alpha name="region"/> (light green).
+| capital = [[Baku]]
+| largest_city = capital
+| coordinates = {{Coord|40|25|N|49|50|E|type:city}}
+| official_languages = [[Azerbaijani language|Azerbaijani]]
+| ethnic_groups_year = 2009<ref name="auto">[https://web.archive.org/web/20131110034957/http://www.azstat.org/statinfo/demoqraphic/az/AP_/AZ_1.shtml The State Statistical Committee of the Azerbaijan Republic, The ethnic composition of the population according to the 2009 census.] {azstat.org</ref>
+| ethnic_groups = {{Unbulleted list |91.60% [[Azerbaijani people|Azerbaijani]] |2.02% [[Lezgian people|Lezgian]]|1.35% [[Armenians in Azerbaijan|Armenian]]|1.34% [[Russians in Azerbaijan|Russian]]|1.26% [[Talysh people|Talysh]]|item3_style=padding-top:0.2em;line-height:1.2em|2.43% [[Azerbaijan#Ethnic groups|Others]]}}
+| languages_type = Ethnic minority languages
+| languages = [[Avar language|Avar]], [[Budukh language|Budukh]], [[Georgian language|Georgian]], [[Juhuri language|Juhuri]], [[Khinalug language|Khinalug]], [[Kryts language|Kryts]],  [[Kurdish language|Kurdish]], [[Lezgian language|Lezgian]], [[Russian language|Russian]], [[Rutul language|Rutul]], [[Talysh language|Talysh]], [[Tat language (Caucasus)|Tat]], [[Tsakhur language|Tsakhur]] and [[Udi language|Udi]]
+| demonym = Azerbaijani
+| government_type = {{nowrap|[[Unitary state|Unitary]] [[Dominant-party system|dominant-party]]}} {{nowrap|[[Semi-presidential system|semi-presidential]] [[republic]]}}<ref name="LaPorte2016">{{cite book |last=LaPorte |first=Jody |author-link=<!-- Jody LaPorte --> |year=2016 |chapter=Semi-presidentialism in Azerbaijan |chapter-url=https://link.springer.com/chapter/10.1057/978-1-137-38781-3_4 |chapter-format=PDF |editor1-last=Elgie |editor1-first=Robert |editor1-link=Robert Elgie (academic) |editor2-last=Moestrup |editor2-first=Sophia |editor2-link=Sophia Moestrup |title=Semi-Presidentialism in the Caucasus and Central Asia |url=https://link.springer.com/book/10.1057/978-1-137-38781-3 |location=London |publisher=[[Palgrave Macmillan]] |publication-date=15 May 2016 |pages=91–117 |doi=10.1057/978-1-137-38781-3_4 |isbn=978-1-137-38780-6 |lccn=2016939393 |oclc=6039791976 |access-date=13 October 2017 |quote=LaPorte examines the dynamics of semi-presidentialism in Azerbaijan. Azerbaijan’s regime is a curious hybrid, in which semi-presidential institutions operate in the larger context of authoritarianism. The author compares formal Constitutional provisions with the practice of politics in the country, suggesting that formal and informal sources of authority come together to enhance the effective powers of the presidency. In addition to the considerable formal powers laid out in the Constitution, Azerbaijan’s president also benefits from the support of the ruling party and informal family and patronage networks. LaPorte concludes by discussing the theoretical implications of this symbiosis between formal and informal institutions in Azerbaijan’s semi-presidential regime. |postscript=. |ref=harv }}</ref>
+| leader_title1 = [[President of Azerbaijan|President]]
+| leader_name1 = [[Ilham Aliyev]]
+| leader_title2 = [[Vice President of Azerbaijan|Vice President]]
+| leader_name2 = [[Mehriban Aliyeva]]
+| leader_title3 = [[Prime Minister of Azerbaijan|Prime Minister]]
+| leader_name3 = [[Novruz Mammadov]]
+| legislature = [[National Assembly of Azerbaijan|National Assembly]]
+| sovereignty_type = [[History of Azerbaijan|Formation]]
+| established_event1 = [[Azerbaijan Democratic Republic|Democratic Republic]]
+| established_date1 = 28 May 1918
+| established_event2 = [[Azerbaijan Soviet Socialist Republic|Soviet Socialist Republic]]
+| established_date2 = 28 April 1920
+| established_event3 = Independence from [[Soviet Union]]
+| established_date3 = 30 August 1991 (declared)<br />18 October 1991 (independence)<br />25 December 1991 (completed)
+| established_event4 = [[Alma-Ata Protocol|Full membership into the CIS]]
+| established_date4 = 21 December 1991
+| established_event5 = [[United Nations Security Council Resolution 742|Admitted to the]] [[United Nations]]
+| established_date5 = 2 March 1992
+| established_event6 = {{nowrap|[[Constitution of Azerbaijan|Constitution]] adopted}}
+| established_date6 = 12 November 1995
+| area_km2 = 86600
+| area_rank = 111th
+| area_sq_mi = 33436 
+| percent_water = 1.6
+| population_estimate = 9,911,646<ref>{{cite web|url=http://www.worldometers.info/world-population/azerbaijan-population/ |title=Аzərbаycаndа dеmоqrаfik vəziyyət |language=Azerbaijani |publisher=Azərbaycan Respublikasının Dövlət Statistika Komitəsi |date=13 October 2017}}</ref>
+| population_estimate_year = 2018
+| population_estimate_rank = 91st
+| population_density_km2 = 113
+| population_density_sq_mi = 293 
+| population_density_rank = 99th
+| GDP_PPP = $175&nbsp;billion<ref name="imf2">
+{{cite web 
+|url=http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=66&pr.y=6&sy=2015&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=912&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=
+|title=Azerbaijan
+|publisher=International Monetary Fund 
+}}</ref>
+| GDP_PPP_year = 2018
+| GDP_PPP_rank = 72nd
+| GDP_PPP_per_capita = $17,857<ref name=imf2/>
+| GDP_PPP_per_capita_rank = 71st
+| GDP_nominal = $39.207 billion <ref name=imf2/>
+| GDP_nominal_year = 2018
+| GDP_nominal_rank = 110th
+| GDP_nominal_per_capita = $4,097<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 110th
+| Gini = 31.8 
+| Gini_year = 2018
+| Gini_change = 
+| Gini_ref = <ref name="wb-gini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=AZ |title=Gini Index|publisher=World Bank |accessdate=13 December 2017}}</ref>
+| Gini_rank = 
+| HDI = 0.759 
+| HDI_year = 2018
+| HDI_change = increase
+| HDI_ref = <ref name="HDI">{{cite web|url=http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf|title=Human Development Report 2016 – "Human Development for everyone"|date=2016|accessdate=21 March 2017|publisher=United Nations Development Programme}}</ref>
+| HDI_rank = 78th
+| currency = [[Azerbaijani manat|Manat]] (₼)
+| currency_code = AZN
+| time_zone = [[Azerbaijan Time|AZT]] ([[UTC+04]])
+| utc_offset_DST = 
+| drives_on = right
+| calling_code = [[Telephone numbers in Azerbaijan|+994]]
+| cctld = [[.az]]
 }}
-'''Azerbaijan''' a tiko ra [[Yuropa]].
 
-{{Yuropa}}
+{{Axiya}}
 
-[[Category:Yuropa]]
+==Mintsaho==
+{{reflist}}
+[[Category:Axiya]]
