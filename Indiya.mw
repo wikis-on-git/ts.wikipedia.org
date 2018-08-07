@@ -1,4 +1,4 @@
-{{Infobox tiko
+<div>{{Infobox tiko
 | conventional_long_name = Republic of India
 | common_name = India
 | native_name = {{IAST|Bhārat Gaṇarājya}} <!--Do NOT remove this from the infobox as infobox translations and transliterations do not fall under [[WP:INDICSCRIPT]].-->
@@ -131,8 +131,10 @@
   }}
 | area_magnitude = 1 E12
 | official_website = <!-- do not add www.gov.in - The article is about the country, not the government - from Template:Infobox country, "do not use government website (e.g. usa.gov) for countries (e.g. United States) -->
-}}
+}}</div>
+<div>
 ==Mintsaho==
 {{reflist|2}}
 {{Axiya}}
 [[Category:Matiko ya Axiya]]
+</div>
