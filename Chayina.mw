@@ -1,22 +1,115 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''中华人民共和国'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag_of_the_People%27s_Republic_of_China.svg|125px]]
-| align="center" width="140px" | [[File:National_Emblem_of_the_People%27s_Republic_of_China.svg|125px]]
-|-
-| align="center" width="140px" | ([[Flag of China|Flag]])
-| align="center" width="140px" | ([[Coat of Arms of China|Coat of Arms]])
-|}
-|-
-| align="center" colspan=2 | <small></big>
-|-
-| align=center colspan=2 | [[File:China in its region (claimed hatched).svg|300px]]
-|}
-'''Chayina''' i tiko ra [[Asia]].
+{{bold|Chayina}} i tiko ra [[Axiya]].
+
+{{Infobox country
+| conventional_long_name = People's Republic of China
+| common_name = China
+| native_name = {{vunblist|{{nobold|{{lang|zh-hans|中华人民共和国|italics=no}}}} |{{small|''Zhōnghuá Rénmín Gònghéguó''}}}}
+| image_flag = Flag of the People's Republic of China.svg
+| image_coat = People's Republic of China National Emblem.svg
+| symbol_type = National Emblem
+| national_motto = 
+| national_anthem = {{vunblist|"[[March of the Volunteers]]"|{{lang|zh-hans|义勇军进行曲}}|''Yìyǒngjūn Jìnxíngqǔ''}}{{lower|0.2em|[[File:March of the Volunteers instrumental.ogg|center]]}}
+| image_map = People's Republic of China (orthographic projection).svg
+| map_width = 220px
+| map_caption = Area controlled by the People's Republic of China shown in dark green; claimed but uncontrolled regions shown in light green.
+| capital = [[Beijing]]{{efn|[[Postal map romanization|Romanized]] as "Peking" prior to the adoption of [[Pinyin]].}}
+| coordinates = {{Coord|39|55|N|116|23|E|type:city}}
+| largest_city = [[Shanghai]]<ref>{{cite journal |author=Chan, Kam Wing |title=Misconceptions and Complexities in the Study of China's Cities: Definitions, Statistics, and Implications |journal=[[Eurasian Geography and Economics]] |year=2007 |volume=48 |issue=4 |pages=383–412 |url=http://courses.washington.edu/chinageo/ChanCityDefinitionsEGE2007.pdf |format=PDF|accessdate=7 August 2011 |archiveurl=https://web.archive.org/web/20130115173048/http://courses.washington.edu/chinageo/ChanCityDefinitionsEGE2007.pdf|archivedate=15 January 2013|doi=10.2747/1538-7216.48.4.383}} p. 395</ref>
+| official_languages = {{nowrap|[[Standard Chinese]]<ref name="langlaw">{{cite web |url=http://www.gov.cn/english/laws/2005-09/19/content_64906.htm |title=Law of the People's Republic of China on the Standard Spoken and Written Chinese Language (Order of the President No.37) |publisher=Chinese Government|date=31 October 2000|accessdate=21 June 2013 |quote=For purposes of this Law, the standard spoken and written Chinese language means Putonghua (a common speech with pronunciation based on the Beijing dialect) and the standardized Chinese characters.}}</ref>{{efn|[[Portuguese language|Portuguese]] ([[Macau]] only), [[English language|English]] ([[Hong Kong]] only).}}}}
+| languages_type = [[Official script]]
+| languages = [[Simplified Chinese]]{{efn|In the [[special administrative region]]s of [[Hong Kong]] and Macau, [[Traditional Chinese characters]] are used}}
+| languages2_type = Recognised regional<br />languages<ref>{{Citation|url=http://www.chinatoday.com/general/a.htm#LANGU|title=General Information of the People's Republic of China (PRC): Languages|publisher=chinatoday.com|accessdate=17 April 2008}}</ref>
+| languages2 = {{hlist |[[Mongolian language|Mongol (Mongolian)]] |[[Uyghur language|Uygur (Uyghur)]] |[[Standard Tibetan|Zang (Tibetan)]] | [[Standard Zhuang|Zhuang]] |[[Languages of China|various others]]}}
+| religion = See ''[[Religion in China]]''
+| ethnic_groups = {{vunblist
+|91.51% [[Han Chinese|Han]]<ref name=census/>
+|{{collapsible list
+|titlestyle = background:transparent;text-align:left;font-weight:normal;font-size:100%;
+|title = [[List of ethnic groups in China|55 minorities]]{{efn|Ethnic minorities that are recognized officially.}}
+|1.30% [[Zhuang people|Zhuang]] |0.86% [[Manchu people|Man (Manchu)]] |0.79% [[Uyghur people|Uygur (Uyghur)]] |0.79% [[Hui people|Hui]] |0.72% [[Miao people|Miao]] |0.65% [[Yi people|Yi]] |0.62% [[Tujia people|Tujia]] |0.47% [[Ethnic Mongols in China|Mongol]] |0.44% [[Tibetan people|Zang (Tibetan)]] |0.26% [[Buyei]] |0.15% [[Koreans in China|Chosen (Korean)]] |1.05% others
+}}
+}}
+| demonym = Chinese
+| government_type = [[Unitary state|Unitary]] [[One-party state|one-party]] [[Socialist state|socialist]] [[republic]]<ref>{{cite web|title=Constitution of the People's Republic of China|url=http://www.npc.gov.cn/englishnpc/Constitution/2007-11/15/content_1372963.htm|publisher=The National People's Congress of the People's Republic of China|date=15 November 2007|accessdate=8 February 2015}}</ref>
+| leader_title1 = [[General Secretary of the Communist Party of China|Party General Secretary]]<br />and [[President of the People's Republic of China|President]]
+| leader_name1 = [[Xi Jinping]]{{efn|Xi Jinping holds four concurrent positions: [[General Secretary of the Communist Party of China]] (''de facto'' [[paramount leader]]), [[President of the People's Republic of China]] (''de jure'' [[head of state]]), and [[Chairman of the Central Military Commission]] ([[Commander-in-chief]]) for both state and party.<ref>[https://web.archive.org/web/20121116225447/http://rt.com/news/china-new-leader-xi-734/ "New man at helm: Xi Jinping elected to lead China"]. RT.com. 15 November 2012. Retrieved 2 January 2013.</ref>}}
+| leader_title2 = [[Premier of the People's Republic of China|Premier]]
+| leader_name2 = [[Li Keqiang]]
+| leader_title3 = {{nowrap|[[Chairman of the Standing Committee of the National People's Congress|Congress Chairman]]}}
+| leader_name3 = [[Li Zhanshu]]
+| leader_title4 = {{nowrap|[[Chairman of the National Committee of the Chinese People's Political Consultative Conference|Conference Chairman]]}}
+| leader_name4 = [[Wang Yang (politician)|Wang Yang]]
+| leader_title5 = First Secretary of the [[Secretariat of the Communist Party of China|Party Secretariat]]
+| leader_name5 = [[Wang Huning]]
+| leader_title6 = [[Secretary of the Central Commission for Discipline Inspection|Secretary of the Discipline Inspection Commission]]
+| leader_name6 = [[Zhao Leji]]
+| leader_title7 = First [[Vice Premier of the People's Republic of China|Vice Premier]]
+| leader_name7 = [[Han Zheng]]
+| leader_title8 = [[Vice President of the People's Republic of China|Vice President]]
+| leader_name8 = [[Wang Qishan]]{{efn|According to the official [[Orders of precedence in China]] (i.e. party comes first), the order of Wang would be inferior to the members of the Standing Committee of Politburo of CPC as he was not appointed office in the 19th Central Committee.}}
+| legislature = [[National People's Congress]]
+| sovereignty_type = [[History of China|Formation]]
+| established_event1 = [[Qin's wars of unification#Conquest of Qi|First imperial unification]]
+| established_date1 = 221&nbsp;{{sc|bce}}
+| established_event2 = [[Xinhai Revolution|Republic established]]
+| established_date2 = 1 January 1912
+| established_event3 = [[Chinese Civil War|People's Republic declared]]
+| established_date3 = 21 September 1949<ref name=prcfounding/><ref name=prcf2>{{citation |last=Peaslee |first=Amos J. |contribution=Data Regarding the 'People's Republic of China'|p=533|url=https://books.google.fr/books?id=9ATxCAAAQBAJ&pg=PA533|title=Constitutions of Nations, ''Vol. I, 2nd ed.'' |date=1956 |publisher=Springer |location=Dordrecht |isbn=978-94-017-7125-2}}</ref><ref name=prcf3>{{citation |last=Chaurasia |first=Radhey Shyam |contribution=Introduction |contribution-url=https://books.google.fr/books?id=D2auy-nwS5IC&pg=PA1 |p=[https://books.google.fr/books?id=D2auy-nwS5IC&pg=PA1 1] |title=History of Modern China |url=https://books.google.fr/books?id=D2auy-nwS5IC&printsec=frontcover |publisher=Atlantic |location=New Delhi |date=2004 |isbn=9788126903153 }}</ref>
+| established_event4 = [[Chinese Communist Revolution|Proclamation of the People's Republic]]
+| established_date4 = 1 October 1949
+| established_event5 = [[Constitution of China|Current constitution]]
+| established_date5 = 4 December 1982
+| established_event6 = [[Macau|Last polity]] [[Transfer of sovereignty over Macau|admitted]]
+| established_date6 = 20 December 1999
+| area_km2 = 9,596,961
+| area_footnote = {{efn|The area given is the official United Nations figure for [[Mainland China|the mainland]] and excludes [[Hong Kong]], [[Macau]] and [[Taiwan]].<ref name="UN Stat">{{cite web|url=http://unstats.un.org/unsd/demographic/products/dyb/dyb2007/Table03.pdf |title=Demographic Yearbook—Table 3: Population by sex, rate of population increase, surface area and density |publisher=UN Statistics |year=2007 |accessdate=31 July 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101224063215/http://unstats.un.org/unsd/demographic/products/dyb/dyb2007/Table03.pdf |archivedate=24 December 2010 |df= }}</ref> It also excludes the [[Trans-Karakoram Tract]] ({{convert|5800|km2|sqmi|abbr=on|disp=or|sp=us}}), [[Aksai Chin]] ({{convert|37244|km2|sqmi|abbr=on|disp=or|sp=us}}) and other territories in dispute with India. The total area of China is listed as {{convert|9572900|km2|sqmi|abbr=on|sp=us}} by the ''Encyclopædia Britannica''.<ref>{{cite web |url=http://www.britannica.com/EBchecked/topic/111803/China |title=China |work=Encyclopædia Britannica |accessdate=16 November 2012}}</ref> For further information, see [[Territorial changes of the People's Republic of China]].}}
+| area_rank = 3rd/4th
+| area_sq_mi = 3,705,407 
+| percent_water = 2.8%{{efn|This figure was calculated using data from the CIA World Factbook.<ref name=CIA/>}}
+| population_estimate = {{UN_Population|China}} {{increase}}{{UN_Population|ref}}
+| population_census = 1,339,724,852<ref name="groups"/>
+| population_estimate_year = {{UN_Population|Year}}
+| population_estimate_rank = 1st
+| population_census_year = 2010
+| population_census_rank = 1st
+| population_density_km2 = 145<ref>{{cite web|title=Population density (people per sq. km of land area)
+|url=http://data.worldbank.org/indicator/EN.POP.DNST|publisher=IMF|accessdate=16 May 2015}}</ref>
+| population_density_sq_mi = 373 
+| population_density_rank = 83rd
+| GDP_PPP = $25.238 trillion<ref name="imf.org">{{cite web |url=http://www.imf.org/external/datamapper/datasets/WEO/1 |title=IMF Data Mapper|publisher=IMF |date=April 2018}}</ref>
+| GDP_PPP_year = 2018
+| GDP_PPP_rank = 1st
+| GDP_PPP_per_capita = $18,066<ref name="imf.org"/>
+| GDP_PPP_per_capita_rank = 79th
+| GDP_nominal = $14.092 trillion<ref name="imf.org"/>
+| GDP_nominal_year = 2018
+| GDP_nominal_rank = 2nd
+| GDP_nominal_per_capita = $10,087<ref name="imf.org"/>
+| GDP_nominal_per_capita_rank = 71st
+| Gini = 46.2 
+| Gini_year = 2015
+| Gini_change = 
+| Gini_ref = <ref name=NBS2015>{{cite web|title=China's Economy Realized a Moderate but Stable and Sound Growth in 2015|url=http://www.stats.gov.cn/english/PressRelease/201601/t20160119_1306072.html|publisher=National Bureau of Statistics of China|accessdate=20 January 2016|date=19 January 2016|quote=Taking the per capita disposable income of nationwide households by income quintiles, that of the low-income group reached 5,221 yuan, the lower-middle-income group 11,894 yuan, the middle-income group 19,320 yuan, the upper-middle-income group 29,438 yuan, and the high-income group 54,544 yuan. The Gini Coefficient for national income in 2015 was 0.462.}}</ref>
+| Gini_rank = 
+| HDI = 0.738 
+| HDI_year = 2016
+| HDI_change = increase 
+| HDI_ref = <ref>{{cite web | url = http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf  | title = Human Development Report 2016: Human Development for Everyone | publisher = United Nations Development Programme | accessdate = 3 April 2017}}</ref>
+| HDI_rank = 90th
+| currency = [[Renminbi]] (yuan; ¥){{efn|The [[Hong Kong Dollar]] is used in [[Hong Kong]] and [[Macau]] while the [[Macanese pataca]] is used in Macau only.}}
+| currency_code = CNY
+| time_zone = [[China Standard Time]]
+| utc_offset = [[UTC+8|+8]]
+| date_format = {{vunblist |yyyy-mm-dd |''or'' yyyy{{lang|zh|年}}m{{lang|zh|月}}d{{lang|zh|日}} |([[Common Era|CE]]; [[Chinese calendar|CE-1949]])}}
+| drives_on = right{{efn|Except [[Hong Kong]] and [[Macau]].}}
+| calling_code = [[+86]]
+| cctld = {{vunblist| [[.cn]] |[[.中國]] |[[.中国]]}}
+| area_magnitude = 1 E12
+}}
+
 
 {{Axiya}}
 
-[[Category:Asia]]
+==Mintsaho==
+{{reflist}}
+[[Category:Axiya]]
