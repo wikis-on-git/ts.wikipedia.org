@@ -1,22 +1,18 @@
 {{translate|http://en.wikipedia.org/wiki/Mozambique}}
 
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''República de Moçambique'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag of Mozambique.svg|125px]]
-| align="center" width="140px" | [[File:EscudoMozambique.PNG|125px]]
-|-
-| align="center" width="140px" | ([[Flag of Mozambique|Mujeko]])
-| align="center" width="140px" | ([[Coat of Arms of Mozambique|Mfungo wa tiko]])
-|}
-|-
-| align="center" colspan=2 | <small>''[[National motto|Xivulwa xa tiko]]: Unidade Luta Progresso''</big>
-|-
-| align=center colspan=2 | [[File:LocationMozambique.png]]
-|}
+{{Tiko
+|name               = Riphabliki ya Muzambhiki<br>República de Moçambique
+|mujeko             = Flag of Mozambique.svg
+|coa                = EscudoMozambique.PNG
+|image              = [[File:LocationMozambique.png|190px]]
+|Ntsindza           = Maputo
+|official_languages = 
+|area               = 799 380
+|population         = 24 692 144
+|year               = 
+|density            = 28,7
+}}
+
 '''Muzambhiki''' i tiko leri kumeka e dzonga-vuxa bya [[Afrika]]. [[Xitsonga]] i rinwani ra ntindzimi ta le tikweni ra Muzambhiki.
 
 {{Afrika}}
