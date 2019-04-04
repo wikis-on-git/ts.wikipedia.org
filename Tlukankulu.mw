@@ -1,5 +1,8 @@
-{{DISPLAYTITLE:<span style="position: absolute; clip: rect(1px 1px 1px 1px); clip: rect(1px, 1px, 1px, 1px);">{{FULLPAGENAME}}</span>}}
-<!------------"Welcome to Wikipedia" and article count---------->
+<!-------------------------------Banner across top of page------------------------------>
+{| style="width:100%; background:#fcfcfc; margin-top:1.2em; border:1px solid #ccc;"
+|style="width:56%; color:#000"| <!-- 
+
+----------"Welcome to Wikipedia" and article count---------->
 {| style="width:400px; border:solid 0px; background:none;"
 |style="width:400px; text-align:center; white-space:nowrap; color:#000;"|
 <div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Ha ku hoyozela e ka [[Wikipediya]] leyi,</div>
@@ -34,7 +37,7 @@ searchbuttonlabel=Search
 {|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
 |style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[Wikipedia:About|Nkomiso]]&nbsp;'''·''' [[Wikipedia:Tutorial|Ku lulamisa]]&nbsp;'''·''' [[Wikipedia:Questions|Swivutiso]]&nbsp;'''·''' [[Help:Contents|Mpfuno]]
 |style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
-[[Portal:Contents|Leswi nga ndzeni]]&nbsp;'''·''' [[Wikipedia:Featured_articles|Matluka lama thlomiweke tinsiva]]&nbsp;'''·''' [[Portal:Contents/Quick index|Xikombandlela A–Z]]
+[[Portal:Contents|Leswi nga ndzeni]]&nbsp;'''·''' [[Portal:Contents|Mitlawa]]&nbsp;'''·''' [[Portal:Featured content|Swinavetiso]]&nbsp;'''·''' [[Portal:Contents/Quick index|Xikombandlela A–Z]]
 |}{{Main Page banner}}
 
 {| width=100% cellpadding="0" cellspacing="0" valign="top" style="background:#F1FAFF;"
@@ -79,13 +82,9 @@ searchbuttonlabel=Search
 | style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Vital-Stats}}</div>
 |}
 |}
-</tr> 	
-</table> 	
-</td>
-</tr>
-</table>
-<!--      SECTIONS AT BOTTOM OF PAGE        -->
-<div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#ddcef2; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipedia-Africa}}</div>
+
+
+<!--      SECTIONS AT BOTTOM OF PAGE        --><div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#ddcef2; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipedia-Africa}}</div>
 <div id="mpbanner" style="text-align:center; font-size:100%;width: 100%; background-color:#E3E4FA; padding: .2em 0; border: 1px solid #BFB1A3; color: #000; margin-top:+.2em;font-family:verdana,arial,helvetica">{{Wikipediasister}}</div>
 <!--        INTERWIKI STRAPLINE TO BE ADDED AT A LATER STAGE       -->
 <noinclude>[[Category:Article Feedback Blacklist|Mbuyelo wa matsalwa]] </noinclude>__NOTOC____NOEDITSECTION__
