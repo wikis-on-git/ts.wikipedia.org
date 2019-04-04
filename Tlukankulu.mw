@@ -1,3 +1,5 @@
+<!-------------------------------Hiding main page title------------------------------>
+{{DISPLAYTITLE:<span style="position: absolute; clip: rect(1px 1px 1px 1px); clip: rect(1px, 1px, 1px, 1px);">{{FULLPAGENAME}}</span>}}
 <!-------------------------------Banner across top of page------------------------------>
 {| style="width:100%; background:#fcfcfc; margin-top:1.2em; border:1px solid #ccc;"
 |style="width:56%; color:#000"| <!-- 
