@@ -14,7 +14,7 @@
 type=create
 width=40
 break=no
-bgcolor=#f0f0f0
+bgcolor=none
 buttonlabel=Tumbuluxa tluka rintswa 
 searchbuttonlabel=Search
 </inputbox><!-- 
