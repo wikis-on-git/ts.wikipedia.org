@@ -1,10 +1,17 @@
 
-{{Infobox medical condition|name=Coronavirus disease 2019 (COVID-19)|cause=[[Severe acute respiratory syndrome coronavirus 2]] (SARS-CoV-2)|frequency={{Cases in the COVID-19 pandemic|confirmed|editlink=|ref=yes}} confirmed cases|prognosis=|medication=|treatment=[[Symptomatic treatment|Symptomatic]] and [[supportive treatment|supportive]]|prevention=[[Hand washing]], face coverings, [[quarantine]], [[social distancing]]<ref name=Quar2020>{{cite journal | vauthors = Nussbaumer-Streit B, Mayr V, Dobrescu AI, Chapman A, Persad E, Klerings I, Wagner G, Siebert U, Christof C, Zachariah C, Gartlehner G | display-authors = 6 | title = Quarantine alone or in combination with other public health measures to control COVID-19: a rapid review | journal = The Cochrane Database of Systematic Reviews | volume = 4 | pages = CD013574 | date = April 2020 | pmid = 32267544 | pmc = 7141753 | doi = 10.1002/14651858.CD013574 }}</ref>|differential=|diagnosis=[[Reverse transcription polymerase chain reaction|rRT-PCR testing]], [[CT scan]]|risks=Travel, viral exposure|types=|synonyms=* Coronavirus
-* Corona
-* COVID
-* 2019-nCoV acute respiratory disease
-* Novel coronavirus pneumonia<ref name="chinamortality" /><ref>{{cite journal | vauthors = Han X, Cao Y, Jiang N, Chen Y, Alwalid O, Zhang X, Gu J, Dai M, Liu J, Zhu W, Zheng C, Shi H | display-authors = 6 | title = Novel Coronavirus Pneumonia (COVID-19) Progression Course in 17 Discharged Patients: Comparison of Clinical and Thin-Section CT Features During Recovery | journal = Clinical Infectious Diseases | date = March 2020 | pmid = 32227091 | pmc = 7184369 | doi = 10.1093/cid/ciaa271 | doi-access = free }}</ref>
-* Severe pneumonia with novel pathogens<ref>{{cite web |title=Special Act for Prevention, Relief and Revitalization Measures for Severe Pneumonia with Novel Pathogens - Article Content - Laws & Regulations Database of The Republic of China |url=https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=L0050039 |website=law.moj.gov.tw |access-date=10 May 2020}}</ref>|duration=|onset=2–14 days (typically 5) from infection|complications=[[Viral pneumonia|Pneumonia]], [[viral sepsis]], [[acute respiratory distress syndrome]], [[Acute kidney injury|kidney failure]], [[cytokine release syndrome]]|symptoms=Fever, cough, fatigue, shortness of breath, loss of smell; sometimes no symptoms at all<ref name="CDC Interim Guidance" /><ref name=CDC2020Sym/><ref name="WHO2020QA" />|specialty=[[Infectious disease (medical specialty)|Infectious disease]]|caption=Symptoms of COVID-19|image=Symptoms of coronavirus disease 2019 4.0.svg|pronounce={{ubl|{{IPAc-en|k|ə|ˈ|r|oʊ|n|ə|ˌ|v|aɪ|r|ə|s|_|d|ɪ|ˈ|z|i:|z}}|{{IPAc-en|ˌ|k|oʊ|v|ɪ|d|n|aɪ|n|ˈ|t|iː|n|,_|ˌ|k|ɒ|v|ɪ|d|-}}<ref>{{cite web|url=https://oed.com/view/Entry/88575495|title=Covid-19, n.|website=[[Oxford English Dictionary]]|access-date=15 April 2020}}</ref>}}|deaths={{Cases in the COVID-19 pandemic|deaths|editlink=|ref=no}} ({{Cases in the COVID-19 pandemic|ratio|editlink=|ref=no}} of confirmed cases){{Cases in the COVID-19 pandemic|ref=yes}}}}'''Vuvabyi bya Khorona bya 2019''' ('''COVID-19''') i vuvabyi lebyi tlulelanaka lebyi vangiwaka hi xitsongwatsongwana xa Khorona xa muxaka wa vumbirhi lexi hlaselaka swirho swo hefemula (Hi ku komisa SARS-CoV-2). vuvabyi lebyi byi tsumburiwe ro sungula hi N'wendzamhala wa n'wexemo 2019, e dorobheni ra Wuhan, e Chayina, naswona byi hangalake na misava, leswi vangeke ntungu lowu nga kona. Hi 23 Mudyaxihi 2020, timhangu to tlula 5.23<nowiki>&</nowiki>nbsp;wa timilliyoni ti vikiwile hi matiko ya188, kuhlanganisa na ntsengo wo hundza 338,000 wa vanhu lava dlaweke hi vuvabyi lebyi. Hambiswiritano, ntsengo wa lava hanyeke endzhaku ko khomiwa hi vuvavbyi lebyi wu le henhla ka 2.07 wa timilliyoni.[9]
+{{infobox disease
+| name           = Xitsongwatsongwana xa Vuvabyi bya Khorona bya 2019
+| image          = File:Symptoms of coronavirus disease 2019 4.0.svg
+| caption        = Xifaniso xa swikombiso swa vuvabyi bya Khorona ya 2019
+| DiseasesDB     = 60833
+| ICD10          = 
+| ICD9           = 
+| MedlinePlus    = 
+| eMedicineSubj  = 
+| eMedicineTopic = 
+| MeshID         = C000657245
+}}
+'''Vuvabyi bya Khorona bya 2019''' ('''COVID-19''') i vuvabyi lebyi tlulelanaka lebyi vangiwaka hi xitsongwatsongwana xa Khorona xa muxaka wa vumbirhi lexi hlaselaka swirho swo hefemula (Hi ku komisa SARS-CoV-2). vuvabyi lebyi byi tsumburiwe ro sungula hi N'wendzamhala wa n'wexemo 2019, e dorobheni ra Wuhan, e Chayina, naswona byi hangalake na misava, leswi vangeke ntungu lowu nga kona. Hi 23 Mudyaxihi 2020, timhangu to tlula 5.23<nowiki>&</nowiki>nbsp;wa timilliyoni ti vikiwile hi matiko ya188, kuhlanganisa na ntsengo wo hundza 338,000 wa vanhu lava dlaweke hi vuvabyi lebyi. Hambiswiritano, ntsengo wa lava hanyeke endzhaku ko khomiwa hi vuvavbyi lebyi wu le henhla ka 2.07 wa timilliyoni.[9]
 
 Swikombiso leswi tolovelekeke swa vuvabyi  lebyi swi hlanganisa na dari, khohlokhohlo, kukarhala, ku heleriwa hi moya, na kulahlekeriwa hi vuswikoti  byo nuhwela na ku nantswela. Vutalo bya vanhu lava tluleriweke hi vuvabyi lebyi vava na swikombiso swi tsanana, van'wana va weriwa hi nhlaselo wa swirho swo hefemula lowu vangelaka masocha ya miri leswaku mahlasela mahahu, kufa ka swirho swin'wana swa miri, kutiyelela ka ngati. Nkarhi kusukela ka kutluleriwa hi vuvabyi kufikela loko swikombiso swa vuvabyi swi vonakala, i kwalomu ka masiku ya nthlanu, naswona wu nga va e xikarhi ka masiku mambirhi kuya eka mavhiki mambhiri.
 
@@ -13,6 +20,7 @@ Xitsongwatsongwana lexi xi tlulelana exikarhi ka vanhu lava nge kusuhi na kusuhi
 Hi kuya hi nhlangano wa Misava wa Swarihanyo (WHO), ku hava nsawuto wa vuvabyi lebyi. Hi siku ra 1 Mudyaxihi 2020, tiko ra Amerikha ri nyike mpfumelelo wa xihatla wo nyika vavabyi lava tikiriwaka murhi wa remdesivir . Vu ongori byi hlanganisa na ku tshungula swikombiso, nkatalelo na vuongori, ku papalata vanhu, na vutshunguri byo ringeta. Nhlangano wa Misava wa Swarihanyo wu tivise vuvabyi bya COVID‑19, kuri mhangu ya xihantla ya misava hi 30 Sunguti 2020 naswona wuthlela wu tivisa vuvabyi lebyi byiri ntungu hi 11 Nyenyankulu 2020. Ntungu lowu wu hangalake eka matiko yo tala e swi fundzeni hinkaswo swa ntsevu swa nhlangano wa Misava wa Swarihanyo.
 
 == Mintshaho ==
+{{reflist|3}}
 
 == Minkombo ya le handle ==
 
